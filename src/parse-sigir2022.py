@@ -51,7 +51,7 @@ def main():
                 [r.text for r in line.find_all('p')])
 
     if info:
-        info_list.append(info)
+        info_list = append_paper(info_list, info, session_name)
         info = {}
 
     df = pd.DataFrame(info_list)
