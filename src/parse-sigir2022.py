@@ -16,7 +16,7 @@ def append_paper(paper_list, paper, session_name):
 
 def main():
     url = 'https://sigir.org/sigir2022/program/proceedings/'
-    print('Requesting data from {}...'.format(url))
+    print('Requesting data... (from {})'.format(url))
 
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     print('Reading data...')
