@@ -1,6 +1,8 @@
 """
 script of parsing the paper list of SIGIR 2022 from https://sigir.org/sigir2022/program/proceedings/
 """
+from urllib.request import Request, urlopen
+
 import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import trange
@@ -13,9 +15,15 @@ def append_paper(paper_list, paper, session_name):
 
 
 def main():
-    with open('raw-page/sigir2022.html', 'r', encoding='utf-8') as f:
-        soup = BeautifulSoup(f, 'html.parser')
+    url = 'https://sigir.org/sigir2022/program/proceedings/...'
+    print('Requesting data from {}'.format(url))
 
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    print('Reading data...')
+    html_page = urlopen(req).read()
+
+    print('Parsing data...')
+    soup = BeautifulSoup(html_page, 'html.parser')
     all_papers = soup.find(id='DLcontent')
 
     info_list = []
