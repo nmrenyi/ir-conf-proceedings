@@ -1,4 +1,6 @@
 *.html
+*.tmp
+src/*.tsv
 
 # macOS
 .DS_Store
