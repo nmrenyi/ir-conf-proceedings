@@ -45,7 +45,7 @@ def main():
             info['title'] = line.text
             info['url'] = line.find('a').get('href')
         elif line.name == 'ul':
-            info['authors'] = line.find('li').text
+            info['authors'] = ', '.join([r.text for r in line.find_all('li')])
         elif line.name == 'div':
             info['abstract'] = '\n\n'.join(
                 [r.text for r in line.find_all('p')])
