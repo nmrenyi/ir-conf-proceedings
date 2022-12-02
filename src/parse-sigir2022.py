@@ -3,6 +3,7 @@ script of parsing the paper list of SIGIR 2022 from https://sigir.org/sigir2022/
 """
 import pandas as pd
 from bs4 import BeautifulSoup
+from tqdm import trange
 
 
 def append_paper(paper_list, paper):
@@ -19,7 +20,7 @@ info_list = []
 info = {}
 session_name = ''
 
-for i in range(len(all_papers)):
+for i in trange(len(all_papers)):
     line = all_papers.contents[i]
     if line.name == 'h2':
         if info:
@@ -28,11 +29,9 @@ for i in range(len(all_papers)):
             info = {}
             session_name = ''
         session_name = line.text
-        print(session_name)
     elif line.name == 'h3':
         if info:
             info['session'] = session_name
-            print(info['session'], info['title'], info['authors'])
             info_list = append_paper(info_list, info)
             info = {}
         info['title'] = line.text
