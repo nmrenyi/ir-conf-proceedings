@@ -6,7 +6,8 @@ from bs4 import BeautifulSoup
 from tqdm import trange
 
 
-def append_paper(paper_list, paper):
+def append_paper(paper_list, paper, session_name):
+    paper['session'] = session_name
     paper_list.append(paper)
     return paper_list
 
@@ -24,15 +25,13 @@ for i in trange(len(all_papers)):
     line = all_papers.contents[i]
     if line.name == 'h2':
         if info:
-            info['session'] = session_name
-            info_list = append_paper(info_list, info)
+            info_list = append_paper(info_list, info, session_name)
             info = {}
             session_name = ''
         session_name = line.text
     elif line.name == 'h3':
         if info:
-            info['session'] = session_name
-            info_list = append_paper(info_list, info)
+            info_list = append_paper(info_list, info, session_name)
             info = {}
         info['title'] = line.text
         info['url'] = line.find('a').get('href')
