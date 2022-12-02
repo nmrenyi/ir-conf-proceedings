@@ -54,12 +54,21 @@ def main():
         info_list = append_paper(info_list, info, session_name)
         info = {}
 
-    df = pd.DataFrame(info_list)
+    df = pd.DataFrame(info_list)[
+        ['title', 'authors', 'session', 'url', 'abstract']]
     print(df.info())
 
-    output_path = '../data/sigir2022.tsv'
-    df[['title', 'authors', 'session', 'url', 'abstract']].to_csv(
-        output_path, sep='\t', index=False)
+    output_file = '../data/sigir2022'
+    file_type = 'md'
+    output_path = '{}.{}'.format(output_file, file_type)
+
+    if file_type == 'csv':
+        df.to_csv(output_path, sep='\t', index=False)
+    elif file_type == 'md':
+        with open(output_path, 'w') as f:
+            f.write(df.to_markdown(index=False))
+    else:
+        raise ValueError('Unsupported file type: {}'.format(file_type))
     print('output saved to {}'.format(output_path))
 
 
