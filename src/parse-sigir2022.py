@@ -57,7 +57,7 @@ def main():
     df = pd.DataFrame(info_list)
     print(df.info())
 
-    output_path = 'sigir2022.tsv'
+    output_path = '../data/sigir2022.tsv'
     df[['title', 'authors', 'session', 'url', 'abstract']].to_csv(
         output_path, sep='\t', index=False)
     print('output saved to {}'.format(output_path))
