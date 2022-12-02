@@ -13,7 +13,6 @@ info_list = []
 info = {}
 for i in range(len(all_papers)):
     line = all_papers.contents[i]
-    # print(line.name, line)
     session_name = ''
     if line.name == 'h2':
         info['session'] = line.text
