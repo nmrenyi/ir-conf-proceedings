@@ -59,10 +59,10 @@ def main():
     print(df.info())
 
     output_file = '../data/sigir2022'
-    file_type = 'md'
+    file_type = 'tsv'
     output_path = '{}.{}'.format(output_file, file_type)
 
-    if file_type == 'csv':
+    if file_type == 'tsv':
         df.to_csv(output_path, sep='\t', index=False)
     elif file_type == 'md':
         with open(output_path, 'w') as f:
