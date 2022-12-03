@@ -18,7 +18,15 @@ def parse_track(track):
         for name in names.find_all('li'):
             authors.append(name.text)
         author_list.append(authors)
-    return []
+    abstract_list = []
+    for abstract_paras in track.findAll('div', {'class': 'DLabstract'}):
+        abstract = []
+        for para in abstract_paras:
+            abstract.append(para.text)
+        abstract_list.append(abstract)
+    assert (len(title_list) == len(url_list) ==
+            len(author_list) == len(abstract_list))
+    return [{'title': title_list[i], 'authors': author_list[i], 'session': track_name, 'abstract': abstract_list[i], 'url': url_list[i]} for i in range(len(title_list))]
 
 
 def parse_proceeding(proceeding):
