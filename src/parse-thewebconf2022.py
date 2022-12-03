@@ -9,7 +9,6 @@ from bs4 import BeautifulSoup
 
 def parse_track(track):
     track_name = track.find('summary').text
-    track_list = []
     title_list = [x.text for x in track.find_all('a')]
     url_list = [x.get('href') for x in track.find_all('a')]
     author_list = []
