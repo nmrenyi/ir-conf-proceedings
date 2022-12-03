@@ -8,7 +8,8 @@ from bs4 import BeautifulSoup
 
 
 def parse_track(track):
-    pass
+    track_name = track.find('summary').text
+    return []
 
 
 def parse_proceeding(proceeding):
