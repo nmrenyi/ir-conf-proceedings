@@ -16,7 +16,7 @@ def parse_track(track):
         authors = []
         for name in names.find_all('li'):
             authors.append(name.text)
-        author_list.append(authors)
+        author_list.append(', '.join(authors))
     abstract_list = []
     for abstract_paras in track.findAll('div', {'class': 'DLabstract'}):
         abstract = []
