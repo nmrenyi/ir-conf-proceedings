@@ -1,6 +1,5 @@
 *.html
 *.tmp
-*.md
 src/*.tsv
 
 # macOS
