@@ -6,7 +6,7 @@ import argparse
 import pandas as pd
 from bs4 import BeautifulSoup
 
-from utils import parse_html, save_file
+from utils import parse_args, parse_html, save_file
 
 
 def parse_track(track):
@@ -42,10 +42,7 @@ def main():
     proceeding = parse_html(
         url='https://www2022.thewebconf.org/main-proceedings/', target_id='DLcontent')
 
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--type', type=str, default='tsv',
-                        help='output file type (default: tsv, options: tsv, md)')
-    args = parser.parse_args()
+    args = parse_args()
 
     info_list = parse_proceeding(proceeding)
     df = pd.DataFrame(info_list)[
