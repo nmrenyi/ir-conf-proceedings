@@ -6,7 +6,7 @@ import argparse
 import pandas as pd
 from bs4 import BeautifulSoup
 
-from utils import save_file
+from utils import parse_html, save_file
 
 
 def parse_track(track):
@@ -39,11 +39,8 @@ def parse_proceeding(proceeding):
 
 
 def main():
-    with open('www2022.html', 'r') as f:
-        html_page = f.read()
-    soup = BeautifulSoup(html_page, 'html.parser')
-
-    proceeding = soup.find(id='DLcontent')
+    proceeding = parse_html(
+        url='https://www2022.thewebconf.org/main-proceedings/', target_id='DLcontent')
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--type', type=str, default='tsv',
