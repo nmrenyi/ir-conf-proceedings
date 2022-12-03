@@ -7,9 +7,16 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 
+def parse_track(track):
+    pass
+
+
 def parse_proceeding(proceeding):
+    info_list = []
     for track in proceeding.find_all('details'):
-        pass
+        track_list = parse_track(track)
+        info_list.extend(track_list)
+    return info_list
 
 
 def main():
