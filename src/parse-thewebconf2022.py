@@ -9,8 +9,9 @@ def main():
         html_page = f.read()
     soup = BeautifulSoup(html_page, 'html.parser')
 
-    papers = soup.find(id='DLcontent')
-    print(papers)
+    proceeding = soup.find(id='DLcontent')
+    for track in proceeding.find_all('details'):
+        pass
 
 
 if __name__ == '__main__':
