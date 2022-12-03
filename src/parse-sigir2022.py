@@ -1,6 +1,7 @@
 """
 script of parsing the paper list of SIGIR 2022 from https://sigir.org/sigir2022/program/proceedings/
 """
+import argparse
 from urllib.request import Request, urlopen
 
 import pandas as pd
@@ -70,7 +71,8 @@ def main():
         df.to_csv(output_path, sep='\t', index=False)
     elif file_type == 'md':
         with open(output_path, 'w') as f:
-            f.write(df.to_markdown(index=False))
+            f.write(df[['title', 'authors', 'session', 'abstract', 'url']].to_markdown(
+                index=False).replace('   ', ''))  # remove redundant whitespace to shrink the file size
     else:
         raise ValueError('Unsupported file type: {}'.format(file_type))
     print('output saved to {}'.format(output_path))
