@@ -1,6 +1,14 @@
+import argparse
 from urllib.request import Request, urlopen
 
 from bs4 import BeautifulSoup
+
+
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--type', type=str, default='tsv',
+                        help='output file type (default: tsv, options: tsv, md)')
+    return parser.parse_args()
 
 
 def parse_html(url, target_id):
