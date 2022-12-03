@@ -63,9 +63,8 @@ def main():
         ['title', 'authors', 'session', 'url', 'abstract']]
     print(df.info())
 
-    output_file = '../data/sigir2022'
     file_type = args.type
-    output_path = '{}.{}'.format(output_file, file_type)
+    output_path = '../data/{0}/sigir2022.{0}'.format(file_type)
 
     if file_type == 'tsv':
         df.to_csv(output_path, sep='\t', index=False)
