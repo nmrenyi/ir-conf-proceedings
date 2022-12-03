@@ -12,6 +12,12 @@ def parse_track(track):
     track_list = []
     title_list = [x.text for x in track.find_all('a')]
     url_list = [x.get('href') for x in track.find_all('a')]
+    author_list = []
+    for names in track.find_all('ul'):
+        authors = []
+        for name in names.find_all('li'):
+            authors.append(name.text)
+        author_list.append(authors)
     return []
 
 
