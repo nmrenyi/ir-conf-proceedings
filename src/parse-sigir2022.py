@@ -25,6 +25,11 @@ def main():
     soup = BeautifulSoup(html_page, 'html.parser')
     all_papers = soup.find(id='DLcontent')
 
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--type', type=str, default='tsv',
+                        help='output file type (default: tsv, options: tsv, md)')
+    args = parser.parse_args()
+
     info_list = []
     info = {}
     session_name = ''
@@ -58,7 +63,7 @@ def main():
     print(df.info())
 
     output_file = '../data/sigir2022'
-    file_type = 'tsv'
+    file_type = args.type
     output_path = '{}.{}'.format(output_file, file_type)
 
     if file_type == 'tsv':
