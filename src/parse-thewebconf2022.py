@@ -49,22 +49,22 @@ def main():
     args = parser.parse_args()
 
     info_list = parse_proceeding(proceeding)
-    # df = pd.DataFrame(info_list)[
-    #     ['title', 'authors', 'session', 'url', 'abstract']]
-    # print(df.info())
+    df = pd.DataFrame(info_list)[
+        ['title', 'authors', 'session', 'url', 'abstract']]
+    print(df.info())
 
-    # file_type = args.type
-    # output_path = '../data/{0}/thewebconf2022.{0}'.format(file_type)
+    file_type = args.type
+    output_path = '../data/{0}/thewebconf2022.{0}'.format(file_type)
 
-    # if file_type == 'tsv':
-    #     df.to_csv(output_path, sep='\t', index=False)
-    # elif file_type == 'md':
-    #     with open(output_path, 'w') as f:
-    #         f.write(df[['title', 'authors', 'session', 'abstract', 'url']].to_markdown(
-    #             index=False).replace('   ', ''))  # remove redundant whitespace to shrink the file size
-    # else:
-    #     raise ValueError('Unsupported file type: {}'.format(file_type))
-    # print('output saved to {}'.format(output_path))
+    if file_type == 'tsv':
+        df.to_csv(output_path, sep='\t', index=False)
+    elif file_type == 'md':
+        with open(output_path, 'w') as f:
+            f.write(df[['title', 'authors', 'session', 'abstract', 'url']].to_markdown(
+                index=False).replace('   ', ''))  # remove redundant whitespace to shrink the file size
+    else:
+        raise ValueError('Unsupported file type: {}'.format(file_type))
+    print('output saved to {}'.format(output_path))
 
 
 if __name__ == '__main__':
