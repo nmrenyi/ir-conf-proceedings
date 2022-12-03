@@ -6,6 +6,8 @@ import argparse
 import pandas as pd
 from bs4 import BeautifulSoup
 
+from utils import save_file
+
 
 def parse_track(track):
     track_name = track.find('summary').text
@@ -56,15 +58,7 @@ def main():
     file_type = args.type
     output_path = '../data/{0}/thewebconf2022.{0}'.format(file_type)
 
-    if file_type == 'tsv':
-        df.to_csv(output_path, sep='\t', index=False)
-    elif file_type == 'md':
-        with open(output_path, 'w') as f:
-            f.write(df[['title', 'authors', 'session', 'abstract', 'url']].to_markdown(
-                index=False).replace('   ', ''))  # remove redundant whitespace to shrink the file size
-    else:
-        raise ValueError('Unsupported file type: {}'.format(file_type))
-    print('output saved to {}'.format(output_path))
+    save_file(df, output_path, file_type)
 
 
 if __name__ == '__main__':
