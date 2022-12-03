@@ -1,10 +1,14 @@
 """
 script of parsing the paper list of theWebConf 2022 from https://www2022.thewebconf.org/main-proceedings/
 """
+from bs4 import BeautifulSoup
 
 
 def main():
-    pass
+    with open('www2022.html', 'r') as f:
+        html_page = f.read()
+    soup = BeautifulSoup(html_page, 'html.parser')
+    print(soup.prettify())
 
 
 if __name__ == '__main__':
