@@ -8,7 +8,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from tqdm import trange
 
-from utils import parse_html, save_file
+from utils import parse_args, parse_html, save_file
 
 
 def append_paper(paper_list, paper, session_name):
@@ -21,10 +21,7 @@ def main():
     all_papers = parse_html(
         url='https://sigir.org/sigir2022/program/proceedings/', target_id='DLcontent')
 
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--type', type=str, default='tsv',
-                        help='output file type (default: tsv, options: tsv, md)')
-    args = parser.parse_args()
+    args = parse_args()
 
     info_list = []
     info = {}
