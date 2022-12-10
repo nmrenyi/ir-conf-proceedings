@@ -114,7 +114,7 @@ def main():
     print('\n'.join([f'{p[0]}{p[1]}' for p in proceedings]))
     tasks = tqdm(proceedings)
     for conf, year in tasks:
-        tasks.set_description(f'Processing {conf} {year}...')
+        tasks.set_description(f'Processing {conf} {year}')
         tasks.refresh()  # to show immediately the update
         page = get_page(conf, year)
         paper_list = parse_page(page)
