@@ -2,6 +2,8 @@
 script of parsing paper list from dblp
 """
 
+import pandas as pd
+
 
 def parse_args():
     pass
