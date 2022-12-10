@@ -5,6 +5,7 @@ script of parsing paper list from dblp
 import argparse
 
 import pandas as pd
+from bs4 import BeautifulSoup
 
 
 def parse_args():
@@ -33,6 +34,15 @@ def parse_page(page):
     """
     parse HTML page to get the paper list
     """
+    soup = BeautifulSoup(page, 'html.parser')
+    paper_list = []
+    headers = soup.find_all('h2')
+    # the first element is `Refine list`, which is not a session title
+    headers.pop(0)
+
+    for id, header in enumerate(headers):
+        print(id, header.text.replace('\n', ' '))
+
     pass
 
 
