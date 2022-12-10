@@ -51,9 +51,12 @@ def parse_page(page):
             title = paper_meta.find('cite').find('span', class_='title').text
             authors = [author.text for author in paper_meta.find('cite').find_all(
                 'span', itemprop='author')]
+            url = paper_meta.find('nav', class_='publ').find(
+                'li').find('a').get('href')
             session_list.append({
                 'title': title,
-                'authors': authors
+                'authors': authors,
+                'url': url
             })
         meta_list.append(session_list)
     assert (len(meta_list) == len(headers))
