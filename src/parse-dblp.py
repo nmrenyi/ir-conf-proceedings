@@ -3,11 +3,14 @@ script of parsing paper list from dblp
 """
 
 import argparse
+import itertools
 import os
+from time import sleep
 from urllib.request import Request, urlopen
 
 import pandas as pd
 from bs4 import BeautifulSoup
+from tqdm import tqdm
 
 
 def parse_args():
@@ -33,7 +36,7 @@ def get_page(conf, year):
     # with open('./dblp/dblp-sigir-2022.html', 'r') as f:
     #     return f.read()
     url = f'https://dblp.org/db/conf/{conf}/{conf}{year}.html'
-    print(f'Requesting data... (from {url})')
+    # print(f'Requesting data... (from {url})')
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     html_page = urlopen(req).read()
     return html_page
@@ -84,7 +87,7 @@ def save_file(df, output_dir, file_type, conf, year):
         output_path = os.path.join(
             output_dir, 'tsv', f'{conf}{year}.tsv')
         df.to_csv(output_path, sep='\t', index=False)
-        print(f'tsv output saved to {output_path}')
+        # print(f'tsv output saved to {output_path}')
 
     if 'md' in file_type:
         output_path = os.path.join(
@@ -92,7 +95,7 @@ def save_file(df, output_dir, file_type, conf, year):
         with open(output_path, 'w') as f:
             # remove redundant whitespace to shrink the file size
             f.write(df.to_markdown(index=False).replace('   ', ''))
-        print(f'md output saved to {output_path}')
+        # print(f'md output saved to {output_path}')
 
 
 def get_dataframe(paper_list):
@@ -106,12 +109,18 @@ def main():
     args = parse_args()
     print(
         f'confs: {args.conf}, years: {args.year}, output_dir: {args.output_dir}')
-    for conf in args.conf:
-        for year in args.year:
-            page = get_page(conf, year)
-            paper_list = parse_page(page)
-            df = get_dataframe(paper_list)
-            save_file(df, args.output_dir, args.type, conf, year)
+    proceedings = [proceeding for proceeding in itertools.product(
+        args.conf, args.year)]
+    print(f'{len(proceedings)} proceedings to be processed:')
+    print('\n'.join([f'{p[0]}{p[1]}' for p in proceedings]))
+    tasks = tqdm(proceedings)
+    for conf, year in tasks:
+        tasks.set_description(f'Processing {conf} {year}...')
+        tasks.refresh()  # to show immediately the update
+        page = get_page(conf, year)
+        paper_list = parse_page(page)
+        df = get_dataframe(paper_list)
+        save_file(df, args.output_dir, args.type, conf, year)
 
 
 if __name__ == '__main__':
