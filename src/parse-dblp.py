@@ -3,6 +3,7 @@ script of parsing paper list from dblp
 """
 
 import argparse
+import os
 from urllib.request import Request, urlopen
 
 import pandas as pd
@@ -20,8 +21,8 @@ def parse_args():
                         help='year for the conference')
     parser.add_argument('--type', type=str, default='tsv',
                         help='output file type (default: tsv, options: tsv, md)')
-    parser.add_argument('--output_path', type=str,
-                        default='../data/tsv/dblp-sigir-2022.tsv', help='output path')
+    parser.add_argument('--output_dir', type=str,
+                        default='../data/', help='output directory')
     return parser.parse_args()
 
 
@@ -75,16 +76,18 @@ def parse_page(page):
     return paper_list
 
 
-def save_file(df, output_path, file_type):
+def save_file(df, output_dir, file_type, conf, year):
     """
     save the DataFrame containing information of papers to a file
     """
+    output_path = os.path.join(
+        output_dir, f'{file_type}', f'{conf}{year}.{file_type}')
     if file_type == 'tsv':
         df.to_csv(output_path, sep='\t', index=False)
     elif file_type == 'md':
         with open(output_path, 'w') as f:
-            f.write(df[['title', 'authors', 'session', 'abstract', 'url']].to_markdown(
-                index=False).replace('   ', ''))  # remove redundant whitespace to shrink the file size
+            # remove redundant whitespace to shrink the file size
+            f.write(df.to_markdown(index=False).replace('   ', ''))
     else:
         raise ValueError('Unsupported file type: {}'.format(file_type))
     print('output saved to {}'.format(output_path))
@@ -102,7 +105,7 @@ def main():
     page = get_page(args.conf, args.year)
     paper_list = parse_page(page)
     df = get_dataframe(paper_list)
-    save_file(df, args.output_path, args.type)
+    save_file(df, args.output_dir, args.type, args.conf, args.year)
 
 
 if __name__ == '__main__':
