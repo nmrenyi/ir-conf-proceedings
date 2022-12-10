@@ -55,7 +55,7 @@ def parse_page(page):
                 'li').find('a').get('href')
             session_list.append({
                 'title': title,
-                'authors': authors,
+                'authors': ', '.join(authors),
                 'url': url
             })
         meta_list.append(session_list)
