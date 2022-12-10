@@ -80,17 +80,19 @@ def save_file(df, output_dir, file_type, conf, year):
     """
     save the DataFrame containing information of papers to a file
     """
-    output_path = os.path.join(
-        output_dir, f'{file_type}', f'{conf}{year}.{file_type}')
-    if file_type == 'tsv':
+    if 'tsv' in file_type:
+        output_path = os.path.join(
+            output_dir, 'tsv', f'{conf}{year}.tsv')
         df.to_csv(output_path, sep='\t', index=False)
-    elif file_type == 'md':
+        print(f'tsv output saved to {output_path}')
+
+    if 'md' in file_type:
+        output_path = os.path.join(
+            output_dir, 'md', f'{conf}{year}.md')
         with open(output_path, 'w') as f:
             # remove redundant whitespace to shrink the file size
             f.write(df.to_markdown(index=False).replace('   ', ''))
-    else:
-        raise ValueError('Unsupported file type: {}'.format(file_type))
-    print('output saved to {}'.format(output_path))
+        print(f'md output saved to {output_path}')
 
 
 def get_dataframe(paper_list):
@@ -102,11 +104,14 @@ def get_dataframe(paper_list):
 
 def main():
     args = parse_args()
-    print(f'{args.conf=}', f'{args.year=}, {args.type=}, {args.output_dir=}')
-    page = get_page(args.conf, args.year)
-    paper_list = parse_page(page)
-    df = get_dataframe(paper_list)
-    save_file(df, args.output_dir, args.type, args.conf, args.year)
+    print(
+        f'confs: {args.conf}, years: {args.year}, output_dir: {args.output_dir}')
+    for conf in args.conf:
+        for year in args.year:
+            page = get_page(conf, year)
+            paper_list = parse_page(page)
+            df = get_dataframe(paper_list)
+            save_file(df, args.output_dir, args.type, conf, year)
 
 
 if __name__ == '__main__':
