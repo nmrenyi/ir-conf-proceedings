@@ -10,7 +10,8 @@ def parse_args():
 
 
 def get_page(src):
-    pass
+    with open('./dblp/dblp-sigir-2022.html', 'r') as f:
+        return f.read()
 
 
 def parse_page(page):
