@@ -41,6 +41,9 @@ def save_file(df, output_path, file_type):
 
 
 def get_dataframe(paper_list):
+    """
+    convert the paper list to a DataFrame
+    """
     return pd.DataFrame(paper_list)
 
 
