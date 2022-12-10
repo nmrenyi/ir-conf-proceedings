@@ -14,23 +14,25 @@ def parse_args():
     parse arguments
     """
     parser = argparse.ArgumentParser()
+    parser.add_argument('--conf', type=str, default='sigir',
+                        help='conference name (e.g. sigir, cikm, www, etc.), case unsensitive')
+    parser.add_argument('--year', type=int, default=2022,
+                        help='year for the conference')
     parser.add_argument('--type', type=str, default='tsv',
                         help='output file type (default: tsv, options: tsv, md)')
-    parser.add_argument(
-        '--src', type=str, default='https://dblp.org/db/conf/sigir/sigir2022.html', help='url or absolute path of the source HTML file')
     parser.add_argument('--output_path', type=str,
                         default='../data/tsv/dblp-sigir-2022.tsv', help='output path')
     return parser.parse_args()
 
 
-def get_page(src):
+def get_page(conf, year):
     """
     get the HTML page from the source, which can be either a url or a local file
     """
     # with open('./dblp/dblp-sigir-2022.html', 'r') as f:
     #     return f.read()
-    url = 'https://dblp.org/db/conf/sigir/sigir2022.html'
-    print('Requesting data... (from {})'.format(url))
+    url = f'https://dblp.org/db/conf/{conf}/{conf}{year}.html'
+    print(f'Requesting data... (from {url})')
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     html_page = urlopen(req).read()
     return html_page
@@ -97,7 +99,7 @@ def get_dataframe(paper_list):
 
 def main():
     args = parse_args()
-    page = get_page(args.src)
+    page = get_page(args.conf, args.year)
     paper_list = parse_page(page)
     df = get_dataframe(paper_list)
     save_file(df, args.output_path, args.type)
