@@ -33,10 +33,7 @@ def get_page(conf, year):
     """
     get the HTML page from the source, which can be either a url or a local file
     """
-    # with open('./dblp/dblp-sigir-2022.html', 'r') as f:
-    #     return f.read()
     url = f'https://dblp.org/db/conf/{conf}/{conf}{year}.html'
-    # print(f'Requesting data... (from {url})')
     req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
     html_page = urlopen(req).read()
     return html_page
@@ -87,7 +84,6 @@ def save_file(df, output_dir, file_type, conf, year):
         output_path = os.path.join(
             output_dir, 'tsv', f'{conf}{year}.tsv')
         df.to_csv(output_path, sep='\t', index=False)
-        # print(f'tsv output saved to {output_path}')
 
     if 'md' in file_type:
         output_path = os.path.join(
@@ -95,7 +91,6 @@ def save_file(df, output_dir, file_type, conf, year):
         with open(output_path, 'w') as f:
             # remove redundant whitespace to shrink the file size
             f.write(df.to_markdown(index=False).replace('   ', ''))
-        # print(f'md output saved to {output_path}')
 
 
 def get_dataframe(paper_list):
