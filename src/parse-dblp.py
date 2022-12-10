@@ -19,6 +19,9 @@ def parse_args():
 
 
 def get_page(src):
+    """
+    get the HTML page from the source, which can be either a url or a local file
+    """
     with open('./dblp/dblp-sigir-2022.html', 'r') as f:
         return f.read()
 
