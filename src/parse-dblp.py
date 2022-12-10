@@ -3,6 +3,7 @@ script of parsing paper list from dblp
 """
 
 import argparse
+from urllib.request import Request, urlopen
 
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -26,8 +27,13 @@ def get_page(src):
     """
     get the HTML page from the source, which can be either a url or a local file
     """
-    with open('./dblp/dblp-sigir-2022.html', 'r') as f:
-        return f.read()
+    # with open('./dblp/dblp-sigir-2022.html', 'r') as f:
+    #     return f.read()
+    url = 'https://dblp.org/db/conf/sigir/sigir2022.html'
+    print('Requesting data... (from {})'.format(url))
+    req = Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    html_page = urlopen(req).read()
+    return html_page
 
 
 def parse_page(page):
