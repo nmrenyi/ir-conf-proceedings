@@ -108,7 +108,7 @@ def get_dataframe(paper_list):
 def main():
     args = parse_args()
     print(
-        f'confs: {args.conf}, years: {args.year}, output_dir: {args.output_dir}')
+        f'confs: {args.conf}, years: {args.year}, output_dir: {args.output_dir}, file_type: {args.type}')
     proceedings = [proceeding for proceeding in itertools.product(
         args.conf, args.year)]
     print(f'{len(proceedings)} proceedings to be processed:')
