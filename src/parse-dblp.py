@@ -2,11 +2,20 @@
 script of parsing paper list from dblp
 """
 
+import argparse
+
 import pandas as pd
 
 
 def parse_args():
-    pass
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--type', type=str, default='tsv',
+                        help='output file type (default: tsv, options: tsv, md)')
+    parser.add_argument(
+        '--src', type=str, default='https://dblp.org/db/conf/sigir/sigir2022.html', help='url or absolute path of the source HTML file')
+    parser.add_argument('--output_path', type=str,
+                        default='../data/tsv/dblp-sigir-2022.tsv', help='output path')
+    return parser.parse_args()
 
 
 def get_page(src):
