@@ -43,6 +43,11 @@ def parse_page(page):
     for id, header in enumerate(headers):
         print(id, header.text.replace('\n', ' '))
 
+    meta_data = soup.find_all('ul', class_='publ-list')
+    # the first element is the proceeding information, not paper information
+    meta_data.pop(0)
+    for id, meta in enumerate(meta_data):
+        print(id)
     pass
 
 
