@@ -34,6 +34,9 @@ def parse_page(page):
 
 
 def save_file(df, output_path, file_type):
+    """
+    save the DataFrame containing information of papers to a file
+    """
     pass
 
 
