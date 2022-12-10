@@ -1,7 +1,8 @@
 *.html
 *.tmp
 *.mkd
-src/*.tsv
+*.md
+*.tsv
 
 # macOS
 .DS_Store
