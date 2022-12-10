@@ -8,6 +8,9 @@ import pandas as pd
 
 
 def parse_args():
+    """
+    parse arguments
+    """
     parser = argparse.ArgumentParser()
     parser.add_argument('--type', type=str, default='tsv',
                         help='output file type (default: tsv, options: tsv, md)')
