@@ -35,20 +35,31 @@ def parse_page(page):
     parse HTML page to get the paper list
     """
     soup = BeautifulSoup(page, 'html.parser')
-    paper_list = []
     headers = soup.find_all('h2')
     # the first element is `Refine list`, which is not a session title
     headers.pop(0)
-
-    for id, header in enumerate(headers):
-        print(id, header.text.replace('\n', ' '))
+    headers = [header.text.replace('\n', ' ') for header in headers]
 
     meta_data = soup.find_all('ul', class_='publ-list')
     # the first element is the proceeding information, not paper information
     meta_data.pop(0)
+    paper_list = []
     for id, meta in enumerate(meta_data):
-        print(id)
-    pass
+        paper_info = meta.find_all('li', class_='entry inproceedings')
+        topic_list = []
+        for paper_meta in paper_info:
+            title = paper_meta.find('cite').find('span', class_='title').text
+            authors = [author.text for author in paper_meta.find('cite').find_all(
+                'span', itemprop='author')]
+            topic_list.append({
+                'title': title,
+                'authors': authors
+            })
+            print(title, authors)
+        paper_list.append(topic_list)
+    paper_list = [{**paper_list[i], **{'session': headers[i]}}
+                  for i in range(len(paper_list))]
+    return paper_list
 
 
 def save_file(df, output_path, file_type):
