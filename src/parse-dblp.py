@@ -43,7 +43,7 @@ def parse_page(page):
     meta_data = soup.find_all('ul', class_='publ-list')
     # the first element is the proceeding information, not paper information
     meta_data.pop(0)
-    paper_list = []
+    meta_list = []
     for id, meta in enumerate(meta_data):
         paper_info = meta.find_all('li', class_='entry inproceedings')
         topic_list = []
@@ -55,10 +55,12 @@ def parse_page(page):
                 'title': title,
                 'authors': authors
             })
-            print(title, authors)
-        paper_list.append(topic_list)
-    paper_list = [{**paper_list[i], **{'session': headers[i]}}
-                  for i in range(len(paper_list))]
+        meta_list.append(topic_list)
+    assert (len(meta_list) == len(headers))
+    paper_list = []
+    for i in range(len(meta_list)):
+        for paper in meta_list[i]:
+            paper_list.append({**paper, **{'session': headers[i]}})
     return paper_list
 
 
