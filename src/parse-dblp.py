@@ -22,12 +22,16 @@ def save_file(df, output_path, file_type):
     pass
 
 
+def get_dataframe(paper_list):
+    return pd.DataFrame(paper_list)[
+        ['title', 'authors', 'session', 'abstract', 'url']]
+
+
 def main():
     args = parse_args()
     page = get_page(args.src)
     paper_list = parse_page(page)
-    df = pd.DataFrame(paper_list)[
-        ['title', 'authors', 'session', 'abstract', 'url']]
+    df = get_dataframe(paper_list)
     save_file(df, args.output_path, args.type)
 
 
