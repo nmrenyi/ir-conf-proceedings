@@ -32,8 +32,7 @@ def save_file(df, output_path, file_type):
 
 
 def get_dataframe(paper_list):
-    return pd.DataFrame(paper_list)[
-        ['title', 'authors', 'session', 'abstract', 'url']]
+    return pd.DataFrame(paper_list)
 
 
 def main():
