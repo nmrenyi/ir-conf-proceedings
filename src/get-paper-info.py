@@ -20,14 +20,17 @@ def main():
         doi = url.replace('https://doi.org/', '')
         paper_url = f'https://api.semanticscholar.org/graph/v1/paper/{doi}?fields=abstract'
         while True:
-            r = requests.get(paper_url)
-            if r.status_code == 200:
-                abstract_list.append(json.loads(r.text)['abstract'])
-                break
-            else:
-                print(
-                    f'Error: {r.status_code, r.text}, sleep for 5 minutes and retry, current time: {datetime.now()}')
-                sleep(5 * 60)
+            try:
+                r = requests.get(paper_url)
+                if r.status_code == 200:
+                    abstract_list.append(json.loads(r.text)['abstract'])
+                    break
+                else:
+                    print(
+                        f'Error: {r.status_code, r.text}, sleep for 5 minutes and retry, current time: {datetime.now()}')
+                    sleep(5 * 60)
+            except Exception as e:
+                print(f'Encounter error: {e}')
 
     df['abstract'] = abstract_list
     df.to_csv('./sigir2022.tsv', sep='\t', index=False)
