@@ -15,14 +15,14 @@ def parse_args():
     parse arguments
     """
     parser = argparse.ArgumentParser()
-    parser.add_argument('--conf', type=str, default='sigir',
-                        help='conference name (e.g. sigir, cikm, www, etc.), case unsensitive')
-    parser.add_argument('--year', type=int, default=2022,
-                        help='year for the conference')
-    parser.add_argument('--type', type=str, default='tsv',
-                        help='output file type (default: tsv, options: tsv, md)')
-    parser.add_argument('--output_dir', type=str,
-                        default='../data/', help='output directory')
+    parser.add_argument('-c', '--conf', nargs='+',
+                        help='<Required> conference names (example: sigir cikm www)', required=True)
+    parser.add_argument('-y', '--year', nargs='+',
+                        help='<Required> years for the conferences (example: 2022 2021)', required=True)
+    parser.add_argument('-t', '--type', nargs='+', default=['tsv', 'md'],
+                        help='output file types, default: [''tsv'', ''md''], options: [''tsv'', ''md'']')
+    parser.add_argument('-o', '--output_dir', type=str,
+                        default='../data/', help='output directory, default: ../data/')
     return parser.parse_args()
 
 
@@ -102,6 +102,7 @@ def get_dataframe(paper_list):
 
 def main():
     args = parse_args()
+    print(f'{args.conf=}', f'{args.year=}, {args.type=}, {args.output_dir=}')
     page = get_page(args.conf, args.year)
     paper_list = parse_page(page)
     df = get_dataframe(paper_list)
