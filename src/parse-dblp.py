@@ -104,6 +104,16 @@ def get_dataframe(paper_list):
     return pd.DataFrame(paper_list)
 
 
+def process_proceeding(conf, year, output_dir, file_types):
+    """
+    process a proceeding
+    """
+    page = get_page(conf, year)
+    paper_list = parse_page(page)
+    df = get_dataframe(paper_list)
+    save_file(df, output_dir, file_types, conf, year)
+
+
 def main():
     args = parse_args()
     print(
@@ -113,13 +123,15 @@ def main():
     print(f'{len(proceedings)} proceedings to be processed:')
     print('\n'.join([f'{p[0]}{p[1]}' for p in proceedings]))
     tasks = tqdm(proceedings)
+
     for conf, year in tasks:
-        tasks.set_description(f'Processing {conf} {year}')
+        tasks.set_description(f'Processing {conf}{year}')
         tasks.refresh()  # to show immediately the update
-        page = get_page(conf, year)
-        paper_list = parse_page(page)
-        df = get_dataframe(paper_list)
-        save_file(df, args.output_dir, args.type, conf, year)
+        try:
+            process_proceeding(conf, year, args.output_dir, args.type)
+        except Exception as e:
+            print(f'Error: {e}')
+            print(f'Failed to process {conf}{year}')
 
 
 if __name__ == '__main__':
