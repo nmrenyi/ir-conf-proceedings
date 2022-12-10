@@ -76,20 +76,22 @@ def parse_page(page):
     return paper_list
 
 
-def save_file(df, output_dir, file_type, conf, year):
+def save_file(df, output_base_dir, file_type, conf, year):
     """
     save the DataFrame containing information of papers to a file
     """
     if 'tsv' in file_type:
+        output_dir = os.path.join(output_base_dir, 'tsv')
+        os.makedirs(output_dir, exist_ok=True)
         output_path = os.path.join(
-            output_dir, 'tsv', f'{conf}{year}.tsv')
-        os.makedirs(output_path, exist_ok=True)
+            output_dir, f'{conf}{year}.tsv')
         df.to_csv(output_path, sep='\t', index=False)
 
     if 'md' in file_type:
+        output_dir = os.path.join(output_base_dir, 'md')
+        os.makedirs(output_dir, exist_ok=True)
         output_path = os.path.join(
-            output_dir, 'md', f'{conf}{year}.md')
-        os.makedirs(output_path, exist_ok=True)
+            output_dir, f'{conf}{year}.md')
         with open(output_path, 'w') as f:
             # remove redundant whitespace to shrink the file size
             f.write(df.to_markdown(index=False).replace('   ', ''))
