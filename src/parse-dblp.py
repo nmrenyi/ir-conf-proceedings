@@ -45,8 +45,8 @@ def parse_page(page):
     meta_data.pop(0)
     meta_list = []
     for meta in meta_data:
-        paper_info = meta.find_all('li', class_='entry inproceedings')
         session_list = []
+        paper_info = meta.find_all('li', class_='entry inproceedings')
         for paper_meta in paper_info:
             title = paper_meta.find('cite').find('span', class_='title').text
             authors = [author.text for author in paper_meta.find('cite').find_all(
