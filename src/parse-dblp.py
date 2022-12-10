@@ -44,7 +44,7 @@ def parse_page(page):
     # the first element is the proceeding information, not paper information
     meta_data.pop(0)
     meta_list = []
-    for id, meta in enumerate(meta_data):
+    for meta in meta_data:
         paper_info = meta.find_all('li', class_='entry inproceedings')
         topic_list = []
         for paper_meta in paper_info:
