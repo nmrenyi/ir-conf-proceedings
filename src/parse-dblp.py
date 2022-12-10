@@ -83,11 +83,13 @@ def save_file(df, output_dir, file_type, conf, year):
     if 'tsv' in file_type:
         output_path = os.path.join(
             output_dir, 'tsv', f'{conf}{year}.tsv')
+        os.makedirs(output_path, exist_ok=True)
         df.to_csv(output_path, sep='\t', index=False)
 
     if 'md' in file_type:
         output_path = os.path.join(
             output_dir, 'md', f'{conf}{year}.md')
+        os.makedirs(output_path, exist_ok=True)
         with open(output_path, 'w') as f:
             # remove redundant whitespace to shrink the file size
             f.write(df.to_markdown(index=False).replace('   ', ''))
