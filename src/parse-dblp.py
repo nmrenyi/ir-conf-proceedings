@@ -27,6 +27,9 @@ def get_page(src):
 
 
 def parse_page(page):
+    """
+    parse HTML page to get the paper list
+    """
     pass
 
 
