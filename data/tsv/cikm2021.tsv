@@ -1,0 +1,600 @@
+title	authors	url	session
+Anomaly Mining: Past, Present and Future.	Leman Akoglu	https://doi.org/10.1145/3459637.3482495	Keynote Talks
+The Primacy of Data in Deep Learning NLP for Conversational AI.	Mark Johnson	https://doi.org/10.1145/3459637.3482496	Keynote Talks
+Towards Reliable and Practicable Algorithmic Recourse.	Himabindu Lakkaraju	https://doi.org/10.1145/3459637.3482497	Keynote Talks
+Model-agnostic vs. Model-intrinsic Interpretability for Explainable Product Search.	Qingyao Ai, Lakshmi Narayanan Ramasamy	https://doi.org/10.1145/3459637.3482276	Full Paper Track
+Analysing Mixed Initiatives and Search Strategies during Conversational Search.	Mohammad Aliannejadi, Leif Azzopardi, Hamed Zamani, Evangelos Kanoulas, Paul Thomas, Nick Craswell	https://doi.org/10.1145/3459637.3482231	Full Paper Track
+Automated Selection of Multiple Datasets for Extension by Integration.	Yael Amsterdamer, Moran Cohen	https://doi.org/10.1145/3459637.3482322	Full Paper Track
+Skyline in Crowdsourcing with Imprecise Comparisons.	Aris Anagnostopoulos, Adriano Fazzone, Giacomo Vettraino	https://doi.org/10.1145/3459637.3482479	Full Paper Track
+Random Sampling Plus Fake Data: Multidimensional Frequency Estimates With Local Differential Privacy.	Héber Hwang Arcolezi, Jean-François Couchot, Bechara al Bouna, Xiaokui Xiao	https://doi.org/10.1145/3459637.3482467	Full Paper Track
+Non-Visual Accessibility Assessment of Videos.	Ali Selman Aydin, Yu-Jung Ko, Utku Uckun, I. V. Ramakrishnan, Vikas Ashok	https://doi.org/10.1145/3459637.3482457	Full Paper Track
+GAM: Explainable Visual Similarity and Classification via Gradient Activation Maps.	Oren Barkan, Omri Armstrong, Amir Hertz, Avi Caciularu, Ori Katz, Itzik Malkiel, Noam Koenigstein	https://doi.org/10.1145/3459637.3482430	Full Paper Track
+Representation Learning via Variational Bayesian Networks.	Oren Barkan, Avi Caciularu, Idan Rejwan, Ori Katz, Jonathan Weill, Itzik Malkiel, Noam Koenigstein	https://doi.org/10.1145/3459637.3482363	Full Paper Track
+HopfE: Knowledge Graph Representation Learning using Inverse Hopf Fibrations.	Anson Bastos, Kuldeep Singh, Abhishek Nadgeri, Saeedeh Shekarpour, Isaiah Onando Mulang', Johannes Hoffart	https://doi.org/10.1145/3459637.3482263	Full Paper Track
+Influence Maximization With Co-Existing Seeds.	Ruben Becker, Gianlorenzo D'Angelo, Hugo Gilbert	https://doi.org/10.1145/3459637.3482439	Full Paper Track
+Cross-Market Product Recommendation.	Hamed R. Bonab, Mohammad Aliannejadi, Ali Vardasbi, Evangelos Kanoulas, James Allan	https://doi.org/10.1145/3459637.3482493	Full Paper Track
+ASTERYX: A model-Agnostic SaT-basEd appRoach for sYmbolic and score-based eXplanations.	Ryma Boumazouza, Fahima Cheikh Alili, Bertrand Mazure, Karim Tabia	https://doi.org/10.1145/3459637.3482321	Full Paper Track
+Certification and Trade-off of Multiple Fairness Criteria in Graph-based Spam Detection.	Kai Burkholder, Kenny Kwock, Yuesheng Xu, Jiaxin Liu, Chao Chen, Sihong Xie	https://doi.org/10.1145/3459637.3482325	Full Paper Track
+ScarceGAN: Discriminative Classification Framework for Rare Class Identification for Longitudinal Data with Weak Prior.	Surajit Chakrabarty, Rukma Talwadker, Tridib Mukherjee	https://doi.org/10.1145/3459637.3482474	Full Paper Track
+Geometric Heuristics for Transfer Learning in Decision Trees.	Siddhesh Chaubal, Mateusz Rzepecki, Patrick K. Nicholson, Guangyuan Piao, Alessandra Sala	https://doi.org/10.1145/3459637.3482259	Full Paper Track
+LiteGT: Efficient and Lightweight Graph Transformers.	Cong Chen, Chaofan Tao, Ngai Wong	https://doi.org/10.1145/3459637.3482272	Full Paper Track
+Incorporating Query Reformulating Behavior into Web Search Evaluation.	Jia Chen, Yiqun Liu, Jiaxin Mao, Fan Zhang, Tetsuya Sakai, Weizhi Ma, Min Zhang, Shaoping Ma	https://doi.org/10.1145/3459637.3482438	Full Paper Track
+FedMatch: Federated Learning Over Heterogeneous Question Answering Data.	Jiangui Chen, Ruqing Zhang, Jiafeng Guo, Yixing Fan, Xueqi Cheng	https://doi.org/10.1145/3459637.3482345	Full Paper Track
+HetMAML: Task-Heterogeneous Model-Agnostic Meta-Learning for Few-Shot Learning Across Modalities.	Jiayi Chen, Aidong Zhang	https://doi.org/10.1145/3459637.3482262	Full Paper Track
+Generative Inverse Deep Reinforcement Learning for Online Recommendation.	Xiaocong Chen, Lina Yao, Aixin Sun, Xianzhi Wang, Xiwei Xu, Liming Zhu	https://doi.org/10.1145/3459637.3482347	Full Paper Track
+Robust Road Network Representation Learning: When Traffic Patterns Meet Traveling Semantics.	Yile Chen, Xiucheng Li, Gao Cong, Zhifeng Bao, Cheng Long, Yiding Liu, Arun Kumar Chandran, Richard Ellison	https://doi.org/10.1145/3459637.3482293	Full Paper Track
+DCAP: Deep Cross Attentional Product Network for User Response Prediction.	Zekai Chen, Fangtian Zhong, Zhumin Chen, Xiao Zhang, Robert Pless, Xiuzhen Cheng	https://doi.org/10.1145/3459637.3482246	Full Paper Track
+Learning Dual Dynamic Representations on Time-Sliced User-Item Interaction Graphs for Sequential Recommendation.	Zeyuan Chen, Wei Zhang, Junchi Yan, Gang Wang, Jianyong Wang	https://doi.org/10.1145/3459637.3482443	Full Paper Track
+An Effective Non-Autoregressive Model for Spoken Language Understanding.	Lizhi Cheng, Weijia Jia, Wenmian Yang	https://doi.org/10.1145/3459637.3482229	Full Paper Track
+LT-OCF: Learnable-Time ODE-based Collaborative Filtering.	Jeongwhan Choi, Jinsung Jeon, Noseong Park	https://doi.org/10.1145/3459637.3482449	Full Paper Track
+Evaluating Relevance Judgments with Pairwise Discriminative Power.	Zhumin Chu, Jiaxin Mao, Fan Zhang, Yiqun Liu, Tetsuya Sakai, Min Zhang, Shaoping Ma	https://doi.org/10.1145/3459637.3482428	Full Paper Track
+Query Definability and Its Approximations in Ontology-based Data Management.	Gianluca Cima, Federico Croce, Maurizio Lenzerini	https://doi.org/10.1145/3459637.3482466	Full Paper Track
+Answering POI-recommendation Questions using Tourism Reviews.	Danish Contractor, Krunal Shah, Aditi Partap, Parag Singla, Mausam	https://doi.org/10.1145/3459637.3482320	Full Paper Track
+Into the Unobservables: A Multi-range Encoder-decoder Framework for COVID-19 Prediction.	Yue Cui, Chen Zhu, Guanyu Ye, Ziwei Wang, Kai Zheng	https://doi.org/10.1145/3459637.3482356	Full Paper Track
+Towards Self-Explainable Graph Neural Network.	Enyan Dai, Suhang Wang	https://doi.org/10.1145/3459637.3482306	Full Paper Track
+Scaling Up Distance-generalized Core Decomposition.	Qiangqiang Dai, Rong-Hua Li, Lu Qin, Guoren Wang, Weihua Yang, Zhiwei Zhang, Ye Yuan	https://doi.org/10.1145/3459637.3482294	Full Paper Track
+FiShNet: Fine-Grained Filter Sharing for Resource-Efficient Multi-Task Learning.	Xin Dai, Xiangnan Kong, Tian Guo, Xinlu He	https://doi.org/10.1145/3459637.3482432	Full Paper Track
+Mitigating Negative Influence Diffusion is Hard.	Gianlorenzo D'Angelo, Mohammad Abouei Mehrizi	https://doi.org/10.1145/3459637.3482451	Full Paper Track
+Understanding Event Predictions via Contextualized Multilevel Feature Learning.	Songgaojun Deng, Huzefa Rangwala, Yue Ning	https://doi.org/10.1145/3459637.3482309	Full Paper Track
+Deep Adversarial Network Alignment.	Tyler Derr, Hamid Karimi, Xiaorui Liu, Jiejun Xu, Jiliang Tang	https://doi.org/10.1145/3459637.3482418	Full Paper Track
+Explanations for Data Repair Through Shapley Values.	Daniel Deutch, Nave Frost, Amir Gilad, Oren Sheffer	https://doi.org/10.1145/3459637.3482341	Full Paper Track
+A Deep Learning Framework for Self-evolving Hierarchical Community Detection.	Daizong Ding, Mi Zhang, Hanrui Wang, Xudong Pan, Min Yang, Xiangnan He	https://doi.org/10.1145/3459637.3482223	Full Paper Track
+Semi-deterministic and Contrastive Variational Graph Autoencoder for Recommendation.	Yue Ding, Yuxiang Shi, Bo Chen, Chenghua Lin, Hongtao Lu, Jie Li, Ruiming Tang, Dong Wang	https://doi.org/10.1145/3459637.3482390	Full Paper Track
+AdaGNN: Graph Neural Networks with Adaptive Frequency Response Filter.	Yushun Dong, Kaize Ding, Brian Jalaian, Shuiwang Ji, Jundong Li	https://doi.org/10.1145/3459637.3482226	Full Paper Track
+AdaRNN: Adaptive Learning and Forecasting of Time Series.	Yuntao Du, Jindong Wang, Wenjie Feng, Sinno Jialin Pan, Tao Qin, Renjun Xu, Chongjun Wang	https://doi.org/10.1145/3459637.3482315	Full Paper Track
+Query-Variant Advertisement Text Generation with Association Knowledge.	Siyu Duan, Wei Li, Jing Cai, Yancheng He, Yunfang Wu	https://doi.org/10.1145/3459637.3482290	Full Paper Track
+Fine and Coarse Granular Argument Classification before Clustering.	Lorik Dumani, Tobias Wiesenfeldt, Ralf Schenkel	https://doi.org/10.1145/3459637.3482431	Full Paper Track
+Continuous-Time Sequential Recommendation with Temporal Graph Collaborative Transformer.	Ziwei Fan, Zhiwei Liu, Jiawei Zhang, Yun Xiong, Lei Zheng, Philip S. Yu	https://doi.org/10.1145/3459637.3482242	Full Paper Track
+Large-scale Secure XGB for Vertical Federated Learning.	Wenjing Fang, Derun Zhao, Jin Tan, Chaochao Chen, Chaofan Yu, Li Wang, Lei Wang, Jun Zhou, Benyu Zhang	https://doi.org/10.1145/3459637.3482361	Full Paper Track
+HyperGraph Convolution Based Attributed HyperGraph Clustering.	Barakeel Fanseu Kamhoua, Lin Zhang, Kaili Ma, James Cheng, Bo Li, Bo Han	https://doi.org/10.1145/3459637.3482437	Full Paper Track
+CANN: Coupled Approximation Neural Network for Partial Domain Adaptation.	Cheng Feng, Chaoliang Zhong, Jie Wang, Jun Sun, Yasuto Yokota	https://doi.org/10.1145/3459637.3482238	Full Paper Track
+Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems.	Philip J. Feng, Pingjun Pan, Tingting Zhou, Hongxiang Chen, Chuanjiang Luo	https://doi.org/10.1145/3459637.3482312	Full Paper Track
+CMML: Contextual Modulation Meta Learning for Cold-Start Recommendation.	Xidong Feng, Chen Chen, Dong Li, Mengchen Zhao, Jianye Hao, Jun Wang	https://doi.org/10.1145/3459637.3482241	Full Paper Track
+Popcorn: Human-in-the-loop Popularity Debiasing in Conversational Recommender Systems.	Zuohui Fu, Yikun Xian, Shijie Geng, Gerard de Melo, Yongfeng Zhang	https://doi.org/10.1145/3459637.3482461	Full Paper Track
+Fast and Accurate Anchor Graph-based Label Prediction.	Yasuhiro Fujiwara, Yasutoshi Ida, Atsutoshi Kumagai, Sekitoshi Kanai, Naonori Ueda	https://doi.org/10.1145/3459637.3482258	Full Paper Track
+Pruning Meta-Trained Networks for On-Device Adaptation.	Dawei Gao, Xiaoxi He, Zimu Zhou, Yongxin Tong, Lothar Thiele	https://doi.org/10.1145/3459637.3482378	Full Paper Track
+Learning An End-to-End Structure for Retrieval in Large-Scale Recommendations.	Weihao Gao, Xiangjun Fan, Chong Wang, Jiankai Sun, Kai Jia, Wenzhi Xiao, Ruofan Ding, Xingyan Bin, Hui Yang, Xiaobing Liu	https://doi.org/10.1145/3459637.3482362	Full Paper Track
+Evaluating Human-AI Hybrid Conversational Systems with Chatbot Message Suggestions.	Zihan Gao, Jiepu Jiang	https://doi.org/10.1145/3459637.3482340	Full Paper Track
+Computing and Maintaining Provenance of Query Result Probabilities in Uncertain Knowledge Graphs.	Garima Gaur, Abhishek Dang, Arnab Bhattacharya, Srikanta Bedathur	https://doi.org/10.1145/3459637.3482330	Full Paper Track
+To Be or not to Be, Tail Labels in Extreme Multi-label Learning.	Zhiqi Ge, Ximing Li	https://doi.org/10.1145/3459637.3482303	Full Paper Track
+Hierarchical Semantics Matching For Heterogeneous Spatio-temporal Sources.	Daniel Glake, Norbert Ritter, Florian Ocker, Nima Ahmady-Moghaddam, Daniel Osterholz, Ulfia Lenfers, Thomas Clemen	https://doi.org/10.1145/3459637.3482350	Full Paper Track
+Zero-shot Relation Classification from Side Information.	Jiaying Gong, Hoda Eldardiry	https://doi.org/10.1145/3459637.3482403	Full Paper Track
+Driving the Herd: Search Engines as Content Influencers.	Gregory Goren, Oren Kurland, Moshe Tennenholtz, Fiana Raiber	https://doi.org/10.1145/3459637.3482334	Full Paper Track
+Mining Bursty Groups from Interaction Data.	Alexander Gorovits, Lin Zhang, Ekta Gujral, Evangelos E. Papalexakis, Petko Bogdanov	https://doi.org/10.1145/3459637.3482370	Full Paper Track
+Pulling Up by the Causal Bootstraps: Causal Data Augmentation for Pre-training Debiasing.	Sindhu C. M. Gowda, Shalmali Joshi, Haoran Zhang, Marzyeh Ghassemi	https://doi.org/10.1145/3459637.3482380	Full Paper Track
+VPALG: Paper-publication Prediction with Graph Neural Networks.	Renchu Guan, Yonghao Liu, Xiaoyue Feng, Ximing Li	https://doi.org/10.1145/3459637.3482490	Full Paper Track
+NED: Niche Detection in User Content Consumption Data.	Ekta Gujral, Leonardo Neves, Evangelos E. Papalexakis, Neil Shah	https://doi.org/10.1145/3459637.3482455	Full Paper Track
+Learning Discriminative and Unbiased Representations for Few-Shot Relation Extraction.	Jiale Han, Bo Cheng, Guoshun Nan	https://doi.org/10.1145/3459637.3482268	Full Paper Track
+Multi-view Interaction Learning for Few-Shot Relation Classification.	Yi Han, Linbo Qiao, Jianming Zheng, Zhigang Kan, Linhui Feng, Yifu Gao, Yu Tang, Qi Zhai, Dongsheng Li, Xiangke Liao	https://doi.org/10.1145/3459637.3482280	Full Paper Track
+GraphITE: Estimating Individual Effects of Graph-structured Treatments.	Shonosuke Harada, Hisashi Kashima	https://doi.org/10.1145/3459637.3482349	Full Paper Track
+Learning Multiple Intent Representations for Search Queries.	Helia Hashemi, Hamed Zamani, W. Bruce Croft	https://doi.org/10.1145/3459637.3482445	Full Paper Track
+Estimating Average Treatment Effects via Orthogonal Regularization.	Tobias Hatt, Stefan Feuerriegel	https://doi.org/10.1145/3459637.3482339	Full Paper Track
+Click-Through Rate Prediction with Multi-Modal Hypergraphs.	Li He, Hongxu Chen, Dingxian Wang, Shoaib Jameel, Philip S. Yu, Guandong Xu	https://doi.org/10.1145/3459637.3482327	Full Paper Track
+Stock Trend Prediction with Multi-granularity Data: A Contrastive Learning Approach with Adaptive Fusion.	Min Hou, Chang Xu, Yang Liu, Weiqing Liu, Jiang Bian, Le Wu, Zhi Li, Enhong Chen, Tie-Yan Liu	https://doi.org/10.1145/3459637.3482483	Full Paper Track
+What is Next when Sequential Prediction Meets Implicitly Hard Interaction?	Kaixi Hu, Lin Li, Qing Xie, Jianquan Liu, Xiaohui Tao	https://doi.org/10.1145/3459637.3482492	Full Paper Track
+Rectifying Pseudo Labels: Iterative Feature Clustering for Graph Representation Learning.	Zhihui Hu, Guang Kou, Haoyu Zhang, Na Li, Ke Yang, Lin Liu	https://doi.org/10.1145/3459637.3482469	Full Paper Track
+Two-tier Graph Contextual Embedding for Cross-device User Matching.	Hongren Huang, Shu Guo, Chen Li, Jiawei Sheng, Lihong Wang, Jianxin Li, Jing Liu, Shenghai Zhong	https://doi.org/10.1145/3459637.3482308	Full Paper Track
+Signed Bipartite Graph Neural Networks.	Junjie Huang, Huawei Shen, Qi Cao, Shuchang Tao, Xueqi Cheng	https://doi.org/10.1145/3459637.3482392	Full Paper Track
+Spatio-Temporal-Social Multi-Feature-based Fine-Grained Hot Spots Prediction for Content Delivery Services in 5G Era.	Shaoyuan Huang, Heng Zhang, Xiaofei Wang, Min Chen, Jianxin Li, Victor C. M. Leung	https://doi.org/10.1145/3459637.3482298	Full Paper Track
+Mixed Attention Transformer for Leveraging Word-Level Knowledge to Neural Cross-Lingual Information Retrieval.	Zhiqi Huang, Hamed R. Bonab, Sheikh Muhammad Sarwar, Razieh Rahimi, James Allan	https://doi.org/10.1145/3459637.3482452	Full Paper Track
+A Neural Conversation Generation Model via Equivalent Shared Memory Investigation.	Changzhen Ji, Yating Zhang, Xiaozhong Liu, Adam Jatowt, Changlong Sun, Conghui Zhu, Tiejun Zhao	https://doi.org/10.1145/3459637.3482407	Full Paper Track
+Reinforcement Learning to Optimize Lifetime Value in Cold-Start Recommendation.	Luo Ji, Qi Qin, Bingqing Han, Hongxia Yang	https://doi.org/10.1145/3459637.3482292	Full Paper Track
+Complex Temporal Question Answering on Knowledge Graphs.	Zhen Jia, Soumajit Pramanik, Rishiraj Saha Roy, Gerhard Weikum	https://doi.org/10.1145/3459637.3482416	Full Paper Track
+Contrastive Pre-Training of GNNs on Heterogeneous Graphs.	Xunqiang Jiang, Yuanfu Lu, Yuan Fang, Chuan Shi	https://doi.org/10.1145/3459637.3482332	Full Paper Track
+Graph Feature Gating Networks.	Wei Jin, Xiaorui Liu, Yao Ma, Tyler Derr, Charu C. Aggarwal, Jiliang Tang	https://doi.org/10.1145/3459637.3482434	Full Paper Track
+Dynamic Early Exit Scheduling for Deep Neural Network Inference through Contextual Bandits.	Weiyu Ju, Wei Bao, Liming Ge, Dong Yuan	https://doi.org/10.1145/3459637.3482335	Full Paper Track
+Norma: A Hybrid Feature Alignment for Class-Aware Unsupervised Domain Adaptation.	Mahsa Keramati, Zahra Zohrevand, Uwe Glässer	https://doi.org/10.1145/3459637.3482458	Full Paper Track
+Semantic Concept Annotation for Tabular Data.	Udayan Khurana, Sainyam Galhotra	https://doi.org/10.1145/3459637.3482295	Full Paper Track
+Query Reformulation for Descriptive Queries of Jargon Words Using a Knowledge Graph based on a Dictionary.	Bosung Kim, Hyewon Choi, Haeun Yu, Youngjoong Ko	https://doi.org/10.1145/3459637.3482382	Full Paper Track
+ALADDIN: Asymmetric Centralized Training for Distributed Deep Learning.	Yun-Yong Ko, Kibong Choi, Hyunseung Jei, Dongwon Lee, Sang-Wook Kim	https://doi.org/10.1145/3459637.3482412	Full Paper Track
+Fast Extraction of Word Embedding from Q-contexts.	Junsheng Kong, Weizhao Li, Zeyi Liu, Ben Liao, Jiezhong Qiu, Chang-Yu Hsieh, Yi Cai, Shengyu Zhang	https://doi.org/10.1145/3459637.3482343	Full Paper Track
+Efficient Multi-Scale Feature Generation Adaptive Network.	Gwanghan Lee, Minha Kim, Minha Kim, Simon S. Woo	https://doi.org/10.1145/3459637.3482337	Full Paper Track
+Certifying One-Phase Technology-Assisted Reviews.	David D. Lewis, Eugene Yang, Ophir Frieder	https://doi.org/10.1145/3459637.3482415	Full Paper Track
+Detecting the Fake Candidate Instances: Ambiguous Label Learning with Generative Adversarial Networks.	Changchun Li, Ximing Li, Jihong Ouyang, Yiming Wang	https://doi.org/10.1145/3459637.3482251	Full Paper Track
+Integrating Static and Time-Series Data in Deep Recurrent Models for Oncology Early Warning Systems.	Dingwen Li, Patrick G. Lyons, Jeff Klaus, Brian F. Gage, Marin Kollef, Chenyang Lu	https://doi.org/10.1145/3459637.3482441	Full Paper Track
+Cache-based GNN System for Dynamic Graphs.	Haoyang Li, Lei Chen	https://doi.org/10.1145/3459637.3482237	Full Paper Track
+Privacy-Preserving Batch-based Task Assignment in Spatial Crowdsourcing with Untrusted Server.	Maocheng Li, Jiachuan Wang, Libin Zheng, Han Wu, Peng Cheng, Lei Chen, Xuemin Lin	https://doi.org/10.1145/3459637.3482288	Full Paper Track
+Block Access Pattern Discovery via Compressed Full Tensor Transformer.	Xing Li, Qiquan Shi, Gang Hu, Lei Chen, Hui Mao, Yiyuan Yang, Mingxuan Yuan, Jia Zeng, Zhuo Cheng	https://doi.org/10.1145/3459637.3482323	Full Paper Track
+Lightweight Self-Attentive Sequential Recommendation.	Yang Li, Tong Chen, Peng-Fei Zhang, Hongzhi Yin	https://doi.org/10.1145/3459637.3482448	Full Paper Track
+Learning to Cluster via Same-Cluster Queries.	Yi Li, Yan Song, Qin Zhang	https://doi.org/10.1145/3459637.3482365	Full Paper Track
+Hyperbolic Hypergraphs for Sequential Recommendation.	Yicong Li, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu	https://doi.org/10.1145/3459637.3482351	Full Paper Track
+Extracting Attentive Social Temporal Excitation for Sequential Recommendation.	Yunzhe Li, Yue Ding, Bo Chen, Xin Xin, Yule Wang, Yuxiang Shi, Ruiming Tang, Dong Wang	https://doi.org/10.1145/3459637.3482257	Full Paper Track
+Unsupervised Large-Scale Social Network Alignment via Cross Network Embedding.	Zhehan Liang, Yu Rong, Chenxin Li, Yunlong Zhang, Yue Huang, Tingyang Xu, Xinghao Ding, Junzhou Huang	https://doi.org/10.1145/3459637.3482310	Full Paper Track
+Grammatical Error Correction with Dependency Distance.	Haowen Lin, Jinlong Li, Xu Zhang, Huanhuan Chen	https://doi.org/10.1145/3459637.3482348	Full Paper Track
+Deep Self-Adaptive Hashing for Image Retrieval.	Qinghong Lin, Xiaojun Chen, Qin Zhang, Shangxuan Tian, Yudong Chen	https://doi.org/10.1145/3459637.3482247	Full Paper Track
+Multi-Relational Graph based Heterogeneous Multi-Task Learning in Community Question Answering.	Zizheng Lin, Haowen Ke, Ngo-Yin Wong, Jiaxin Bai, Yangqiu Song, Huan Zhao, Junpeng Ye	https://doi.org/10.1145/3459637.3482279	Full Paper Track
+Discovering Urban Functions of High-Definition Zoning with Continuous Human Traces.	Chunyu Liu, Yongjian Yang, Zijun Yao, Yuanbo Xu, Weitong Chen, Lin Yue, Haomeng Wu	https://doi.org/10.1145/3459637.3482253	Full Paper Track
+SCMGR: Using Social Context and Multi-Granularity Relations for Unsupervised Social Summarization.	Huanyu Liu, Ruifang He, Liangliang Zhao, Haocheng Wang, Ruifang Wang	https://doi.org/10.1145/3459637.3482476	Full Paper Track
+Mining Cross Features for Financial Credit Risk Assessment.	Qiang Liu, Zhaocheng Liu, Haoli Zhang, Yuntian Chen, Jun Zhu	https://doi.org/10.1145/3459637.3482371	Full Paper Track
+A Knowledge-Aware Recommender with Attention-Enhanced Dynamic Convolutional Network.	Yi Liu, Bohan Li, Yalei Zang, Aoran Li, Hongzhi Yin	https://doi.org/10.1145/3459637.3482406	Full Paper Track
+ECMA: An Efficient Convoy Mining Algorithm for Moving Objects.	Yiyang Liu, Hua Dai, Bohan Li, Jiawei Li, Geng Yang, Jun Wang	https://doi.org/10.1145/3459637.3482255	Full Paper Track
+Concept-Aware Denoising Graph Neural Network for Micro-Video Recommendation.	Yiyu Liu, Qian Liu, Yu Tian, Changping Wang, Yanan Niu, Yang Song, Chenliang Li	https://doi.org/10.1145/3459637.3482417	Full Paper Track
+Meta Hyperparameter Optimization with Adversarial Proxy Subsets Sampling.	Yue Liu, Xin Wang, Xue Xu, Jianbo Yang, Wenwu Zhu	https://doi.org/10.1145/3459637.3482368	Full Paper Track
+POSSCORE: A Simple Yet Effective Evaluation of Conversational Search with Part of Speech Labelling.	Zeyang Liu, Ke Zhou, Jiaxin Mao, Max L. Wilson	https://doi.org/10.1145/3459637.3482463	Full Paper Track
+Tracking Semantic Evolutionary Changes in Large-Scale Ontological Knowledge Bases.	Zhao Liu, Chang Lu, Ghadah Alghamdi, Renate A. Schmidt, Yizheng Zhao	https://doi.org/10.1145/3459637.3482307	Full Paper Track
+Graph Embedding Based on Euclidean Distance Matrix and its Applications.	Zhihong Liu, Huiyu Li, Ruixin Li, Yong Zeng, Jianfeng Ma	https://doi.org/10.1145/3459637.3482261	Full Paper Track
+BNN: Boosting Neural Network Framework Utilizing Limited Amount of Data.	Amit Livne, Roy Dor, Bracha Shapira, Lior Rokach	https://doi.org/10.1145/3459637.3482414	Full Paper Track
+Social Recommendation with Self-Supervised Metagraph Informax Network.	Xiaoling Long, Chao Huang, Yong Xu, Huance Xu, Peng Dai, Lianghao Xia, Liefeng Bo	https://doi.org/10.1145/3459637.3482480	Full Paper Track
+Detecting Communities from Heterogeneous Graphs: A Context Path-based Graph Neural Network Model.	Linhao Luo, Yixiang Fang, Xin Cao, Xiaofeng Zhang, Wenjie Zhang	https://doi.org/10.1145/3459637.3482250	Full Paper Track
+GF-VAE: A Flow-based Variational Autoencoder for Molecule Generation.	Changsheng Ma, Xiangliang Zhang	https://doi.org/10.1145/3459637.3482260	Full Paper Track
+LEReg: Empower Graph Neural Networks with Local Energy Regularization.	Xiaojun Ma, Hanyue Chen, Guojie Song	https://doi.org/10.1145/3459637.3482447	Full Paper Track
+A Unified View on Graph Neural Networks as Graph Signal Denoising.	Yao Ma, Xiaorui Liu, Tong Zhao, Yozen Liu, Jiliang Tang, Neil Shah	https://doi.org/10.1145/3459637.3482225	Full Paper Track
+Pre-training for Ad-hoc Retrieval: Hyperlink is Also You Need.	Zhengyi Ma, Zhicheng Dou, Wei Xu, Xinyu Zhang, Hao Jiang, Zhao Cao, Ji-Rong Wen	https://doi.org/10.1145/3459637.3482286	Full Paper Track
+Generating Compositional Color Representations from Text.	Paridhi Maheshwari, Nihal Jain, Praneetha Vaddamanu, Dhananjay Raut, Shraiysh Vaishay, Vishwa Vinay	https://doi.org/10.1145/3459637.3482346	Full Paper Track
+Principled Multi-Aspect Evaluation Measures of Rankings.	Maria Maistro, Lucas Chaves Lima, Jakob Grue Simonsen, Christina Lioma	https://doi.org/10.1145/3459637.3482287	Full Paper Track
+SimpleX: A Simple and Strong Baseline for Collaborative Filtering.	Kelong Mao, Jieming Zhu, Jinpeng Wang, Quanyu Dai, Zhenhua Dong, Xi Xiao, Xiuqiang He	https://doi.org/10.1145/3459637.3482297	Full Paper Track
+UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation.	Kelong Mao, Jieming Zhu, Xi Xiao, Biao Lu, Zhaowei Wang, Xiuqiang He	https://doi.org/10.1145/3459637.3482291	Full Paper Track
+Are Negative Samples Necessary in Entity Alignment?: An Approach with High Performance, Scalability and Robustness.	Xin Mao, Wenting Wang, Yuanbin Wu, Man Lan	https://doi.org/10.1145/3459637.3482232	Full Paper Track
+A Projected Gradient Method for Opinion Optimization with Limited Changes of Susceptibility to Persuasion.	Naoki Marumo, Atsushi Miyauchi, Akiko Takeda, Akira Tanaka	https://doi.org/10.1145/3459637.3482408	Full Paper Track
+L2NAS: Learning to Optimize Neural Architectures via Continuous-Action Reinforcement Learning.	Keith G. Mills, Fred X. Han, Mohammad Salameh, Seyed Saeed Changiz Rezaei, Linglong Kong, Wei Lu, Shuo Lian, Shangling Jui, Di Niu	https://doi.org/10.1145/3459637.3482360	Full Paper Track
+POSHAN: Cardinal POS Pattern Guided Attention for News Headline Incongruence.	Rahul Mishra, Shuo Zhang	https://doi.org/10.1145/3459637.3482376	Full Paper Track
+50 Ways to Bake a Cookie: Mapping the Landscape of Procedural Texts.	Moran Mizrahi, Dafna Shahaf	https://doi.org/10.1145/3459637.3482405	Full Paper Track
+Agenda: Robust Personalized PageRanks in Evolving Graphs.	Dingheng Mo, Siqiang Luo	https://doi.org/10.1145/3459637.3482317	Full Paper Track
+Learning Ideological Embeddings from Information Cascades.	Corrado Monti, Giuseppe Manco, Çigdem Aslay, Francesco Bonchi	https://doi.org/10.1145/3459637.3482444	Full Paper Track
+Defining an Optimal Configuration Set for Selective Search Strategy - A Risk-Sensitive Approach.	Josiane Mothe, Md Zia Ullah	https://doi.org/10.1145/3459637.3482422	Full Paper Track
+Revisiting State Augmentation methods for Reinforcement Learning with Stochastic Delays.	Somjit Nath, Mayank Baranwal, Harshad Khadilkar	https://doi.org/10.1145/3459637.3482386	Full Paper Track
+Disentangling Preference Representations for Recommendation Critiquing with ß-VAE.	Preksha Nema, Alexandros Karatzoglou, Filip Radlinski	https://doi.org/10.1145/3459637.3482425	Full Paper Track
+Interpreting Convolutional Sequence Model by Learning Local Prototypes with Adaptation Regularization.	Jingchao Ni, Zhengzhang Chen, Wei Cheng, Bo Zong, Dongjin Song, Yanchi Liu, Xuchao Zhang, Haifeng Chen	https://doi.org/10.1145/3459637.3482355	Full Paper Track
+Efficient Hyperparameter Optimization under Multi-Source Covariate Shift.	Masahiro Nomura, Yuta Saito	https://doi.org/10.1145/3459637.3482336	Full Paper Track
+Influence-guided Data Augmentation for Neural Tensor Completion.	Sejoon Oh, Sungchul Kim, Ryan A. Rossi, Srijan Kumar	https://doi.org/10.1145/3459637.3482267	Full Paper Track
+Match-Ignition: Plugging PageRank into Transformer for Long-form Text Matching.	Liang Pang, Yanyan Lan, Xueqi Cheng	https://doi.org/10.1145/3459637.3482450	Full Paper Track
+Learning Saliency Maps to Explain Deep Time Series Classifiers.	Prathyush S. Parvatharaju, Ramesh Doddaiah, Thomas Hartvigsen, Elke A. Rundensteiner	https://doi.org/10.1145/3459637.3482446	Full Paper Track
+Differentially Private Federated Knowledge Graphs Embedding.	Hao Peng, Haoran Li, Yangqiu Song, Vincent W. Zheng, Jianxin Li	https://doi.org/10.1145/3459637.3482252	Full Paper Track
+Sparse Shield: Social Network Immunization vs. Harmful Speech.	Alexandru Petrescu, Ciprian-Octavian Truica, Elena Simona Apostol, Panagiotis Karras	https://doi.org/10.1145/3459637.3482481	Full Paper Track
+MentalSpot: Effective Early Screening for Depression Based on Social Contagion.	Jahandad Pirayesh, Haiquan Chen, Xiao Qin, Wei-Shinn Ku, Da Yan	https://doi.org/10.1145/3459637.3482366	Full Paper Track
+Jointly-Learned State-Action Embedding for Efficient Reinforcement Learning.	Paul J. Pritz, Liang Ma, Kin K. Leung	https://doi.org/10.1145/3459637.3482357	Full Paper Track
+Unsupervised Domain Adaptation for Static Malware Detection based on Gradient Boosting Trees.	Panpan Qi, Wei Wang, Lei Zhu, See-Kiong Ng	https://doi.org/10.1145/3459637.3482400	Full Paper Track
+Learning Implicit User Profile for Personalized Retrieval-Based Chatbot.	Hongjin Qian, Zhicheng Dou, Yutao Zhu, Yueyuan Ma, Ji-Rong Wen	https://doi.org/10.1145/3459637.3482269	Full Paper Track
+Learning to Augment Imbalanced Data for Re-ranking Models.	Zi-Hao Qiu, Ying-Chun Jian, Qing-Guo Chen, Lijun Zhang	https://doi.org/10.1145/3459637.3482364	Full Paper Track
+Natural Language Understanding with Privacy-Preserving BERT.	Chen Qu, Weize Kong, Liu Yang, Mingyang Zhang, Michael Bendersky, Marc Najork	https://doi.org/10.1145/3459637.3482281	Full Paper Track
+A Study of Explainability Features to Scrutinize Faceted Filtering Results.	Jiaming Qu, Jaime Arguello, Yue Wang	https://doi.org/10.1145/3459637.3482409	Full Paper Track
+Fairness-Aware Training of Decision Trees by Abstract Interpretation.	Francesco Ranzato, Caterina Urban, Marco Zanella	https://doi.org/10.1145/3459637.3482342	Full Paper Track
+QuAX: Mining the Web for High-utility FAQ.	Muhammad Shihab Rashid, Fuad T. Jamour, Vagelis Hristidis	https://doi.org/10.1145/3459637.3482289	Full Paper Track
+AdaSim: A Recursive Similarity Measure in Graphs.	Masoud Reyhani Hamedani, Sang-Wook Kim	https://doi.org/10.1145/3459637.3482316	Full Paper Track
+Power to the Relational Inductive Bias: Graph Neural Networks in Electrical Power Grids.	Martin Ringsquandl, Houssem Sellami, Marcel Hildebrandt, Dagmar Beyer, Sylwia Henselmeyer, Sebastian Weber, Mitchell Joblin	https://doi.org/10.1145/3459637.3482464	Full Paper Track
+Corrective Guidance and Learning for Dialogue Management.	Mahdin Rohmatillah, Jen-Tzung Chien	https://doi.org/10.1145/3459637.3482333	Full Paper Track
+The Shapley Value of Classifiers in Ensemble Games.	Benedek Rozemberczki, Rik Sarkar	https://doi.org/10.1145/3459637.3482302	Full Paper Track
+odeN: Simultaneous Approximation of Multiple Motif Counts in Large Temporal Networks.	Ilie Sarpe, Fabio Vandin	https://doi.org/10.1145/3459637.3482459	Full Paper Track
+ClaSP - Time Series Segmentation.	Patrick Schäfer, Arik Ermshaus, Ulf Leser	https://doi.org/10.1145/3459637.3482240	Full Paper Track
+One-shot Transfer Learning for Population Mapping.	Erzhuo Shao, Jie Feng, Yingheng Wang, Tong Xia, Yong Li	https://doi.org/10.1145/3459637.3482460	Full Paper Track
+Identifying Untrustworthy Samples: Data Filtering for Open-domain Dialogues with Bayesian Optimization.	Lei Shen, Haolan Zhan, Xin Shen, Hongshen Chen, Xiaofang Zhao, Xiaodan Zhu	https://doi.org/10.1145/3459637.3482352	Full Paper Track
+Inductive Matrix Completion Using Graph Autoencoder.	Wei Shen, Chuheng Zhang, Yun Tian, Liang Zeng, Xiaonan He, Wanchun Dou, Xiaolong Xu	https://doi.org/10.1145/3459637.3482266	Full Paper Track
+How Powerful is Graph Convolution for Recommendation?	Yifei Shen, Yongji Wu, Yao Zhang, Caihua Shan, Jun Zhang, Khaled B. Letaief, Dongsheng Li	https://doi.org/10.1145/3459637.3482264	Full Paper Track
+DataType-Aware Knowledge Graph Representation Learning in Hyperbolic Space.	Yuxin Shen, Zhao Li, Xin Wang, Jianxin Li, Xiaowang Zhang	https://doi.org/10.1145/3459637.3482421	Full Paper Track
+Integrating Pattern- and Fact-based Fake News Detection via Model Preference Learning.	Qiang Sheng, Xueyao Zhang, Juan Cao, Lei Zhong	https://doi.org/10.1145/3459637.3482440	Full Paper Track
+WG4Rec: Modeling Textual Content with Word Graph for News Recommendation.	Shaoyun Shi, Weizhi Ma, Zhen Wang, Min Zhang, Kun Fang, Jingfang Xu, Yiqun Liu, Shaoping Ma	https://doi.org/10.1145/3459637.3482401	Full Paper Track
+XPM: An Explainable Deep Reinforcement Learning Framework for Portfolio Management.	Si Shi, Jianjun Li, Guohui Li, Peng Pan, Ke Liu	https://doi.org/10.1145/3459637.3482494	Full Paper Track
+SGCL: Contrastive Representation Learning for Signed Graphs.	Lin Shu, Erxin Du, Yaomin Chang, Chuan Chen, Zibin Zheng, Xingxing Xing, Shaofeng Shen	https://doi.org/10.1145/3459637.3482478	Full Paper Track
+Speaker-Conditioned Hierarchical Modeling for Automated Speech Scoring.	Yaman Kumar Singla, Avyakt Gupta, Shaurya Bagga, Changyou Chen, Balaji Krishnamurthy, Rajiv Ratn Shah	https://doi.org/10.1145/3459637.3482395	Full Paper Track
+SciClops: Detecting and Contextualizing Scientific Claims for Assisting Manual Fact-Checking.	Panayiotis Smeros, Carlos Castillo, Karl Aberer	https://doi.org/10.1145/3459637.3482475	Full Paper Track
+Metric Sentiment Learning for Label Representation.	Chengyu Song, Fei Cai, Jianming Zheng, Wanyu Chen, Zhiqiang Pan	https://doi.org/10.1145/3459637.3482369	Full Paper Track
+CBML: A Cluster-based Meta-learning Model for Session-based Recommendation.	Jiayu Song, Jiajie Xu, Rui Zhou, Lu Chen, Jianxin Li, Chengfei Liu	https://doi.org/10.1145/3459637.3482239	Full Paper Track
+Semi-supervised Multi-label Learning for Graph-structured Data.	Zixing Song, Ziqiao Meng, Yifei Zhang, Irwin King	https://doi.org/10.1145/3459637.3482391	Full Paper Track
+PeriodicMove: Shift-aware Human Mobility Recovery with Graph Neural Network.	Hao Sun, Changjie Yang, Liwei Deng, Fan Zhou, Feiteng Huang, Kai Zheng	https://doi.org/10.1145/3459637.3482284	Full Paper Track
+Tabular Functional Block Detection with Embedding-based Agglomerative Cell Clustering.	Kexuan Sun, Fei Wang, Muhao Chen, Jay Pujara	https://doi.org/10.1145/3459637.3482484	Full Paper Track
+Budget-constrained Truss Maximization over Large Graphs: A Component-based Approach.	Xin Sun, Xin Huang, Zitan Sun, Di Jin	https://doi.org/10.1145/3459637.3482324	Full Paper Track
+DESYR: Definition and Syntactic Representation Based Claim Detection on the Web.	Megha Sundriyal, Parantak Singh, Md. Shad Akhtar, Shubhashis Sengupta, Tanmoy Chakraborty	https://doi.org/10.1145/3459637.3482423	Full Paper Track
+Actionable Insights in Urban Multivariate Time-series.	Anika Tabassum, Supriya Chinthavali, Varisara Tansakul, B. Aditya Prakash	https://doi.org/10.1145/3459637.3482410	Full Paper Track
+Counterfactual Explainable Recommendation.	Juntao Tan, Shuyuan Xu, Yingqiang Ge, Yunqi Li, Xu Chen, Yongfeng Zhang	https://doi.org/10.1145/3459637.3482420	Full Paper Track
+Single Node Injection Attack against Graph Neural Networks.	Shuchang Tao, Qi Cao, Huawei Shen, Junjie Huang, Yunfan Wu, Xueqi Cheng	https://doi.org/10.1145/3459637.3482393	Full Paper Track
+On Influencing the Influential: Disparity Seeding.	Ya-Wen Teng, Hsi-Wen Chen, De-Nian Yang, Yvonne-Anne Pignolet, Ting-Wei Li, Lydia Yiyu Chen	https://doi.org/10.1145/3459637.3482375	Full Paper Track
+Self-supervised Representation Learning on Dynamic Graphs.	Sheng Tian, Ruofan Wu, Leilei Shi, Liang Zhu, Tao Xiong	https://doi.org/10.1145/3459637.3482389	Full Paper Track
+Recipe Representation Learning with Networks.	Yijun Tian, Chuxu Zhang, Ronald A. Metoyer, Nitesh V. Chawla	https://doi.org/10.1145/3459637.3482468	Full Paper Track
+Conditional Graph Attention Networks for Distilling and Refining Knowledge Graphs in Recommendation.	Ke Tu, Peng Cui, Daixin Wang, Zhiqiang Zhang, Jun Zhou, Yuan Qi, Wenwu Zhu	https://doi.org/10.1145/3459637.3482331	Full Paper Track
+Attention Based Dynamic Graph Learning Framework for Asset Pricing.	Ajim Uddin, Xinyuan Tao, Dantong Yu	https://doi.org/10.1145/3459637.3482413	Full Paper Track
+Mixture-Based Correction for Position and Trust Bias in Counterfactual Learning to Rank.	Ali Vardasbi, Maarten de Rijke, Ilya Markov	https://doi.org/10.1145/3459637.3482275	Full Paper Track
+Reliable and Privacy-Preserving Task Matching in Blockchain-Based Crowdsourcing.	Baolai Wang, Shaojing Fu, Xuyun Zhang, Tao Xie, Lingjuan Lyu, Yuchuan Luo	https://doi.org/10.1145/3459637.3482385	Full Paper Track
+Enhancing User Interest Modeling with Knowledge-Enriched Itemsets for Sequential Recommendation.	Chunyang Wang, Yanmin Zhu, Haobing Liu, Wenze Ma, Tianzi Zang, Jiadi Yu	https://doi.org/10.1145/3459637.3482256	Full Paper Track
+Neural Information Diffusion Prediction with Topic-Aware Attention Network.	Hao Wang, Cheng Yang, Chuan Shi	https://doi.org/10.1145/3459637.3482374	Full Paper Track
+A Lightweight Knowledge Graph Embedding Framework for Efficient Inference and Storage.	Haoyu Wang, Yaqing Wang, Defu Lian, Jing Gao	https://doi.org/10.1145/3459637.3482224	Full Paper Track
+Addressing the Hardness of k-Facility Relocation Problem: A Pair of Approximate Solutions.	Hu Wang, Hui Li, Meng Wang, Jiangtao Cui	https://doi.org/10.1145/3459637.3482411	Full Paper Track
+Fast k-NN Graph Construction by GPU based NN-Descent.	Hui Wang, Wan-Lei Zhao, Xiangxiang Zeng, Jianye Yang	https://doi.org/10.1145/3459637.3482344	Full Paper Track
+Top-k Tree Similarity Join.	Jianhua Wang, Jianye Yang, Wenjie Zhang	https://doi.org/10.1145/3459637.3482304	Full Paper Track
+Popularity-Enhanced News Recommendation with Multi-View Interest Representation.	Jingkun Wang, Yipu Chen, Zichun Wang, Wen Zhao	https://doi.org/10.1145/3459637.3482462	Full Paper Track
+Modeling Heterogeneous Graph Network on Fraud Detection: A Community-based Framework with Attention Mechanism.	Li Wang, Peipei Li, Kai Xiong, Jiashu Zhao, Rui Lin	https://doi.org/10.1145/3459637.3482277	Full Paper Track
+Behind the Scenes: An Exploration of Trigger Biases Problem in Few-Shot Event Classification.	Peiyi Wang, Runxin Xu, Tianyu Liu, Damai Dai, Baobao Chang, Zhifang Sui	https://doi.org/10.1145/3459637.3482236	Full Paper Track
+REFORM: Error-Aware Few-Shot Knowledge Graph Completion.	Song Wang, Xiao Huang, Chen Chen, Liang Wu, Jundong Li	https://doi.org/10.1145/3459637.3482470	Full Paper Track
+Adaptive Posterior Knowledge Selection for Improving Knowledge-Grounded Dialogue Generation.	Weichao Wang, Wei Gao, Shi Feng, Ling Chen, Daling Wang	https://doi.org/10.1145/3459637.3482314	Full Paper Track
+Improving Chinese Character Representation with Formation Graph Attention Network.	Xiaosu Wang, Yun Xiong, Hao Niu, Jingwen Yue, Yangyong Zhu, Philip S. Yu	https://doi.org/10.1145/3459637.3482265	Full Paper Track
+Using Knowledge Concept Aggregation towards Accurate Cognitive Diagnosis.	Xinping Wang, Caidie Huang, Jinfang Cai, Liangyu Chen	https://doi.org/10.1145/3459637.3482311	Full Paper Track
+Multi-hop Reading on Memory Neural Network with Selective Coverage for Medication Recommendation.	Yanda Wang, Weitong Chen, Dechang Pi, Lin Yue, Miao Xu, Xue Li	https://doi.org/10.1145/3459637.3482278	Full Paper Track
+The Skyline of Counterfactual Explanations for Machine Learning Decision Models.	Yongjie Wang, Qinxu Ding, Ke Wang, Yue Liu, Xingyu Wu, Jinglong Wang, Yong Liu, Chunyan Miao	https://doi.org/10.1145/3459637.3482397	Full Paper Track
+Tree Decomposed Graph Neural Network.	Yu Wang, Tyler Derr	https://doi.org/10.1145/3459637.3482487	Full Paper Track
+An Efficient Quantitative Approach for Optimizing Convolutional Neural Networks.	Yuke Wang, Boyuan Feng, Xueqiao Peng, Yufei Ding	https://doi.org/10.1145/3459637.3482230	Full Paper Track
+Spatio-Temporal-Categorical Graph Neural Networks for Fine-Grained Multi-Incident Co-Prediction.	Zhaonan Wang, Renhe Jiang, Zekun Cai, Zipei Fan, Xin Liu, Kyoung-Sook Kim, Xuan Song, Ryosuke Shibasaki	https://doi.org/10.1145/3459637.3482482	Full Paper Track
+Task Assignment with Worker Churn Prediction in Spatial Crowdsourcing.	Ziwei Wang, Yan Zhao, Xuanhao Chen, Kai Zheng	https://doi.org/10.1145/3459637.3482301	Full Paper Track
+Region Semantically Aligned Network for Zero-Shot Learning.	Ziyang Wang, Yunhao Gou, Jingjing Li, Yu Zhang, Yang Yang	https://doi.org/10.1145/3459637.3482471	Full Paper Track
+Pooling Architecture Search for Graph Classification.	Lanning Wei, Huan Zhao, Quanming Yao, Zhiqiang He	https://doi.org/10.1145/3459637.3482285	Full Paper Track
+AutoIAS: Automatic Integrated Architecture Searcher for Click-Trough Rate Prediction.	Zhikun Wei, Xin Wang, Wenwu Zhu	https://doi.org/10.1145/3459637.3482234	Full Paper Track
+Predicting Instance Type Assertions in Knowledge Graphs Using Stochastic Neural Networks.	Tobias Weller, Maribel Acosta	https://doi.org/10.1145/3459637.3482377	Full Paper Track
+SeeQuery: An Automatic Method for Recommending Translations of Ontology Competency Questions into SPARQL-OWL.	Dawid Wisniewski, Jedrzej Potoniec, Agnieszka Lawrynowicz	https://doi.org/10.1145/3459637.3482387	Full Paper Track
+Clustering of Conversational Bandits for User Preference Learning and Elicitation.	Junda Wu, Canzhe Zhao, Tong Yu, Jingyang Li, Shuai Li	https://doi.org/10.1145/3459637.3482328	Full Paper Track
+DisenKGAT: Knowledge Graph Embedding with Disentangled Graph Attention Network.	Junkang Wu, Wentao Shi, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Fuzheng Zhang, Wei Wu, Xiangnan He	https://doi.org/10.1145/3459637.3482424	Full Paper Track
+DynSTGAT: Dynamic Spatial-Temporal Graph Attention Network for Traffic Signal Control.	Libing Wu, Min Wang, Dan Wu, Jia Wu	https://doi.org/10.1145/3459637.3482254	Full Paper Track
+Seq2Bubbles: Region-Based Embedding Learning for User Behaviors in Sequential Recommenders.	Qitian Wu, Chenxiao Yang, Shuodian Yu, Xiaofeng Gao, Guihai Chen	https://doi.org/10.1145/3459637.3482296	Full Paper Track
+Incremental Graph Convolutional Network for Collaborative Filtering.	Jiafeng Xia, Dongsheng Li, Hansu Gu, Tun Lu, Peng Zhang, Ning Gu	https://doi.org/10.1145/3459637.3482354	Full Paper Track
+Self-Supervised Graph Co-Training for Session-based Recommendation.	Xin Xia, Hongzhi Yin, Junliang Yu, Yingxia Shao, Lizhen Cui	https://doi.org/10.1145/3459637.3482388	Full Paper Track
+iMap: Incremental Node Mapping between Large Graphs Using GNN.	Yikuan Xia, Jun Gao, Bin Cui	https://doi.org/10.1145/3459637.3482353	Full Paper Track
+Neural PathSim for Inductive Similarity Search in Heterogeneous Information Networks.	Wenyi Xiao, Huan Zhao, Vincent W. Zheng, Yangqiu Song	https://doi.org/10.1145/3459637.3482454	Full Paper Track
+WebKE: Knowledge Extraction from Semi-structured Web with Pre-trained Markup Language Model.	Chenhao Xie, Wenhao Huang, Jiaqing Liang, Chengsong Huang, Yanghua Xiao	https://doi.org/10.1145/3459637.3482491	Full Paper Track
+Learning Joint Embedding with Modality Alignments for Cross-Modal Retrieval of Recipes and Food Images.	Zhongwei Xie, Ling Liu, Lin Li, Luo Zhong	https://doi.org/10.1145/3459637.3482270	Full Paper Track
+Counterfactual Review-based Recommendation.	Kun Xiong, Wenwen Ye, Xu Chen, Yongfeng Zhang, Wayne Xin Zhao, Binbin Hu, Zhiqiang Zhang, Jun Zhou	https://doi.org/10.1145/3459637.3482244	Full Paper Track
+Speedup Robust Graph Structure Learning with Low-Rank Information.	Hui Xu, Liyao Xiang, Jiahao Yu, Anqi Cao, Xinbing Wang	https://doi.org/10.1145/3459637.3482299	Full Paper Track
+Expanding Relationship for Cross Domain Recommendation.	Kun Xu, Yuanzhen Xie, Liang Chen, Zibin Zheng	https://doi.org/10.1145/3459637.3482429	Full Paper Track
+Topic-aware Heterogeneous Graph Neural Network for Link Prediction.	Siyong Xu, Cheng Yang, Chuan Shi, Yuan Fang, Yuxin Guo, Tianchi Yang, Luhao Zhang, Maodi Hu	https://doi.org/10.1145/3459637.3482485	Full Paper Track
+PATROL: A Velocity Control Framework for Autonomous Vehicle via Spatial-Temporal Reinforcement Learning.	Zhi Xu, Shuncheng Liu, Ziniu Wu, Xu Chen, Kai Zeng, Kai Zheng, Han Su	https://doi.org/10.1145/3459637.3482283	Full Paper Track
+Node2Grids: A Cost-Efficient Uncoupled Training Framework for Large-Scale Graph Learning.	Dalong Yang, Chuan Chen, Youhao Zheng, Zibin Zheng, Shih-wei Liao	https://doi.org/10.1145/3459637.3482456	Full Paper Track
+Multi-task Learning for Bias-Free Joint CTR Prediction and Market Price Modeling in Online Advertising.	Haizhi Yang, Tengyun Wang, Xiaoli Tang, Qianyu Li, Yueyue Shi, Siyu Jiang, Han Yu, Hengjie Song	https://doi.org/10.1145/3459637.3482373	Full Paper Track
+Cycle or Minkowski: Which is More Appropriate for Knowledge Graph Embedding?	Han Yang, Leilei Zhang, Bingning Wang, Ting Yao, Junfei Liu	https://doi.org/10.1145/3459637.3482245	Full Paper Track
+Knowledge Graph Representation Learning as Groupoid: Unifying TransE, RotatE, QuatE, ComplEx.	Han Yang, Junfei Liu	https://doi.org/10.1145/3459637.3482442	Full Paper Track
+CIExplore: Curiosity and Influence-based Exploration in Multi-Agent Cooperative Scenarios with Sparse Rewards.	Huanhuan Yang, Dianxi Shi, Chenran Zhao, Guojun Xie, Shaowu Yang	https://doi.org/10.1145/3459637.3482326	Full Paper Track
+Entity and Relation Matching Consensus for Entity Alignment.	Jinzhu Yang, Ding Wang, Wei Zhou, Wanhui Qian, Xin Wang, Jizhong Han, Songlin Hu	https://doi.org/10.1145/3459637.3482338	Full Paper Track
+Top-N Recommendation with Counterfactual User Preference Simulation.	Mengyue Yang, Quanyu Dai, Zhenhua Dong, Xu Chen, Xiuqiang He, Jun Wang	https://doi.org/10.1145/3459637.3482305	Full Paper Track
+Adversarial Kernel Sampling on Class-imbalanced Data Streams.	Peng Yang, Ping Li	https://doi.org/10.1145/3459637.3482227	Full Paper Track
+HASTE: A Distributed System for Hybrid and Adaptive Processing on Streaming Spatial-Textual Data.	Zhong Yang, Bolong Zheng, Chengdong Tong, Lianggui Weng, Chenliang Li, Guohui Li	https://doi.org/10.1145/3459637.3482435	Full Paper Track
+USER: A Unified Information Search and Recommendation Model based on Integrated Behavior Sequence.	Jing Yao, Zhicheng Dou, Ruobing Xie, Yanxiong Lu, Zhiping Wang, Ji-Rong Wen	https://doi.org/10.1145/3459637.3482489	Full Paper Track
+An Interactive Neural Network Approach to Keyphrase Extraction in Talent Recruitment.	Kaichun Yao, Chuan Qin, Hengshu Zhu, Chao Ma, Jingshuai Zhang, Yi Du, Hui Xiong	https://doi.org/10.1145/3459637.3482319	Full Paper Track
+AMPPERE: A Universal Abstract Machine for Privacy-Preserving Entity Resolution Evaluation.	Yixiang Yao, Tanmay Ghai, Srivatsan Ravi, Pedro A. Szekely	https://doi.org/10.1145/3459637.3482318	Full Paper Track
+Task Allocation with Geographic Partition in Spatial Crowdsourcing.	Guanyu Ye, Yan Zhao, Xuanhao Chen, Kai Zheng	https://doi.org/10.1145/3459637.3482300	Full Paper Track
+MedRetriever: Target-Driven Interpretable Health Risk Prediction via Retrieving Unstructured Medical Text.	Muchao Ye, Suhan Cui, Yaqing Wang, Junyu Luo, Cao Xiao, Fenglong Ma	https://doi.org/10.1145/3459637.3482273	Full Paper Track
+Robust Dynamic Clustering for Temporal Networks.	Jingyi You, Chenlong Hu, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura	https://doi.org/10.1145/3459637.3482473	Full Paper Track
+Learning to Learn the Future: Modeling Concept Drifts in Time Series Prediction.	Xiaoyu You, Mi Zhang, Daizong Ding, Fuli Feng, Yuanmin Huang	https://doi.org/10.1145/3459637.3482271	Full Paper Track
+Assorted Attention Network for Cross-Lingual Language-to-Vision Retrieval.	Tan Yu, Yi Yang, Hongliang Fei, Yi Li, Xiaodong Chen, Ping Li	https://doi.org/10.1145/3459637.3482233	Full Paper Track
+Multiple Exemplars Learning for Fast Image Retrieval.	Tan Yu, Ping Li	https://doi.org/10.1145/3459637.3482453	Full Paper Track
+Semi-Supervised and Self-Supervised Classification with Multi-View Graph Neural Networks.	Jinliang Yuan, Hualei Yu, Meng Cao, Ming Xu, Junyuan Xie, Chongjun Wang	https://doi.org/10.1145/3459637.3482477	Full Paper Track
+Reinforced Active Entity Alignment.	Weixin Zeng, Xiang Zhao, Jiuyang Tang, Changjun Fan	https://doi.org/10.1145/3459637.3482472	Full Paper Track
+Jointly Optimizing Query Encoder and Product Quantization to Improve Retrieval Performance.	Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang, Shaoping Ma	https://doi.org/10.1145/3459637.3482358	Full Paper Track
+Fraud Detection under Multi-Sourced Extremely Noisy Annotations.	Chuang Zhang, Qizhou Wang, Tengfei Liu, Xun Lu, Jin Hong, Bo Han, Chen Gong	https://doi.org/10.1145/3459637.3482433	Full Paper Track
+Topic Modeling for Multi-Aspect Listwise Comparisons.	Delvin Ce Zhang, Hady W. Lauw	https://doi.org/10.1145/3459637.3482398	Full Paper Track
+Relation Prediction via Graph Neural Network in Heterogeneous Information Networks with Missing Type Information.	Han Zhang, Yu Hao, Xin Cao, Yixiang Fang, Won-Yong Shin, Wei Wang	https://doi.org/10.1145/3459637.3482384	Full Paper Track
+DSDD: Domain-Specific Dataset Discovery on the Web.	Haoxiang Zhang, Aécio S. R. Santos, Juliana Freire	https://doi.org/10.1145/3459637.3482427	Full Paper Track
+RxNet: Rx-refill Graph Neural Network for Overprescribing Detection.	Jianfei Zhang, Ai-Te Kuo, Jianan Zhao, Qianlong Wen, Erin L. Winstanley, Chuxu Zhang, Yanfang Ye	https://doi.org/10.1145/3459637.3482465	Full Paper Track
+Delve into the Performance Degradation of Differentiable Architecture Search.	Jiuling Zhang, Zhiming Ding	https://doi.org/10.1145/3459637.3482248	Full Paper Track
+Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation.	Junwei Zhang, Min Gao, Junliang Yu, Lei Guo, Jundong Li, Hongzhi Yin	https://doi.org/10.1145/3459637.3482426	Full Paper Track
+SNPR: A Serendipity-Oriented Next POI Recommendation Model.	Mingwei Zhang, Yang Yang, Rizwan Abbas, Ke Deng, Jianxin Li, Bin Zhang	https://doi.org/10.1145/3459637.3482394	Full Paper Track
+Comprehensively Computing Link-based Similarities by Building A Random Surfer Graph.	Mingxi Zhang, Xifeng Yan, Wei Wang	https://doi.org/10.1145/3459637.3482329	Full Paper Track
+Multi-Factors Aware Dual-Attentional Knowledge Tracing.	Moyu Zhang, Xinning Zhu, Chunhong Zhang, Yang Ji, Feng Pan, Changchuan Yin	https://doi.org/10.1145/3459637.3482372	Full Paper Track
+Desirable Companion for Vertical Federated Learning: New Zeroth-Order Gradient Based Algorithm.	Qingsong Zhang, Bin Gu, Zhiyuan Dang, Cheng Deng, Heng Huang	https://doi.org/10.1145/3459637.3482249	Full Paper Track
+HORNET: Enriching Pre-trained Language Representations with Heterogeneous Knowledge Sources.	Taolin Zhang, Zerui Cai, Chengyu Wang, Peng Li, Yang Li, Minghui Qiu, Chengguang Tang, Xiaofeng He, Jun Huang	https://doi.org/10.1145/3459637.3482436	Full Paper Track
+Adversarial Separation Network for Cross-Network Node Classification.	Xiaowen Zhang, Yuntao Du, Rongbiao Xie, Chongjun Wang	https://doi.org/10.1145/3459637.3482228	Full Paper Track
+CoPE: Modeling Continuous Propagation and Evolution on Interaction Graph.	Yao Zhang, Yun Xiong, Dongsheng Li, Caihua Shan, Kan Ren, Yangyong Zhu	https://doi.org/10.1145/3459637.3482419	Full Paper Track
+Meta-Learning Based Hyper-Relation Feature Modeling for Out-of-Knowledge-Base Embedding.	Yufeng Zhang, Weiqing Wang, Wei Chen, Jiajie Xu, An Liu, Lei Zhao	https://doi.org/10.1145/3459637.3482367	Full Paper Track
+Pareto-optimal Community Search on Large Bipartite Graphs.	Yuting Zhang, Kai Wang, Wenjie Zhang, Xuemin Lin, Ying Zhang	https://doi.org/10.1145/3459637.3482282	Full Paper Track
+Minimizing Spectral Radius of Non-Backtracking Matrix by Edge Removal.	Zuobai Zhang, Zhongzhi Zhang, Guanrong Chen	https://doi.org/10.1145/3459637.3482274	Full Paper Track
+Action Sequence Augmentation for Early Graph-based Anomaly Detection.	Tong Zhao, Bo Ni, Wenhao Yu, Zhichun Guo, Neil Shah, Meng Jiang	https://doi.org/10.1145/3459637.3482313	Full Paper Track
+k-sums Clustering: A Stochastic Optimization Approach.	Wan-Lei Zhao, Shi-Ying Lan, Run-Qing Chen, Chong-Wah Ngo	https://doi.org/10.1145/3459637.3482359	Full Paper Track
+When Hardness Makes a Difference: Multi-Hop Knowledge Graph Reasoning over Few-Shot Relations.	Shangfei Zheng, Wei Chen, Pengpeng Zhao, An Liu, Junhua Fang, Lei Zhao	https://doi.org/10.1145/3459637.3482402	Full Paper Track
+Automated Query Graph Generation for Querying Knowledge Graphs.	Weiguo Zheng, Mei Zhang	https://doi.org/10.1145/3459637.3482235	Full Paper Track
+Understanding the Property of Long Term Memory for the LSTM with Attention Mechanism.	Wendong Zheng, Putian Zhao, Kai Huang, Gang Chen	https://doi.org/10.1145/3459637.3482399	Full Paper Track
+Relation Network and Causal Reasoning for Image Captioning.	Dongming Zhou, Jing Yang	https://doi.org/10.1145/3459637.3482383	Full Paper Track
+Understanding and Resolving Performance Degradation in Deep Graph Convolutional Networks.	Kuangqi Zhou, Yanfei Dong, Kaixin Wang, Wee Sun Lee, Bryan Hooi, Huan Xu, Jiashi Feng	https://doi.org/10.1145/3459637.3482488	Full Paper Track
+#StayHome or #Marathon?: Social Media Enhanced Pandemic Surveillance on Spatial-temporal Dynamic Graphs.	Yichao Zhou, Jyun-Yu Jiang, Xiusi Chen, Wei Wang	https://doi.org/10.1145/3459637.3482222	Full Paper Track
+PSSL: Self-supervised Learning for Personalized Search with Contrastive Sampling.	Yujia Zhou, Zhicheng Dou, Yutao Zhu, Ji-Rong Wen	https://doi.org/10.1145/3459637.3482379	Full Paper Track
+Open Benchmarking for Click-Through Rate Prediction.	Jieming Zhu, Jinyang Liu, Shuai Yang, Qi Zhang, Xiuqiang He	https://doi.org/10.1145/3459637.3482486	Full Paper Track
+Summarizing Long-Form Document with Rich Discourse Information.	Tianyu Zhu, Wen Hua, Jianfeng Qu, Xiaofang Zhou	https://doi.org/10.1145/3459637.3482396	Full Paper Track
+Contrastive Learning of User Behavior Sequence for Context-Aware Document Ranking.	Yutao Zhu, Jian-Yun Nie, Zhicheng Dou, Zhengyi Ma, Xinyu Zhang, Pan Du, Xiaochen Zuo, Hao Jiang	https://doi.org/10.1145/3459637.3482243	Full Paper Track
+Discovering Time-invariant Causal Structure from Temporal Data.	Saima Absar, Lu Zhang	https://doi.org/10.1145/3459637.3482086	Short Paper Track
+VerSaChI: Finding Statistically Significant Subgraph Matches using Chebyshev's Inequality.	Shubhangi Agarwal, Sourav Dutta, Arnab Bhattacharya	https://doi.org/10.1145/3459637.3482217	Short Paper Track
+Goal-Directed Extractive Summarization of Financial Reports.	Yash Agrawal, Vivek Anand, Manish Gupta, S. Arunachalam, Vasudeva Varma	https://doi.org/10.1145/3459637.3482113	Short Paper Track
+Accurate Online Tensor Factorization for Temporal Tensor Streams with Missing Values.	Dawon Ahn, Seyun Kim, U Kang	https://doi.org/10.1145/3459637.3482048	Short Paper Track
+Variational Graph Normalized AutoEncoders.	Seong-Jin Ahn, Myoung Ho Kim	https://doi.org/10.1145/3459637.3482215	Short Paper Track
+Structure Aware Experience Replay for Incremental Learning in Graph-based Recommender Systems.	Kian Ahrabian, Yishi Xu, Yingxue Zhang, Jiapeng Wu, Yuening Wang, Mark Coates	https://doi.org/10.1145/3459637.3482193	Short Paper Track
+How to Leverage a Multi-layered Transformer Language Model for Text Clustering: an Ensemble Approach.	Mira Ait Saada, François Role, Mohamed Nadif	https://doi.org/10.1145/3459637.3482121	Short Paper Track
+Scalable Contrast Pattern Mining over Data Streams.	Elaheh Alipour Chavary, Sarah M. Erfani, Christopher Leckie	https://doi.org/10.1145/3459637.3482174	Short Paper Track
+XPL-CF: Explainable Embeddings for Feature-based Collaborative Filtering.	Faisal M. Almutairi, Nicholas D. Sidiropoulos, Bo Yang	https://doi.org/10.1145/3459637.3482221	Short Paper Track
+A Formal Analysis of Recommendation Quality of Adversarially-trained Recommenders.	Vito Walter Anelli, Yashar Deldjoo, Tommaso Di Noia, Felice Antonio Merra	https://doi.org/10.1145/3459637.3482046	Short Paper Track
+BERT-QPP: Contextualized Pre-trained transformers for Query Performance Prediction.	Negar Arabzadeh, Maryam Khodabakhsh, Ebrahim Bagheri	https://doi.org/10.1145/3459637.3482063	Short Paper Track
+Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection.	Negar Arabzadeh, Xinyi Yan, Charles L. A. Clarke	https://doi.org/10.1145/3459637.3482159	Short Paper Track
+Understanding Multi-channel Customer Behavior in Retail.	Mozhdeh Ariannezhad, Sami Jullien, Pim Nauts, Min Fang, Sebastian Schelter, Maarten de Rijke	https://doi.org/10.1145/3459637.3482208	Short Paper Track
+Time-Aware Recommender System via Continuous-Time Modeling.	Jianghan Bao, Yu Zhang	https://doi.org/10.1145/3459637.3482202	Short Paper Track
+Anchor-based Collaborative Filtering.	Oren Barkan, Roy Hirsch, Ori Katz, Avi Caciularu, Noam Koenigstein	https://doi.org/10.1145/3459637.3482056	Short Paper Track
+Grad-SAM: Explaining Transformers via Gradient Self-Attention Maps.	Oren Barkan, Edan Hauon, Avi Caciularu, Ori Katz, Itzik Malkiel, Omri Armstrong, Noam Koenigstein	https://doi.org/10.1145/3459637.3482126	Short Paper Track
+Boosting Few-shot Abstractive Summarization with Auxiliary Tasks.	Qiwei Bi, Haoyuan Li, Hanfang Yang	https://doi.org/10.1145/3459637.3482066	Short Paper Track
+Misbeliefs and Biases in Health-Related Searches.	Alexander Bondarenko, Ekaterina Shirshakova, Marina Driker, Matthias Hagen, Pavel Braslavski	https://doi.org/10.1145/3459637.3482141	Short Paper Track
+Uncertainty-Aware Self-Training for Semi-Supervised Event Temporal Relation Extraction.	Pengfei Cao, Xinyu Zuo, Yubo Chen, Kang Liu, Jun Zhao, Wei Bi	https://doi.org/10.1145/3459637.3482207	Short Paper Track
+Spectral Graph Attention Network with Fast Eigen-approximation.	Heng Chang, Yu Rong, Tingyang Xu, Wenbing Huang, Somayeh Sojoudi, Junzhou Huang, Wenwu Zhu	https://doi.org/10.1145/3459637.3482187	Short Paper Track
+New Tight Relaxations of Rank Minimization for Multi-Task Learning.	Wei Chang, Feiping Nie, Rong Wang, Xuelong Li	https://doi.org/10.1145/3459637.3482154	Short Paper Track
+Constructing Noise Free Economic Policy Uncertainty Index.	Chung-Chi Chen, Hen-Hsen Huang, Yu-Lieh Huang, Hsin-Hsi Chen	https://doi.org/10.1145/3459637.3482075	Short Paper Track
+Distilling Numeral Information for Volatility Forecasting.	Chung-Chi Chen, Hen-Hsen Huang, Yu-Lieh Huang, Hsin-Hsi Chen	https://doi.org/10.1145/3459637.3482089	Short Paper Track
+NQuAD: 70, 000+ Questions for Machine Comprehension of the Numerals in Text.	Chung-Chi Chen, Hen-Hsen Huang, Hsin-Hsi Chen	https://doi.org/10.1145/3459637.3482155	Short Paper Track
+Mitigating Deep Double Descent by Concatenating Inputs.	John Chen, Qihan Wang, Anastasios Kyrillidis	https://doi.org/10.1145/3459637.3482142	Short Paper Track
+Adversarial Reprogramming of Pretrained Neural Networks for Fraud Detection.	Lingwei Chen, Yujie Fan, Yanfang Ye	https://doi.org/10.1145/3459637.3482053	Short Paper Track
+Adversarial Learning for Incentive Optimization in Mobile Payment Marketing.	Xuanying Chen, Zhining Liu, Li Yu, Sen Li, Lihong Gu, Xiaodong Zeng, Yize Tan, Jinjie Gu	https://doi.org/10.1145/3459637.3482052	Short Paper Track
+MGNETS: Multi-Graph Neural Networks for Table Search.	Zhiyu Chen, Mohamed Trabelsi, Jeff Heflin, Dawei Yin, Brian D. Davison	https://doi.org/10.1145/3459637.3482140	Short Paper Track
+Using Topic Modeling and Adversarial Neural Networks for Fake News Video Detection.	Hyewon Choi, Youngjoong Ko	https://doi.org/10.1145/3459637.3482212	Short Paper Track
+Variational Cross-Network Embedding for Anonymized User Identity Linkage.	Xiaokai Chu, Xinxin Fan, Zhihua Zhu, Jingping Bi	https://doi.org/10.1145/3459637.3482214	Short Paper Track
+ST-PIL: Spatial-Temporal Periodic Interest Learning for Next Point-of-Interest Recommendation.	Qiang Cui, Chenrui Zhang, Yafeng Zhang, Jinpeng Wang, Mingchen Cai	https://doi.org/10.1145/3459637.3482189	Short Paper Track
+Historical Inertia: A Neglected but Powerful Baseline for Long Sequence Time-series Forecasting.	Yue Cui, Jiandong Xie, Kai Zheng	https://doi.org/10.1145/3459637.3482120	Short Paper Track
+Does Adversarial Oversampling Help us?	Tanmoy Dam, Md Meftahul Ferdaus, Sreenatha G. Anavatti, Senthilnath Jayavelu, Hussein A. Abbass	https://doi.org/10.1145/3459637.3482091	Short Paper Track
+Question Rewriting for Open-Domain Conversational QA: Best Practices and Limitations.	Marco Del Tredici, Gianni Barlacchi, Xiaoyu Shen, Weiwei Cheng, Adrià de Gispert	https://doi.org/10.1145/3459637.3482164	Short Paper Track
+Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning.	Kaize Ding, Xuan Shan, Huan Liu	https://doi.org/10.1145/3459637.3482203	Short Paper Track
+Simulated Annealing for Emotional Dialogue Systems.	Chengzhang Dong, Chenyang Huang, Osmar Zaïane, Lili Mou	https://doi.org/10.1145/3459637.3482182	Short Paper Track
+Reevaluating the Change Point Detection Problem with Segment-based Bayesian Online Detection.	Erick Draayer, Huiping Cao, Yifan Hao	https://doi.org/10.1145/3459637.3482167	Short Paper Track
+Is a Single Model Enough? MuCoS: A Multi-Model Ensemble Learning Approach for Semantic Code Search.	Lun Du, Xiaozhou Shi, Yanlin Wang, Ensheng Shi, Shi Han, Dongmei Zhang	https://doi.org/10.1145/3459637.3482127	Short Paper Track
+Fair and Robust Classification Under Sample Selection Bias.	Wei Du, Xintao Wu	https://doi.org/10.1145/3459637.3482104	Short Paper Track
+FairER: Entity Resolution With Fairness Constraints.	Vasilis Efthymiou, Kostas Stefanidis, Evaggelia Pitoura, Vassilis Christophides	https://doi.org/10.1145/3459637.3482105	Short Paper Track
+Collaborative Experts Discovery in Social Coding Platforms.	Roohollah Etemadi, Morteza Zihayat, Kuan Feng, Jason Adelman, Ebrahim Bagheri	https://doi.org/10.1145/3459637.3482074	Short Paper Track
+Recommending Datasets for Scientific Problem Descriptions.	Michael Färber, Ann-Kathrin Leisinger	https://doi.org/10.1145/3459637.3482166	Short Paper Track
+Modeling Sequences as Distributions with Uncertainty for Sequential Recommendation.	Ziwei Fan, Zhiwei Liu, Shen Wang, Lei Zheng, Philip S. Yu	https://doi.org/10.1145/3459637.3482145	Short Paper Track
+Towards Robustness to Label Noise in Text Classification via Noise Modeling.	Siddhant Garg, Goutham Ramakrishnan, Varun Thumbe	https://doi.org/10.1145/3459637.3482204	Short Paper Track
+EasyFlinkCEP: Big Event Data Analytics for Everyone.	Nikos Giatrakos, Eleni Kougioumtzi, Antonios Kontaxakis, Antonios Deligiannakis, Yannis Kotidis	https://doi.org/10.1145/3459637.3482094	Short Paper Track
+Density-Based Dynamic Curriculum Learning for Intent Detection.	Yantao Gong, Cao Liu, Jiazhen Yuan, Fan Yang, Xunliang Cai, Guanglu Wan, Jiansong Chen, Ruiyao Niu, Houfeng Wang	https://doi.org/10.1145/3459637.3482082	Short Paper Track
+Using Neighborhood Context to Improve Information Extraction from Visual Documents Captured on Mobile Phones.	Kalpa Gunaratna, Vijay Srinivasan, Sandeep Nama, Hongxia Jin	https://doi.org/10.1145/3459637.3482211	Short Paper Track
+Integrating Transductive and Inductive Embeddings Improves Link Prediction Accuracy.	Chitrank Gupta, Yash Jain, Abir De, Soumen Chakrabarti	https://doi.org/10.1145/3459637.3482125	Short Paper Track
+CauSeR: Causal Session-based Recommendations for Handling Popularity Bias.	Priyanka Gupta, Ankit Sharma, Pankaj Malhotra, Lovekesh Vig, Gautam Shroff	https://doi.org/10.1145/3459637.3482071	Short Paper Track
+Region Invariant Normalizing Flows for Mobility Transfer.	Vinayak Gupta, Srikanta Bedathur	https://doi.org/10.1145/3459637.3482169	Short Paper Track
+Counterfactual Generative Smoothing for Imbalanced Natural Language Classification.	Hojae Han, Seungtaek Choi, Myeongho Jeong, Jin-Woo Park, Seung-won Hwang	https://doi.org/10.1145/3459637.3482077	Short Paper Track
+GLocal-K: Global and Local Kernels for Recommender Systems.	Soyeon Caren Han, Taejun Lim, Siqu Long, Bernd Burgstaller, Josiah Poon	https://doi.org/10.1145/3459637.3482112	Short Paper Track
+Unsupervised Cross-system Log Anomaly Detection via Domain Adaptation.	Xiao Han, Shuhan Yuan	https://doi.org/10.1145/3459637.3482209	Short Paper Track
+Automatic Error Correction Using the Wikipedia Page Revision History.	Md. Kamrul Hasan, Mohammad Mahdavi	https://doi.org/10.1145/3459637.3482062	Short Paper Track
+Cformer: Semi-Supervised Text Clustering Based on Pseudo Labeling.	Arezoo Hatefi, Xuan-Son Vu, Monowar H. Bhuyan, Frank Drewes	https://doi.org/10.1145/3459637.3482073	Short Paper Track
+Centerpoint Query Authentication.	Magnus Haxen, Morten Raeburn, Peyman Afshani, Panagiotis Karras	https://doi.org/10.1145/3459637.3482072	Short Paper Track
+Locker: Locally Constrained Self-Attentive Sequential Recommendation.	Zhankui He, Handong Zhao, Zhe Lin, Zhaowen Wang, Ajinkya Kale, Julian J. McAuley	https://doi.org/10.1145/3459637.3482136	Short Paper Track
+LTPHM: Long-term Traffic Prediction based on Hybrid Model.	Chuyin Huang, Weiyang Kong, Genan Dai, Yubao Liu	https://doi.org/10.1145/3459637.3482138	Short Paper Track
+Entity-aware Collaborative Relation Network with Knowledge Graph for Recommendation.	Ruoran Huang, Chuanqi Han, Li Cui	https://doi.org/10.1145/3459637.3482098	Short Paper Track
+When is Nearest Neighbor Meaningful: Sequential Data.	Aaron Hui, Byron J. Gao	https://doi.org/10.1145/3459637.3482219	Short Paper Track
+The Effect of News Article Quality on Ad Consumption.	Kojiro Iizuka, Yoshifumi Seki, Makoto P. Kato	https://doi.org/10.1145/3459637.3482201	Short Paper Track
+CANCN-BERT: A Joint Pre-Trained Language Model for Classical and Modern Chinese.	Zijing Ji, Xin Wang, Yuxin Shen, Guozheng Rao	https://doi.org/10.1145/3459637.3482068	Short Paper Track
+Robust Adaptive-weighting Multi-view Classification.	Bingbing Jiang, Junhao Xiang, Xingyu Wu, Wenda He, Libin Hong, Weiguo Sheng	https://doi.org/10.1145/3459637.3482173	Short Paper Track
+ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning.	Ming Jin, Yixin Liu, Yu Zheng, Lianhua Chi, Yuan-Fang Li, Shirui Pan	https://doi.org/10.1145/3459637.3482057	Short Paper Track
+RABERT: Relation-Aware BERT for Target-Oriented Opinion Words Extraction.	Taegwan Kang, Minwoo Lee, Nakyeong Yang, Kyomin Jung	https://doi.org/10.1145/3459637.3482165	Short Paper Track
+Question Answering using Web Lists.	Anoop R. Katti, Kai Hui, Adrià de Gispert, Hagen Fürstenau	https://doi.org/10.1145/3459637.3482163	Short Paper Track
+CoSEM: Contextual and Semantic Embedding for App Usage Prediction.	Yonchanok Khaokaew, Mohammad Saiedur Rahaman, Ryen W. White, Flora D. Salim	https://doi.org/10.1145/3459637.3482076	Short Paper Track
+Self-supervised Fine-tuning for Efficient Passage Re-ranking.	Meoungjun Kim, Youngjoong Ko	https://doi.org/10.1145/3459637.3482179	Short Paper Track
+Query-driven Segment Selection for Ranking Long Documents.	Youngwoo Kim, Razieh Rahimi, Hamed R. Bonab, James Allan	https://doi.org/10.1145/3459637.3482101	Short Paper Track
+UQJG: Identifying Transactions that Collaborate to Violate an SQL Assertion.	Toon Koppelaars, Xavier Oriol, Ernest Teniente, Sergi Curto, Eduard Pujol	https://doi.org/10.1145/3459637.3482210	Short Paper Track
+Exploratory Search of GANs with Contextual Bandits.	Ivan Kropotov, Alan Medlar, Dorota Glowacka	https://doi.org/10.1145/3459637.3482103	Short Paper Track
+Asterisk-Shaped Features for Tabular Data.	Yuki Kurauchi, Yoshiaki Takimoto, Shuhei Yamamoto, Shunichi Seko, Hiroyuki Toda	https://doi.org/10.1145/3459637.3482059	Short Paper Track
+Boosting Graph Alignment Algorithms.	Alexander Frederiksen Kyster, Simon Daugaard Nielsen, Judith Hermanns, Davide Mottin, Panagiotis Karras	https://doi.org/10.1145/3459637.3482067	Short Paper Track
+Attention Based Subgraph Classification for Link Prediction by Network Re-weighting.	Darong Lai, Zheyi Liu, Junyao Huang, Zhihong Chong, Weiwei Wu, Christine Nardini	https://doi.org/10.1145/3459637.3482060	Short Paper Track
+SCOPA: Soft Code-Switching and Pairwise Alignment for Zero-Shot Cross-lingual Transfer.	Dohyeon Lee, Jaeseong Lee, Gyewon Lee, Byung-Gon Chun, Seung-won Hwang	https://doi.org/10.1145/3459637.3482176	Short Paper Track
+CrossAug: A Contrastive Data Augmentation Method for Debiasing Fact Verification Models.	Minwoo Lee, Seungpil Won, Juae Kim, Hwanhee Lee, Cheon-Eum Park, Kyomin Jung	https://doi.org/10.1145/3459637.3482078	Short Paper Track
+Dual Correction Strategy for Ranking Distillation in Top-N Recommender System.	Youngjune Lee, Kee-Eung Kim	https://doi.org/10.1145/3459637.3482093	Short Paper Track
+Capsule Graph Neural Networks with EM Routing.	Yu Lei, Jing Zhang	https://doi.org/10.1145/3459637.3482069	Short Paper Track
+Hubness-aware User Identity Linkage.	Chaozhuo Li, Senzhang Wang, Feiran Huang, Jie Xu, Philip S. Yu	https://doi.org/10.1145/3459637.3482122	Short Paper Track
+Graph-based Semi-Supervised Learning by Strengthening Local Label Consistency.	Chen Li, Xutan Peng, Hao Peng, Jia Wu, Lihong Wang, Philip S. Yu, Jianxin Li, Lichao Sun	https://doi.org/10.1145/3459637.3482114	Short Paper Track
+AdaptiveGCN: Efficient GCN Through Adaptively Sparsifying Graphs.	Dongyue Li, Tao Yang, Lun Du, Zhezhi He, Li Jiang	https://doi.org/10.1145/3459637.3482049	Short Paper Track
+Multi-subspace Implicit Alignment for Cross-modal Retrieval on Cooking Recipes and Food Images.	Lin Li, Ming Li, Zichen Zan, Qing Xie, Jianquan Liu	https://doi.org/10.1145/3459637.3482149	Short Paper Track
+OTCMR: Bridging Heterogeneity Gap with Optimal Transport for Cross-modal Retrieval.	Mingyang Li, Shao-Lun Huang, Lin Zhang	https://doi.org/10.1145/3459637.3482158	Short Paper Track
+Span-Level Emotion Cause Analysis by BERT-based Graph Attention Network.	Xiangju Li, Wei Gao, Shi Feng, Daling Wang, Shafiq R. Joty	https://doi.org/10.1145/3459637.3482185	Short Paper Track
+Span-level Emotion Cause Analysis with Neural Sequence Tagging.	Xiangju Li, Wei Gao, Shi Feng, Daling Wang, Shafiq R. Joty	https://doi.org/10.1145/3459637.3482186	Short Paper Track
+Vandalism Detection in OpenStreetMap via User Embeddings.	Yinxiao Li, T. Jennings Anderson, Yiqi Niu	https://doi.org/10.1145/3459637.3482213	Short Paper Track
+Graph Representation Learning via Adversarial Variational Bayes.	Yunhe Li, Yaochen Hu, Yingxue Zhang	https://doi.org/10.1145/3459637.3482116	Short Paper Track
+Enhancing Aspect-Based Sentiment Analysis with Supervised Contrastive Learning.	Bin Liang, Wangda Luo, Xiang Li, Lin Gui, Min Yang, Xiaoqi Yu, Ruifeng Xu	https://doi.org/10.1145/3459637.3482096	Short Paper Track
+Multivariate and Propagation Graph Attention Network for Spatial-Temporal Prediction with Outdoor Cellular Traffic.	Chung-Yi Lin, Hung-Ting Su, Shen-Lung Tung, Winston H. Hsu	https://doi.org/10.1145/3459637.3482152	Short Paper Track
+GGP: A Graph-based Grouping Planner for Explicit Control of Long Text Generation.	Xuming Lin, Shaobo Cui, Zhongzhou Zhao, Wei Zhou, Ji Zhang, Haiqing Chen	https://doi.org/10.1145/3459637.3482111	Short Paper Track
+State-Aware Meta-Evaluation of Evaluation Metrics in Interactive Information Retrieval.	Jiqun Liu, Ran Yu	https://doi.org/10.1145/3459637.3482190	Short Paper Track
+Deep Active Learning for Text Classification with Diverse Interpretations.	Qiang Liu, Yanqiao Zhu, Zhaocheng Liu, Yufeng Zhang, Shu Wu	https://doi.org/10.1145/3459637.3482080	Short Paper Track
+Fine-Grained Element Identification in Complaint Text of Internet Fraud.	Tong Liu, Siyuan Wang, Jingchao Fu, Lei Chen, Zhongyu Wei, Yaqi Liu, Heng Ye, Liaosa Xu, Weiqiang Wang, Xuanjing Huang	https://doi.org/10.1145/3459637.3482108	Short Paper Track
+Age Inference Using A Hierarchical Attention Neural Network.	Yaguang Liu, Lisa Singh	https://doi.org/10.1145/3459637.3482055	Short Paper Track
+Learning Representations of Inactive Users: A Cross Domain Approach with Graph Neural Networks.	Ziqi Liu, Yue Shen, Xiaocheng Cheng, Qiang Li, Jianping Wei, Zhiqiang Zhang, Dong Wang, Xiaodong Zeng, Jinjie Gu, Jun Zhou	https://doi.org/10.1145/3459637.3482131	Short Paper Track
+FedSkel: Efficient Federated Learning on Heterogeneous Systems with Skeleton Gradients Update.	Junyu Luo, Jianlei Yang, Xucheng Ye, Xin Guo, Weisheng Zhao	https://doi.org/10.1145/3459637.3482107	Short Paper Track
+Operation Diagnosis on Procedure Graph: The Task and Dataset.	Ruipu Luo, Qi Zhu, Qin Chen, Siyuan Wang, Zhongyu Wei, Weijian Sun, Shuang Tang	https://doi.org/10.1145/3459637.3482157	Short Paper Track
+Review-Aware Neural Recommendation with Cross-Modality Mutual Attention.	Songyin Luo, Xiangkui Lu, Jun Wu, Jianbo Yuan	https://doi.org/10.1145/3459637.3482172	Short Paper Track
+Leveraging Domain Information to Classify Financial Documents via Unsupervised Graph Momentum Contrast.	Xueni Luo, Dawei Cheng, Haorui Ma, Junhao Wang, Mengzhen Fan, Yifeng Luo	https://doi.org/10.1145/3459637.3482133	Short Paper Track
+Smoothing with Fake Label.	Ziyang Luo, Yadong Xi, Xiaoxi Mao	https://doi.org/10.1145/3459637.3482184	Short Paper Track
+Learning Sparse Binary Code for Maximum Inner Product Search.	Changyi Ma, Fangchen Yu, Yueyao Yu, Wenye Li	https://doi.org/10.1145/3459637.3482132	Short Paper Track
+Temporal Network Embedding via Tensor Factorization.	Jing Ma, Qiuchen Zhang, Jian Lou, Li Xiong, Joyce C. Ho	https://doi.org/10.1145/3459637.3482200	Short Paper Track
+On Approximate Nearest Neighbour Selection for Multi-Stage Dense Retrieval.	Craig Macdonald, Nicola Tonellotto	https://doi.org/10.1145/3459637.3482156	Short Paper Track
+GDFM: Gene Vectors Embodied Deep Attentional Factorization Machines for Interaction prediction.	Sameen Mansha, Tayyab Khalid, Faisal Kamiran, Masroor Hussain, Syed Fawad Hussain, Hongzhi Yin	https://doi.org/10.1145/3459637.3482110	Short Paper Track
+Neuron Campaign for Initialization Guided by Information Bottleneck Theory.	Haitao Mao, Xu Chen, Qiang Fu, Lun Du, Shi Han, Dongmei Zhang	https://doi.org/10.1145/3459637.3482153	Short Paper Track
+On Skipping Behaviour Types in Music Streaming Sessions.	Francesco Meggetto, Crawford Revie, John Levine, Yashar Moshfeghi	https://doi.org/10.1145/3459637.3482123	Short Paper Track
+Multi-objective Few-shot Learning for Fair Classification.	Ishani Mondal, Procheta Sen, Debasis Ganguly	https://doi.org/10.1145/3459637.3482146	Short Paper Track
+MDFEND: Multi-domain Fake News Detection.	Qiong Nan, Juan Cao, Yongchun Zhu, Yanyan Wang, Jintao Li	https://doi.org/10.1145/3459637.3482139	Short Paper Track
+Discovery of Temporal Graph Functional Dependencies.	Levin Noronha, Fei Chiang	https://doi.org/10.1145/3459637.3482087	Short Paper Track
+Lightweight Visual Question Answering using Scene Graphs.	Sai Vidyaranya Nuthalapati, Ramraj Chandradevan, Eleonora Giunchiglia, Bowen Li, Maxime Kayser, Thomas Lukasiewicz, Carl Yang	https://doi.org/10.1145/3459637.3482218	Short Paper Track
+Training Neural Networks with Random Noise Images for Adversarial Robustness.	Ji-Young Park, Lin Liu, Jiuyong Li, Jixue Liu	https://doi.org/10.1145/3459637.3482205	Short Paper Track
+Evaluating Fairness in Argument Retrieval.	Sachin Pathiyan Cherumanal, Damiano Spina, Falk Scholer, W. Bruce Croft	https://doi.org/10.1145/3459637.3482099	Short Paper Track
+Evaluating the Prediction Bias Induced by Label Imbalance in Multi-label Classification.	Luca Piras, Ludovico Boratto, Guilherme Ramos	https://doi.org/10.1145/3459637.3482100	Short Paper Track
+Trilateral Spatiotemporal Attention Network for User Behavior Modeling in Location-based Search.	Yi Qi, Ke Hu, Bo Zhang, Jia Cheng, Jun Lei	https://doi.org/10.1145/3459637.3482206	Short Paper Track
+Reputation Equity in Ranking Systems.	Guilherme Ramos, Ludovico Boratto, Mirko Marras	https://doi.org/10.1145/3459637.3482171	Short Paper Track
+Student Can Also be a Good Teacher: Extracting Knowledge from Vision-and-Language Model for Cross-Modal Retrieval.	Jun Rao, Tao Qian, Shuhan Qi, Yulin Wu, Qing Liao, Xuan Wang	https://doi.org/10.1145/3459637.3482194	Short Paper Track
+Accelerating Variant Calling on Human Genomes Using a Commodity Cluster.	Praveen Rao, Arun Zachariah, Deepthi S. Rao, Peter J. Tonellato, Wesley C. Warren, Eduardo Simoes	https://doi.org/10.1145/3459637.3482047	Short Paper Track
+A Conditional Cascade Model for Relational Triple Extraction.	Feiliang Ren, Longhui Zhang, Shujuan Yin, Xiaofeng Zhao, Shilei Liu, Bochao Li	https://doi.org/10.1145/3459637.3482045	Short Paper Track
+Knowledge-Aware Neural Networks for Medical Forum Question Classification.	Soumyadeep Roy, Sudip Chakraborty, Aishik Mandal, Gunjan Balde, Prakhar Sharma, Anandhavelu Natarajan, Megha Khosla, Shamik Sural, Niloy Ganguly	https://doi.org/10.1145/3459637.3482128	Short Paper Track
+Will Sorafenib Help?: Treatment-aware Reranking in Precision Medicine Search.	Maciej Rybinski, Sarvnaz Karimi	https://doi.org/10.1145/3459637.3482220	Short Paper Track
+DeepGroup: Group Recommendation with Implicit Feedback.	Sarina Sajadi Ghaemmaghami, Amirali Salehi-Abari	https://doi.org/10.1145/3459637.3482081	Short Paper Track
+Locate Who You Are: Matching Geo-location to Text for User Identity Linkage.	Jiangli Shao, Yongqing Wang, Hao Gao, Huawei Shen, Yangyang Li, Xueqi Cheng	https://doi.org/10.1145/3459637.3482134	Short Paper Track
+Determining Subjective Bias in Text through Linguistically Informed Transformer based Multi-Task Network.	Manjira Sinha, Tirthankar Dasgupta	https://doi.org/10.1145/3459637.3482084	Short Paper Track
+Predicting Success of a Persuasion through Joint Modeling of Utterance Categorization.	Manjira Sinha, Tirthankar Dasgupta	https://doi.org/10.1145/3459637.3482160	Short Paper Track
+Self-Supervised Learning based on Sentiment Analysis with Word Weight Calculation.	Dongcheol Son, Youngjoong Ko	https://doi.org/10.1145/3459637.3482180	Short Paper Track
+Location-Aware Named Entity Disambiguation.	Maithrreye Srinivasan, Davood Rafiei	https://doi.org/10.1145/3459637.3482135	Short Paper Track
+AGCNT: Adaptive Graph Convolutional Network for Transformer-based Long Sequence Time-Series Forecasting.	Hongyang Su, Xiaolong Wang, Yang Qin	https://doi.org/10.1145/3459637.3482054	Short Paper Track
+Talking Face Generation Based on Information Bottleneck and Complementary Representations.	Jie Tang, Yiling Wu, Minglei Li, Zhu Wang	https://doi.org/10.1145/3459637.3482198	Short Paper Track
+HiCoVA: Hierarchical Conditional Variational Autoencoder for Keyphrase Generation.	Tokala Yaswanth Sri Sai Santosh, Nikhil Reddy Varimalla, Anoop Vallabhajosyula, Debarshi Kumar Sanyal, Partha Pratim Das	https://doi.org/10.1145/3459637.3482119	Short Paper Track
+Query Embedding Pruning for Dense Retrieval.	Nicola Tonellotto, Craig Macdonald	https://doi.org/10.1145/3459637.3482162	Short Paper Track
+Vector-Quantized Autoencoder With Copula for Collaborative Filtering.	Guanyu Wang, Ting Zhong, Xovee Xu, Kunpeng Zhang, Fan Zhou, Yong Wang	https://doi.org/10.1145/3459637.3482216	Short Paper Track
+SportsSum2.0: Generating High-Quality Sports News from Live Text Commentary.	Jiaan Wang, Zhixu Li, Qiang Yang, Jianfeng Qu, Zhigang Chen, Qingsheng Liu, Guoping Hu	https://doi.org/10.1145/3459637.3482188	Short Paper Track
+Template-guided Clarifying Question Generation for Web Search Clarification.	Jian Wang, Wenjie Li	https://doi.org/10.1145/3459637.3482199	Short Paper Track
+Embedding Node Structural Role Identity Using Stress Majorization.	Lili Wang, Chenghan Huang, Weicheng Ma, Ying Lu, Soroush Vosoughi	https://doi.org/10.1145/3459637.3482095	Short Paper Track
+Graph Embedding via Diffusion-Wavelets-Based Node Feature Distribution Characterization.	Lili Wang, Chenghan Huang, Weicheng Ma, Xinyuan Cao, Soroush Vosoughi	https://doi.org/10.1145/3459637.3482115	Short Paper Track
+Fully Hyperbolic Graph Convolution Network for Recommendation.	Liping Wang, Fenyu Hu, Shu Wu, Liang Wang	https://doi.org/10.1145/3459637.3482109	Short Paper Track
+Label-informed Graph Structure Learning for Node Classification.	Liping Wang, Fenyu Hu, Shu Wu, Liang Wang	https://doi.org/10.1145/3459637.3482129	Short Paper Track
+BiCMTS: Bidirectional Coupled Multivariate Learning of Irregular Time Series with Missing Values.	Qinfen Wang, Siyuan Ren, Yong Xia, Longbing Cao	https://doi.org/10.1145/3459637.3482064	Short Paper Track
+Adversarial Domain Adaptation for Cross-lingual Information Retrieval with Multilingual BERT.	Runchuan Wang, Zhao Zhang, Fuzhen Zhuang, Dehong Gao, Yi Wei, Qing He	https://doi.org/10.1145/3459637.3482050	Short Paper Track
+Modeling Inter-Claim Interactions for Verifying Multiple Claims.	Shuai Wang, Wenji Mao	https://doi.org/10.1145/3459637.3482144	Short Paper Track
+Low-dimensional Alignment for Cross-Domain Recommendation.	Tianxin Wang, Fuzhen Zhuang, Zhiqiang Zhang, Daixin Wang, Jun Zhou, Qing He	https://doi.org/10.1145/3459637.3482137	Short Paper Track
+DSKReG: Differentiable Sampling on Knowledge Graph for Recommendation with Relational GNN.	Yu Wang, Zhiwei Liu, Ziwei Fan, Lichao Sun, Philip S. Yu	https://doi.org/10.1145/3459637.3482092	Short Paper Track
+Graph Structure Aware Contrastive Knowledge Distillation for Incremental Learning in Recommender Systems.	Yuening Wang, Yingxue Zhang, Mark Coates	https://doi.org/10.1145/3459637.3482117	Short Paper Track
+Improving Irregularly Sampled Time Series Learning with Time-Aware Dual-Attention Memory-Augmented Networks.	Zhen Wang, Yang Zhang, Ai Jiang, Ji Zhang, Zhao Li, Jun Gao, Ke Li, Chenhao Lu, Zujie Ren	https://doi.org/10.1145/3459637.3482079	Short Paper Track
+AutoHERI: Automated Hierarchical Representation Integration for Post-Click Conversion Rate Estimation.	Penghui Wei, Weimin Zhang, Zixuan Xu, Shaoguo Liu, Kuang-chih Lee, Bo Zheng	https://doi.org/10.1145/3459637.3482061	Short Paper Track
+Evidential Relational-Graph Convolutional Networks for Entity Classification in Knowledge Graphs.	Tobias Weller, Heiko Paulheim	https://doi.org/10.1145/3459637.3482102	Short Paper Track
+Structural Deep Incomplete Multi-view Clustering Network.	Jie Wen, Zhihao Wu, Zheng Zhang, Lunke Fei, Bob Zhang, Yong Xu	https://doi.org/10.1145/3459637.3482192	Short Paper Track
+SMAD: Scalable Multi-view Ad Retrieval System for E-Commerce Sponsored Search.	Shiyang Wen, Yiran Chen, Zhi Yang, Yan Zhang, Di Zhang, Liang Wang, Bo Zheng	https://doi.org/10.1145/3459637.3482183	Short Paper Track
+Fairness-Aware Unsupervised Feature Selection.	Xiaoying Xing, Hongfu Liu, Chen Chen, Jundong Li	https://doi.org/10.1145/3459637.3482106	Short Paper Track
+Disentangled Self-Attentive Neural Networks for Click-Through Rate Prediction.	Yichen Xu, Yanqiao Zhu, Feng Yu, Qiang Liu, Shu Wu	https://doi.org/10.1145/3459637.3482088	Short Paper Track
+DESTINE: Dense Subgraph Detection on Multi-Layered Networks.	Zhe Xu, Si Zhang, Yinglong Xia, Liang Xiong, Jiejun Xu, Hanghang Tong	https://doi.org/10.1145/3459637.3482083	Short Paper Track
+Binary Code based Hash Embedding for Web-scale Applications.	Bencheng Yan, Pengjie Wang, Jinquan Liu, Wei Lin, Kuang-Chih Lee, Jian Xu, Bo Zheng	https://doi.org/10.1145/3459637.3482065	Short Paper Track
+Learning Effective and Efficient Embedding via an Adaptively-Masked Twins-based Layer.	Bencheng Yan, Pengjie Wang, Kai Zhang, Wei Lin, Kuang-Chih Lee, Jian Xu, Bo Zheng	https://doi.org/10.1145/3459637.3482130	Short Paper Track
+Relation-aware Heterogeneous Graph for User Profiling.	Qilong Yan, Yufeng Zhang, Qiang Liu, Shu Wu, Liang Wang	https://doi.org/10.1145/3459637.3482170	Short Paper Track
+Multi-Sentence Argument Linking via An Event-Aware Hierarchical Encoder.	Hang Yang, Yubo Chen, Kang Liu, Jun Zhao, Taifeng Wang	https://doi.org/10.1145/3459637.3482148	Short Paper Track
+SCI: Subspace Learning Based Counterfactual Inference for Individual Treatment Effect Estimation.	Liuyi Yao, Yaliang Li, Sheng Li, Mengdi Huai, Jing Gao, Aidong Zhang	https://doi.org/10.1145/3459637.3482175	Short Paper Track
+GraphEvolveDroid: Mitigate Model Degradation in the Scenario of Android Ecosystem Evolution.	Yonghao Gu, Liangxun Li	https://doi.org/10.1145/3459637.3482118	Short Paper Track
+Improving Query Representations for Dense Retrieval with Pseudo Relevance Feedback.	HongChien Yu, Chenyan Xiong, Jamie Callan	https://doi.org/10.1145/3459637.3482124	Short Paper Track
+MixBERT for Image-Ad Relevance Scoring in Advertising.	Tan Yu, Xiaokang Li, Jianwen Xie, Ruiyang Yin, Qing Xu, Ping Li	https://doi.org/10.1145/3459637.3482143	Short Paper Track
+Aspect Sentiment Triplet Extraction Using Reinforcement Learning.	Samson Yu Bai Jian, Tapas Nayak, Navonil Majumder, Soujanya Poria	https://doi.org/10.1145/3459637.3482058	Short Paper Track
+Storing Multi-model Data in RDBMSs based on Reinforcement Learning.	Gongsheng Yuan, Jiaheng Lu, Shuxun Zhang, Zhengtong Yan	https://doi.org/10.1145/3459637.3482191	Short Paper Track
+Multi-objective Privacy-preserving Text Representation Learning.	Huixin Zhan, Kun Zhang, Chenyi Hu, Victor S. Sheng	https://doi.org/10.1145/3459637.3482147	Short Paper Track
+Projective Ranking: A Transferable Evasion Attack Method on Graph Neural Networks.	He Zhang, Bang Wu, Xiangwen Yang, Chuan Zhou, Shuo Wang, Xingliang Yuan, Shirui Pan	https://doi.org/10.1145/3459637.3482161	Short Paper Track
+Causally Attentive Collaborative Filtering.	Jingsen Zhang, Xu Chen, Wayne Xin Zhao	https://doi.org/10.1145/3459637.3482070	Short Paper Track
+SIFN: A Sentiment-aware Interactive Fusion Network for Review-based Item Recommendation.	Kai Zhang, Hao Qian, Qi Liu, Zhiqiang Zhang, Jun Zhou, Jianhui Ma, Enhong Chen	https://doi.org/10.1145/3459637.3482181	Short Paper Track
+Role-oriented Network Embedding Based on Adversarial Learning between Higher-order and Local Features.	Wang Zhang, Xuan Guo, Ting Pan, Chaochao Liu, Pengfei Jiao, Lin Pan, Wenjun Wang	https://doi.org/10.1145/3459637.3482051	Short Paper Track
+Supervised Contrastive Learning for Multimodal Unreliable News Detection in COVID-19 Pandemic.	Wenjia Zhang, Lin Gui, Yulan He	https://doi.org/10.1145/3459637.3482196	Short Paper Track
+DML: Dynamic Multi-Granularity Learning for BERT-Based Document Reranking.	Xuanyu Zhang, Qing Yang	https://doi.org/10.1145/3459637.3482090	Short Paper Track
+DialogueBERT: A Self-Supervised Learning based Dialogue Pre-training Encoder.	Zhenyu Zhang, Tao Guo, Meng Chen	https://doi.org/10.1145/3459637.3482085	Short Paper Track
+Enriching Ontology with Temporal Commonsense for Low-Resource Audio Tagging.	Zhiling Zhang, Zelin Zhou, Haifeng Tang, Guangwei Li, Mengyue Wu, Kenny Q. Zhu	https://doi.org/10.1145/3459637.3482097	Short Paper Track
+Multimodal Graph Meta Contrastive Learning.	Feng Zhao, Donglin Wang	https://doi.org/10.1145/3459637.3482151	Short Paper Track
+Multi-Task Self-Supervised Learning for Script Event Prediction.	Bo Zhou, Yubo Chen, Kang Liu, Jun Zhao, Jiexin Xu, Xiaojian Jiang, Jinlong Li	https://doi.org/10.1145/3459637.3482150	Short Paper Track
+SeDyT: A General Framework for Multi-Step Event Forecasting via Sequence Modeling on Dynamic Entity Embeddings.	Hongkuan Zhou, James Orme-Rogers, Rajgopal Kannan, Viktor K. Prasanna	https://doi.org/10.1145/3459637.3482177	Short Paper Track
+Subtractive Aggregation for Attributed Network Anomaly Detection.	Shuang Zhou, Qiaoyu Tan, Zhiming Xu, Xiao Huang, Fu-Lai Chung	https://doi.org/10.1145/3459637.3482195	Short Paper Track
+Tabular Data Concept Type Detection Using Star-Transformers.	Yiwei Zhou, Siffi Singh, Christos Christodoulopoulos	https://doi.org/10.1145/3459637.3482197	Short Paper Track
+REFINE: Random RangE FInder for Network Embedding.	Hao Zhu, Piotr Koniusz	https://doi.org/10.1145/3459637.3482168	Short Paper Track
+Self-Supervised Embedding for Subspace Clustering.	Wenjie Zhu, Bo Peng, Chunchun Chen	https://doi.org/10.1145/3459637.3482178	Short Paper Track
+Leveraging Semantic Information to Facilitate the Discovery of Underserved Podcasts.	Maryam Aziz, Alice Wang, Aasish Pappu, Hugues Bouchard, Yu Zhao, Benjamin A. Carterette, Mounia Lalmas	https://doi.org/10.1145/3459637.3481934	Applied Research Paper Track
+Enabling Efficiency-Precision Trade-offs for Label Trees in Extreme Classification.	Tavor Z. Baharav, Daniel L. Jiang, Kedarnath Kolluri, Sujay Sanghavi, Inderjit S. Dhillon	https://doi.org/10.1145/3459637.3481914	Applied Research Paper Track
+Multi-Property Molecular Optimization using an Integrated Poly-Cycle Architecture.	Guy Barshatski, Galia Nordon, Kira Radinsky	https://doi.org/10.1145/3459637.3481938	Applied Research Paper Track
+Contrastive Curriculum Learning for Sequential User Behavior Modeling via Data Augmentation.	Shuqing Bian, Wayne Xin Zhao, Kun Zhou, Jing Cai, Yancheng He, Cunxiang Yin, Ji-Rong Wen	https://doi.org/10.1145/3459637.3481905	Applied Research Paper Track
+Structural Temporal Graph Neural Networks for Anomaly Detection in Dynamic Graphs.	Lei Cai, Zhengzhang Chen, Chen Luo, Jiaping Gui, Jingchao Ni, Ding Li, Haifeng Chen	https://doi.org/10.1145/3459637.3481955	Applied Research Paper Track
+Enhancing Explicit and Implicit Feature Interactions via Information Sharing for Parallel Deep CTR Models.	Bo Chen, Yichao Wang, Zhirong Liu, Ruiming Tang, Wei Guo, Hongkun Zheng, Weiwei Yao, Muyu Zhang, Xiuqiang He	https://doi.org/10.1145/3459637.3481915	Applied Research Paper Track
+ETA Prediction with Graph Neural Networks in Google Maps.	Austin Derrow-Pinion, Jennifer She, David Wong, Oliver Lange, Todd Hester, Luis Perez, Marc Nunkesser, Seongjae Lee, Xueying Guo, Brett Wiltshire, Peter W. Battaglia, Vishal Gupta, Ang Li, Zhongwen Xu, Alvaro Sanchez-Gonzalez, Yujia Li, Petar Velickovic	https://doi.org/10.1145/3459637.3481916	Applied Research Paper Track
+AutoCombo: Automatic Malware Signature Generation Through Combination Rule Mining.	Min Du, Wenjun Hu, William Hewlett	https://doi.org/10.1145/3459637.3481896	Applied Research Paper Track
+From Pixels to Words: A Scalable Journey of Text Information from Product Images to Retail Catalog.	Pranay Dugar, Rajesh Shreedhar Bhat, Asit Sharad Tarsode, Uddipto Dutta, Kunal Banerjee, Anirban Chatterjee, Vijay Srinivas Agneeswaran	https://doi.org/10.1145/3459637.3481922	Applied Research Paper Track
+Beast: Scalable Exploratory Analytics on Spatio-temporal Data.	Ahmed Eldawy, Vagelis Hristidis, Saheli Ghosh, Majid Saeedan, Akil Sevim, A. B. Siddique, Samriddhi Singla, Ganesh Sivaram, Tin Vu, Yaming Zhang	https://doi.org/10.1145/3459637.3481897	Applied Research Paper Track
+SATAR: A Self-supervised Approach to Twitter Account Representation Learning and its Application in Bot Detection.	Shangbin Feng, Herun Wan, Ningnan Wang, Jundong Li, Minnan Luo	https://doi.org/10.1145/3459637.3481949	Applied Research Paper Track
+Multilingual Entity Linking System for Wikipedia with a Machine-in-the-Loop Approach.	Martin Gerlach, Marshall Miller, Rita Ho, Kosta Harlan, Djellel Difallah	https://doi.org/10.1145/3459637.3481939	Applied Research Paper Track
+Self-Supervised Learning on Users' Spontaneous Behaviors for Multi-Scenario Ranking in E-commerce.	Yulong Gu, Wentian Bao, Dan Ou, Xiang Li, Baoliang Cui, Biyu Ma, Haikuan Huang, Qingwen Liu, Xiaoyi Zeng	https://doi.org/10.1145/3459637.3481953	Applied Research Paper Track
+Detection of Illicit Drug Trafficking Events on Instagram: A Deep Multimodal Multilabel Learning Approach.	Chuanbo Hu, Minglei Yin, Bin Liu, Xin Li, Yanfang Ye	https://doi.org/10.1145/3459637.3481908	Applied Research Paper Track
+ARGH!: Automated Rumor Generation Hub.	Larry Huynh, Thai Nguyen, Joshua Goh, Hyoungshick Kim, Jin B. Hong	https://doi.org/10.1145/3459637.3481894	Applied Research Paper Track
+LightMove: A Lightweight Next-POI Recommendation forTaxicab Rooftop Advertising.	Jinsung Jeon, Soyoung Kang, Minju Jo, Seunghyeon Cho, Noseong Park, Seonghoon Kim, Chiyoung Song	https://doi.org/10.1145/3459637.3481935	Applied Research Paper Track
+Prohibited Item Detection on Heterogeneous Risk Graphs.	Yugang Ji, Chuan Shi, Xiao Wang	https://doi.org/10.1145/3459637.3481945	Applied Research Paper Track
+Unbiased Filtering of Accidental Clicks in Verizon Media Native Advertising.	Yohay Kaplan, Naama Krasne, Alex Shtoff, Oren Somekh	https://doi.org/10.1145/3459637.3481958	Applied Research Paper Track
+Understanding Job Seeker Funnel for Search and Discovery Personalization.	Nagaraj Kota, Venkatesh Duppada, Ashvini Jindal, Mohit Wadhwa	https://doi.org/10.1145/3459637.3481959	Applied Research Paper Track
+Learning to Bundle Proactively for On-Demand Meal Delivery.	Chengbo Li, Lin Zhu, Guangyuan Fu, Longzhi Du, Canhua Zhao, Tianlun Ma, Chang Ye, Pei Lee	https://doi.org/10.1145/3459637.3481931	Applied Research Paper Track
+Elastic and Stable Compaction for LSM-tree: A FaaS-Based Approach on TerarkDB.	Jianchuan Li, Peiquan Jin, Yuanjin Lin, Ming Zhao, Yi Wang, Kuankuan Guo	https://doi.org/10.1145/3459637.3481913	Applied Research Paper Track
+Causal-Aware Generative Imputation for Automated Underwriting.	Qian Li, Tri Dung Duong, Zhichao Wang, Shaowu Liu, Dingxian Wang, Guandong Xu	https://doi.org/10.1145/3459637.3481900	Applied Research Paper Track
+Grassland: A Rapid Algebraic Modeling System for Million-variable Optimization.	Xihan Li, Xiongwei Han, Zhishuo Zhou, Mingxuan Yuan, Jia Zeng, Jun Wang	https://doi.org/10.1145/3459637.3481925	Applied Research Paper Track
+Unsupervised Categorical Representation Learning for Package Arrival Time Prediction.	Yang Li, Xingyu Wu, Jinglong Wang, Yong Liu, Xiaoqing Wang, Yuming Deng, Chunyan Miao	https://doi.org/10.1145/3459637.3481960	Applied Research Paper Track
+You Are What and Where You Are: Graph Enhanced Attention Network for Explainable POI Recommendation.	Zeyu Li, Wei Cheng, Haiqi Xiao, Wenchao Yu, Haifeng Chen, Wei Wang	https://doi.org/10.1145/3459637.3481962	Applied Research Paper Track
+Failure Prediction for Large-scale Water Pipe Networks Using GNN and Temporal Failure Series.	Shuming Liang, Zhidong Li, Bin Liang, Yu Ding, Yang Wang, Fang Chen	https://doi.org/10.1145/3459637.3481918	Applied Research Paper Track
+Distilling Knowledge from BERT into Simple Fully Connected Neural Networks for Efficient Vertical Retrieval.	Peiyang Liu, Xi Wang, Lin Wang, Wei Ye, Xiangyu Xi, Shikun Zhang	https://doi.org/10.1145/3459637.3481909	Applied Research Paper Track
+Heterogeneous Graph Neural Networks for Large-Scale Bid Keyword Matching.	Zongtao Liu, Bin Ma, Quan Liu, Jian Xu, Bo Zheng	https://doi.org/10.1145/3459637.3481926	Applied Research Paper Track
+Mining Software Entities in Scientific Literature: Document-level NER for an Extremely Imbalance and Large-scale Task.	Patrice Lopez, Caifan Du, Johanna Cohoon, Karthik Ram, James Howison	https://doi.org/10.1145/3459637.3481936	Applied Research Paper Track
+Algorithmic Balancing of Familiarity, Similarity, & Discovery in Music Recommendations.	Rishabh Mehrotra	https://doi.org/10.1145/3459637.3481893	Applied Research Paper Track
+Sequential Search with Off-Policy Reinforcement Learning.	Dadong Miao, Yanan Wang, Guoyu Tang, Lin Liu, Sulong Xu, Bo Long, Yun Xiao, Lingfei Wu, Yunjiang Jiang	https://doi.org/10.1145/3459637.3481954	Applied Research Paper Track
+Scalable Learning to Troubleshoot Query Performance Problems.	Alexandar Mihaylov, Vincent Corvinelli, Parke Godfrey, Piotr Mierzejewski, Jaroslaw Szlichta, Calisto Zuzarte	https://doi.org/10.1145/3459637.3481947	Applied Research Paper Track
+Profiling Neural Blocks and Design Spaces for Mobile Neural Architecture Search.	Keith G. Mills, Fred X. Han, Jialin Zhang, Seyed Saeed Changiz Rezaei, Fabian Chudak, Wei Lu, Shuo Lian, Shangling Jui, Di Niu	https://doi.org/10.1145/3459637.3481944	Applied Research Paper Track
+TSI: An Ad Text Strength Indicator using Text-to-CTR and Semantic-Ad-Similarity.	Shaunak Mishra, Changwei Hu, Manisha Verma, Kevin Yen, Yifan Hu, Maxim Sviridenko	https://doi.org/10.1145/3459637.3481957	Applied Research Paper Track
+Prioritizing Original News on Facebook.	Xiuyan Ni, Shujian Bu, Lucas Adams, Igor L. Markov	https://doi.org/10.1145/3459637.3481943	Applied Research Paper Track
+Learning to Expand: Reinforced Response Expansion for Information-seeking Conversations.	Haojie Pan, Cen Chen, Chengyu Wang, Minghui Qiu, Liu Yang, Feng Ji, Jun Huang	https://doi.org/10.1145/3459637.3481932	Applied Research Paper Track
+Dual Learning for Query Generation and Query Selection in Query Feeds Recommendation.	Kunxun Qi, Ruoxu Wang, Qikai Lu, Xuejiao Wang, Ning Jing, Di Niu, Haolan Chen	https://doi.org/10.1145/3459637.3481910	Applied Research Paper Track
+EasyTransfer: A Simple and Scalable Deep Transfer Learning Platform for NLP Applications.	Minghui Qiu, Peng Li, Chengyu Wang, Haojie Pan, Ang Wang, Cen Chen, Xianyan Jia, Yaliang Li, Jun Huang, Deng Cai, Wei Lin	https://doi.org/10.1145/3459637.3481911	Applied Research Paper Track
+From Closing Triangles to Higher-Order Motif Closures for Better Unsupervised Online Link Prediction.	Ryan A. Rossi, Anup B. Rao, Sungchul Kim, Eunyee Koh, Nesreen K. Ahmed, Gang Wu	https://doi.org/10.1145/3459637.3481920	Applied Research Paper Track
+SAR-Net: A Scenario-Aware Ranking Network for Personalized Fair Recommendation in Hundreds of Travel Scenarios.	Qijie Shen, Wanjie Tao, Jing Zhang, Hong Wen, Zulong Chen, Quan Lu	https://doi.org/10.1145/3459637.3481948	Applied Research Paper Track
+One Model to Serve All: Star Topology Adaptive Recommender for Multi-Domain CTR Prediction.	Xiang-Rong Sheng, Liqin Zhao, Guorui Zhou, Xinyao Ding, Binding Dai, Qiang Luo, Siran Yang, Jingshan Lv, Chi Zhang, Hongbo Deng, Xiaoqiang Zhu	https://doi.org/10.1145/3459637.3481941	Applied Research Paper Track
+From Limited Annotated Raw Material Data to Quality Production Data: A Case Study in the Milk Industry.	Roee Shraga, Gil Katz, Yael Badian, Nitay Calderon, Avigdor Gal	https://doi.org/10.1145/3459637.3481921	Applied Research Paper Track
+K-AID: Enhancing Pre-trained Language Models with Domain Knowledge for Question Answering.	Fu Sun, Feng-Lin Li, Ruize Wang, Qianglong Chen, Xingyi Cheng, Ji Zhang	https://doi.org/10.1145/3459637.3481930	Applied Research Paper Track
+GEDIT: Geographic-Enhanced and Dependency-Guided Tagging for Joint POI and Accessibility Extraction at Baidu Maps.	Yibo Sun, Jizhou Huang, Chunyuan Yuan, Miao Fan, Haifeng Wang, Ming Liu, Bing Qin	https://doi.org/10.1145/3459637.3481924	Applied Research Paper Track
+AudiBERT: A Deep Transfer Learning Multimodal Classification Framework for Depression Screening.	Ermal Toto, M. L. Tlachac, Elke A. Rundensteiner	https://doi.org/10.1145/3459637.3481895	Applied Research Paper Track
+WikiCheck: An End-to-end Open Source Automatic Fact-Checking API based on Wikipedia.	Mykola Trokhymovych, Diego Sáez-Trumper	https://doi.org/10.1145/3459637.3481961	Applied Research Paper Track
+Toward an Effective Black-Box Adversarial Attack on Functional JavaScript Malware against Commercial Anti-Virus.	Yun-Da Tsai, Cheng-Kuan Chen, Shou-De Lin	https://doi.org/10.1145/3459637.3481956	Applied Research Paper Track
+SAUCE: Truncated Sparse Document Signature Bit-Vectors for Fast Web-Scale Corpus Expansion.	Muntasir Wahed, Daniel Gruhl, Alfredo Alba, Anna Lisa Gentile, Petar Ristoski, Chad DeLuca, Steve Welch, Ismini Lourentzou	https://doi.org/10.1145/3459637.3481950	Applied Research Paper Track
+Fulfillment-Time-Aware Personalized Ranking for On-Demand Food Recommendation.	Haishuai Wang, Zhao Li, Xuanwu Liu, Donghui Ding, Zehong Hu, Peng Zhang, Chuan Zhou, Jiajun Bu	https://doi.org/10.1145/3459637.3481923	Applied Research Paper Track
+Influence Maximization in Multi-Relational Social Networks.	Wei Wang, Haili Yang, Yuanfu Lu, Yuanhang Zou, Xu Zhang, Shuting Guo, Leyu Lin	https://doi.org/10.1145/3459637.3481928	Applied Research Paper Track
+Efficient Learning to Learn a Robust CTR Model for Web-scale Online Sponsored Search Advertising.	Xin Wang, Peng Yang, Shaopeng Chen, Lin Liu, Lian Zhao, Jiacheng Guo, Mingming Sun, Ping Li	https://doi.org/10.1145/3459637.3481912	Applied Research Paper Track
+'Could You Describe the Reason for the Transfer?': A Reinforcement Learning Based Voice-Enabled Bot Protecting Customers from Financial Frauds.	Zihao Wang, Fudong Wang, Haipeng Zhang, Minghui Yang, Shaosheng Cao, Zujie Wen, Zhe Zhang	https://doi.org/10.1145/3459637.3481906	Applied Research Paper Track
+Flexible O&M for Telecom Networks at Huawei: A Language Model-based Approach.	Shuang Wu, Zhen Qin, Zhen Wang, Siwei Rao, Qiang Ye, Xingyue Quan, Guangjian Tian	https://doi.org/10.1145/3459637.3481919	Applied Research Paper Track
+Crawler Detection in Location-Based Services Using Attributed Action Net.	Wei Xia, Fei Zhao, Haishuai Wang, Peng Zhang, Anhui Wang, Kang Li	https://doi.org/10.1145/3459637.3481907	Applied Research Paper Track
+Explore, Filter and Distill: Distilled Reinforcement Learning in Recommendation.	Ruobing Xie, Shaoliang Zhang, Rui Wang, Feng Xia, Leyu Lin	https://doi.org/10.1145/3459637.3481917	Applied Research Paper Track
+CausCF: Causal Collaborative Filtering for Recommendation Effect Estimation.	Xu Xie, Zhaoyang Liu, Shiwen Wu, Fei Sun, Cihang Liu, Jiawei Chen, Jinyang Gao, Bin Cui, Bolin Ding	https://doi.org/10.1145/3459637.3481901	Applied Research Paper Track
+Jura: Towards Automatic Compliance Assessment for Annual Reports of Listed Companies.	Zhengqi Xu, Yixuan Cao, Rongyu Cao, Guoxiang Li, Xuanqiang Liu, Yan Pang, Yangbin Wang, Jianfei Zhang, Allie Cheung, Matthew Tam, Lukas Petrikas, Ping Luo	https://doi.org/10.1145/3459637.3481929	Applied Research Paper Track
+Contextual Skill Proficiency via Multi-task Learning at LinkedIn.	Xiao Yan, Ada Ma, Jaewon Yang, Lin Zhu, How Jing, Jacob Bollinger, Qi He	https://doi.org/10.1145/3459637.3481904	Applied Research Paper Track
+CADRE: A Cloud-Based Data Service for Big Bibliographic Data.	Xiaoran Yan, Guangchen Ruan, Dimitar Nikolov, Matthew Hutchinson, Chathuri Peli Kankanamalage, Benjamin Serrette, James R. McCombs, Alan Walsh, Esen Tuna, Valentin Pentchev	https://doi.org/10.1145/3459637.3481898	Applied Research Paper Track
+Seasonal Relevance in E-Commerce Search.	Haode Yang, Parth Gupta, Roberto Fernández Galán, Dan Bu, Dongmei Jia	https://doi.org/10.1145/3459637.3481951	Applied Research Paper Track
+On the Diversity and Explainability of Recommender Systems: A Practical Framework for Enterprise App Recommendation.	Wenzhuo Yang, Jia Li, Chenxi Li, Latrice Barnett, Markus Anderle, Simo Arajärvi, Harshavardhan Utharavalli, Caiming Xiong, Steven C. H. Hoi	https://doi.org/10.1145/3459637.3481940	Applied Research Paper Track
+Cascaded Deep Neural Ranking Models in LinkedIn People Search.	Zimeng Yang, Song Yan, Abhimanyu Lad, Xiaowei Liu, Weiwei Guo	https://doi.org/10.1145/3459637.3481899	Applied Research Paper Track
+Self-supervised Learning for Large-scale Item Recommendations.	Tiansheng Yao, Xinyang Yi, Derek Zhiyuan Cheng, Felix X. Yu, Ting Chen, Aditya Krishna Menon, Lichan Hong, Ed H. Chi, Steve Tjoa, Jieqi (Jay) Kang, Evan Ettinger	https://doi.org/10.1145/3459637.3481952	Applied Research Paper Track
+Online Multi-horizon Transaction Metric Estimation with Multi-modal Learning in Payment Networks.	Chin-Chia Michael Yeh, Zhongfang Zhuang, Junpeng Wang, Yan Zheng, Javid Ebrahimi, Ryan Mercer, Liang Wang, Wei Zhang	https://doi.org/10.1145/3459637.3481942	Applied Research Paper Track
+Multi-modal Dictionary BERT for Cross-modal Video Search in Baidu Advertising.	Tan Yu, Yi Yang, Yi Li, Lin Liu, Mingming Sun, Ping Li	https://doi.org/10.1145/3459637.3481937	Applied Research Paper Track
+CHASE: Commonsense-Enriched Advertising on Search Engine with Explicit Knowledge.	Chao Zhang, Jingbo Zhou, Xiaoling Zang, Qing Xu, Liang Yin, Xiang He, Lin Liu, Haoyi Xiong, Dejing Dou	https://doi.org/10.1145/3459637.3481902	Applied Research Paper Track
+QUEACO: Borrowing Treasures from Weakly-labeled Behavior Data for Query Attribute Value Extraction.	Danqing Zhang, Zheng Li, Tianyu Cao, Chen Luo, Tony Wu, Hanqing Lu, Yiwei Song, Bing Yin, Tuo Zhao, Qiang Yang	https://doi.org/10.1145/3459637.3481946	Applied Research Paper Track
+CloudRCA: A Root Cause Analysis Framework for Cloud Computing Platforms.	Yingying Zhang, Zhengxiong Guan, Huajie Qian, Leili Xu, Hengbo Liu, Qingsong Wen, Liang Sun, Junwei Jiang, Lunting Fan, Min Ke	https://doi.org/10.1145/3459637.3481903	Applied Research Paper Track
+HierST: A Unified Hierarchical Spatial-temporal Framework for COVID-19 Trend Forecasting.	Shun Zheng, Zhifeng Gao, Wei Cao, Jiang Bian, Tie-Yan Liu	https://doi.org/10.1145/3459637.3481927	Applied Research Paper Track
+Learning to Pack: A Data-Driven Tree Search Algorithm for Large-Scale 3D Bin Packing Problem.	Qianwen Zhu, Xihan Li, Zihan Zhang, Zhixing Luo, Xialiang Tong, Mingxuan Yuan, Jia Zeng	https://doi.org/10.1145/3459637.3481933	Applied Research Paper Track
+Matches Made in Heaven: Toolkit and Large-Scale Datasets for Supervised Query Reformulation.	Negar Arabzadeh, Amin Bigdeli, Shirin Seyedsalehi, Morteza Zihayat, Ebrahim Bagheri	https://doi.org/10.1145/3459637.3482009	Resource Paper Track
+MS MARCO Chameleons: Challenging the MS MARCO Leaderboard with Extremely Obstinate Queries.	Negar Arabzadeh, Bhaskar Mitra, Ebrahim Bagheri	https://doi.org/10.1145/3459637.3482011	Resource Paper Track
+VidLife: A Dataset for Life Event Extraction from Videos.	Tai-Te Chu, An-Zi Yen, Wei-Hong Ang, Hen-Hsen Huang, Hsin-Hsi Chen	https://doi.org/10.1145/3459637.3482022	Resource Paper Track
+GAKG: A Multimodal Geoscience Academic Knowledge Graph.	Cheng Deng, Yuting Jia, Hui Xu, Chong Zhang, Jingyao Tang, Luoyi Fu, Weinan Zhang, Haisong Zhang, Xinbing Wang, Chenghu Zhou	https://doi.org/10.1145/3459637.3482003	Resource Paper Track
+CoST: An annotated Data Collection for Complex Search.	Cheyenne Dosso, José G. Moreno, Aline Chevalier, Lynda Tamine	https://doi.org/10.1145/3459637.3481998	Resource Paper Track
+DistRDF2ML - Scalable Distributed In-Memory Machine Learning Pipelines for RDF Knowledge Graphs.	Carsten Felix Draschner, Claus Stadler, Farshad Bakhshandegan Moghaddam, Jens Lehmann, Hajira Jabeen	https://doi.org/10.1145/3459637.3481999	Resource Paper Track
+WorldKG: A World-Scale Geographic Knowledge Graph.	Alishiba Dsouza, Nicolas Tempelmeier, Ran Yu, Simon Gottschalk, Elena Demidova	https://doi.org/10.1145/3459637.3482023	Resource Paper Track
+TwiBot-20: A Comprehensive Twitter Bot Detection Benchmark.	Shangbin Feng, Herun Wan, Ningnan Wang, Jundong Li, Minnan Luo	https://doi.org/10.1145/3459637.3482019	Resource Paper Track
+Evaluating Graph Vulnerability and Robustness using TIGER.	Scott Freitas, Diyi Yang, Srijan Kumar, Hanghang Tong, Duen Horng Chau	https://doi.org/10.1145/3459637.3482002	Resource Paper Track
+LC: A Flexible, Extensible Open-Source Toolkit for Model Compression.	Yerlan Idelbayev, Miguel Á. Carreira-Perpiñán	https://doi.org/10.1145/3459637.3482005	Resource Paper Track
+DL-Traff: Survey and Benchmark of Deep Learning Models for Urban Traffic Prediction.	Renhe Jiang, Du Yin, Zhaonan Wang, Yizhuo Wang, Jiewen Deng, Hangchen Liu, Zekun Cai, Jinliang Deng, Xuan Song, Ryosuke Shibasaki	https://doi.org/10.1145/3459637.3482000	Resource Paper Track
+PyTerrier: Declarative Experimentation in Python from BM25 to Dense Retrieval.	Craig Macdonald, Nicola Tonellotto, Sean MacAvaney, Iadh Ounis	https://doi.org/10.1145/3459637.3482013	Resource Paper Track
+QuaPy: A Python-Based Framework for Quantification.	Alejandro Moreo, Andrea Esuli, Fabrizio Sebastiani	https://doi.org/10.1145/3459637.3482015	Resource Paper Track
+Pirá: A Bilingual Portuguese-English Dataset for Question-Answering about the Ocean.	André F. A. Paschoal, Paulo Pirozelli, Valdinei Freire, Karina Valdivia Delgado, Sarajane M. Peres, Marcos Menon José, Flávio Nakasato Cação, André Seidel Oliveira, Anarosa A. F. Brandão, Anna H. R. Costa, Fábio Gagliardi Cozman	https://doi.org/10.1145/3459637.3482012	Resource Paper Track
+VerbCL: A Dataset of Verbatim Quotes for Highlight Extraction in Case Law.	Julien Rossi, Svitlana Vakulenko, Evangelos Kanoulas	https://doi.org/10.1145/3459637.3482021	Resource Paper Track
+PyTorch Geometric Temporal: Spatiotemporal Signal Processing with Neural Machine Learning Models.	Benedek Rozemberczki, Paul Scherer, Yixuan He, George Panagopoulos, Alexander Riedel, Maria Sinziana Astefanoaei, Oliver Kiss, Ferenc Béres, Guzmán López, Nicolas Collignon, Rik Sarkar	https://doi.org/10.1145/3459637.3482014	Resource Paper Track
+SoMeSci- A 5 Star Open Data Gold Standard Knowledge Graph of Software Mentions in Scientific Articles.	David Schindler, Felix Bensmann, Stefan Dietze, Frank Krüger	https://doi.org/10.1145/3459637.3482017	Resource Paper Track
+librec-auto: A Tool for Recommender Systems Experimentation.	Nasim Sonboli, Masoud Mansoury, Ziyue Guo, Shreyas Kadekodi, Weiwen Liu, Zijun Liu, Andrew Schwartz, Robin Burke	https://doi.org/10.1145/3459637.3482006	Resource Paper Track
+TrUMAn: Trope Understanding in Movies and Animations.	Hung-Ting Su, Po-Wei Shen, Bing-Chen Tsai, Wen-Feng Cheng, Ke-Jyun Wang, Winston H. Hsu	https://doi.org/10.1145/3459637.3482018	Resource Paper Track
+GeoVectors: A Linked Open Corpus of OpenStreetMap Embeddings on World Scale.	Nicolas Tempelmeier, Simon Gottschalk, Elena Demidova	https://doi.org/10.1145/3459637.3482004	Resource Paper Track
+ULTRA: An Unbiased Learning To Rank Algorithm Toolbox.	Anh Tran, Tao Yang, Qingyao Ai	https://doi.org/10.1145/3459637.3482020	Resource Paper Track
+LiteratureQA: A Qestion Answering Corpus with Graph Knowledge on Academic Literature.	Haiwen Wang, Le Zhou, Weinan Zhang, Xinbing Wang	https://doi.org/10.1145/3459637.3482007	Resource Paper Track
+Machamp: A Generalized Entity Matching Benchmark.	Jin Wang, Yuliang Li, Wataru Hirota	https://doi.org/10.1145/3459637.3482008	Resource Paper Track
+MOOCCubeX: A Large Knowledge-centered Repository for Adaptive Learning in MOOCs.	Jifan Yu, Yuquan Wang, Qingyang Zhong, Gan Luo, Yiming Mao, Kai Sun, Wenzheng Feng, Wei Xu, Shulin Cao, Kaisheng Zeng, Zijun Yao, Lei Hou, Yankai Lin, Peng Li, Jie Zhou, Bin Xu, Juanzi Li, Jie Tang, Maosong Sun	https://doi.org/10.1145/3459637.3482010	Resource Paper Track
+RecBole: Towards a Unified, Comprehensive and Efficient Framework for Recommendation Algorithms.	Wayne Xin Zhao, Shanlei Mu, Yupeng Hou, Zihan Lin, Yushuo Chen, Xingyu Pan, Kaiyuan Li, Yujie Lu, Hui Wang, Changxin Tian, Yingqian Min, Zhichao Feng, Xinyan Fan, Xu Chen, Pengfei Wang, Wendi Ji, Yaliang Li, Xiaoling Wang, Ji-Rong Wen	https://doi.org/10.1145/3459637.3482016	Resource Paper Track
+FairCORELS, an Open-Source Library for Learning Fair Rule Lists.	Ulrich Aïvodji, Julien Ferry, Sébastien Gambs, Marie-José Huguet, Mohamed Siala	https://doi.org/10.1145/3459637.3481965	Demo Papers
+Discovering Conflicts of Interest across Heterogeneous Data Sources with ConnectionLens.	Angelos-Christos G. Anadiotis, Oana Balalau, Theo Bouganim, Francesco Chimienti, Helena Galhardas, Mhd Yamen Haddad, Stephane Horel, Ioana Manolescu, Youssr Youssef	https://doi.org/10.1145/3459637.3481982	Demo Papers
+MVQAS: A Medical Visual Question Answering System.	Haoyue Bai, Xiaoyan Shan, Yefan Huang, Xiaoli Wang	https://doi.org/10.1145/3459637.3481971	Demo Papers
+Landmark Explanation: An Explainer for Entity Matching Models.	Andrea Baraldi, Francesco Del Buono, Matteo Paganelli, Francesco Guerra	https://doi.org/10.1145/3459637.3481981	Demo Papers
+Beamer: An End-to-End Deep Learning Framework for Unifying Data Cleaning in DNN Model Training and Inference.	Nifei Bi, Xiansen Chen, Chen Xu, Aoying Zhou	https://doi.org/10.1145/3459637.3481977	Demo Papers
+WhatTheWikiFact: Fact-Checking Claims Against Wikipedia.	Anton Chernyavskiy, Dmitry Ilvovsky, Preslav Nakov	https://doi.org/10.1145/3459637.3481987	Demo Papers
+DashBot: An ML-Guided Dashboard Generation System.	Sandrine Da Col, Radu Ciucanu, Marta Soare, Nassim Bouarour, Sihem Amer-Yahia	https://doi.org/10.1145/3459637.3481968	Demo Papers
+SearchEHR: A Family History Search System for Clinical Decision Support.	Xiang Dai, Maciej Rybinski, Sarvnaz Karimi	https://doi.org/10.1145/3459637.3481986	Demo Papers
+OpenAttHetRL: An Open Source Toolkit for Attributed Heterogeneous Network Representation Learning.	Roohollah Etemadi, Morteza Zihayat, Kuan Feng, Jason Adelman, Ebrahim Bagheri	https://doi.org/10.1145/3459637.3481988	Demo Papers
+An RDF Data Management System for Conflict Casualties.	Yad Fatah, Mark Nourallah, Lynn Wahab, Fatima K. Abu Salem, Shady Elbassuoni	https://doi.org/10.1145/3459637.3481976	Demo Papers
+PyTFL: A Python-based Neural Team Formation Toolkit.	Radin Hamidi Rad, Aabid Mitha, Hossein Fani, Mehdi Kargar, Jaroslaw Szlichta, Ebrahim Bagheri	https://doi.org/10.1145/3459637.3481992	Demo Papers
+TagPick: A System for Bridging Micro-Video Hashtags and E-commerce Categories.	Li He, Dingxian Wang, Hanzhang Wang, Hongxu Chen, Guandong Xu	https://doi.org/10.1145/3459637.3481979	Demo Papers
+HAO Unity: A Graph-based System for Unifying Heterogeneous Data.	Fei Jie, Yanxiang Huang, Qiangwei Bai, Xindong Wu	https://doi.org/10.1145/3459637.3481991	Demo Papers
+SPARQL-vision: A Platform for Querying, Visualising and Exploring SPARQL endpoints.	Maria Krommyda, Verena Kantere	https://doi.org/10.1145/3459637.3481997	Demo Papers
+CLC-RS: A Chinese Legal Case Retrieval System with Masked Language Ranking.	Jieke Li, Min Yang, Chengming Li	https://doi.org/10.1145/3459637.3481994	Demo Papers
+RCES: Rapid Cues Exploratory Search Using Taxonomies For COVID-19.	Wei Li, Rishi Choudhary, Arjumand Younus, Bruno Ohana, Nicole Baker, Brendan Leen, Muhammad Atif Qureshi	https://doi.org/10.1145/3459637.3481990	Demo Papers
+Health Claims Unpacked: A toolkit to Enhance the Communication of Health Claims for Food.	Xiao Li, Huizhi Liang, Zehao Liu	https://doi.org/10.1145/3459637.3481984	Demo Papers
+From Community Search to Community Understanding: A Multimodal Community Query Engine.	Zhao Li, Pengcheng Zou, Xia Chen, Shichang Hu, Peng Zhang, Yumou Zhang, Bingsheng He, Yuchen Li, Xing Tang	https://doi.org/10.1145/3459637.3481973	Demo Papers
+IMAS++: An Intelligent Medical Analysis System Enhanced with Deep Graph Neural Networks.	Feng Luo, Yue Zhang, Xiaoli Wang	https://doi.org/10.1145/3459637.3481966	Demo Papers
+RW-Team: Robust Team Formation using Random Walk.	John Nemec, Heidar Davoudi, Lukasz Golab, Mehdi Kargar, Yuliya Lytvyn, Piotr Mierzejewski, Jaroslaw Szlichta, Morteza Zihayat	https://doi.org/10.1145/3459637.3481969	Demo Papers
+DLQ: A System for Label-Constrained Reachability Queries on Dynamic Graphs.	You Peng, Wenjie Zhao, Wenjie Zhang, Xuemin Lin, Ying Zhang	https://doi.org/10.1145/3459637.3481978	Demo Papers
+DORA THE EXPLORER: Exploring Very Large Data With Interactive Deep Reinforcement Learning.	Aurélien Personnaz, Sihem Amer-Yahia, Laure Berti-Équille, Maximilian Fabricius, Srividya Subramanian	https://doi.org/10.1145/3459637.3481967	Demo Papers
+A Semantic Data Marketplace for Easy Data Sharing within a Smart City.	André Pomp, Alexander Paulus, Andreas Burgdorf, Tobias Meisen	https://doi.org/10.1145/3459637.3481995	Demo Papers
+PRASEMap: A Probabilistic Reasoning and Semantic Embedding based Knowledge Graph Alignment System.	Zhiyuan Qi, Ziheng Zhang, Jiaoyan Chen, Xi Chen, Yefeng Zheng	https://doi.org/10.1145/3459637.3481972	Demo Papers
+A Sentiment and Style Controllable Approach for Chinese Poetry Generation.	Yizhan Shao, Tong Shao, Minghao Wang, Peng Wang, Jie Gao	https://doi.org/10.1145/3459637.3481964	Demo Papers
+CauseBox: A Causal Inference Toolbox for BenchmarkingTreatment Effect Estimators with Machine Learning Methods.	Paras Sheth, Ujun Jeong, Ruocheng Guo, Huan Liu, K. Selçuk Candan	https://doi.org/10.1145/3459637.3481974	Demo Papers
+Videolytics: System for Data Analytics of Video Streams.	Tomás Skopal, Dominika Durisková, Petr Pechman, Marek Dobranský, Vladislav Khachaturian	https://doi.org/10.1145/3459637.3481980	Demo Papers
+A Cohesive Structure Based Bipartite Graph Analytics System.	Kai Wang, Yiheng Hu, Xuemin Lin, Wenjie Zhang, Lu Qin, Ying Zhang	https://doi.org/10.1145/3459637.3481963	Demo Papers
+Jasmine: Exploring the Dependency-Aware Execution on Distributed Shared Memory.	Xing Wei, Huiqi Hu, Xuan Zhou, Xuecheng Qi, Weining Qian, Jiang Wang, Aoying Zhou	https://doi.org/10.1145/3459637.3481993	Demo Papers
+AliMe MKG: A Multi-modal Knowledge Graph for Live-streaming E-commerce.	Guohai Xu, Hehong Chen, Feng-Lin Li, Fu Sun, Yunzhou Shi, Zhixiong Zeng, Wei Zhou, Zhongzhou Zhao, Ji Zhang	https://doi.org/10.1145/3459637.3481983	Demo Papers
+A Chinese Knowledge Base Question Answering System.	Xiaona Xue, Jinling Jiang, Wenjian Zhang, Yanxiang Huang, Xindong Wu	https://doi.org/10.1145/3459637.3481970	Demo Papers
+Form 10-Q Itemization.	Yanci Zhang, Tianming Du, Yujie Sun, Lawrence Donohue, Rui Dai	https://doi.org/10.1145/3459637.3481989	Demo Papers
+FaxPlainAC: A Fact-Checking Tool Based on EXPLAINable Models with HumAn Correction in the Loop.	Zijian Zhang, Koustav Rudra, Avishek Anand	https://doi.org/10.1145/3459637.3481985	Demo Papers
+SaDes: An Interactive System for Sensitivity-aware Desensitization towards Tabular Data.	Kechun Zhao, Hui Li, Zheng Gong, Jiangtao Cui	https://doi.org/10.1145/3459637.3481975	Demo Papers
+AntOpt: A Multi-functional Large-scale Decision Optimization Platform.	Jun Zhou, Yang Bao, Hua Wu, Zhigang Hua	https://doi.org/10.1145/3459637.3481996	Demo Papers
+Online Advertising Incrementality Testing: Practical Lessons And Emerging Challenges.	Joel Barajas, Narayan Bhamidipati, James G. Shanahan	https://doi.org/10.1145/3459637.3482031	Tutorials
+Aggregation Techniques in Crowdsourcing: Multiple Choice Questions and Beyond.	Djellel Difallah, Alessandro Checco	https://doi.org/10.1145/3459637.3482032	Tutorials
+Large-Scale Information Extraction under Privacy-Aware Constraints.	Rajeev Gupta, Ranganath Kondapally	https://doi.org/10.1145/3459637.3482027	Tutorials
+Fair Graph Mining.	Jian Kang, Hanghang Tong	https://doi.org/10.1145/3459637.3482030	Tutorials
+AutoML: From Methodology to Application.	Yaliang Li, Zhen Wang, Yuexiang Xie, Bolin Ding, Kai Zeng, Ce Zhang	https://doi.org/10.1145/3459637.3483279	Tutorials
+CIKM 2021 Tutorial on Fairness of Machine Learning in Recommender Systems.	Yunqi Li, Yingqiang Ge, Yongfeng Zhang	https://doi.org/10.1145/3459637.3483280	Tutorials
+IR From Bag-of-words to BERT and Beyond through Practical Experiments.	Craig Macdonald, Nicola Tonellotto, Sean MacAvaney	https://doi.org/10.1145/3459637.3482028	Tutorials
+Fake News, Disinformation, Propaganda, and Media Bias.	Preslav Nakov, Giovanni Da San Martino	https://doi.org/10.1145/3459637.3482026	Tutorials
+Adversarial Robustness of Deep Learning: Theory, Algorithms, and Applications.	Wenjie Ruan, Xinping Yi, Xiaowei Huang	https://doi.org/10.1145/3459637.3482029	Tutorials
+MODIMO: Workshop on Multi-Omics Data Integration for Modelling Biological Systems.	Marco Beccuti, Vincenzo Bonnici, Rosalba Giugno	https://doi.org/10.1145/3459637.3482038	Workshops
+MUFin'21: First International Workshop on Modelling Uncertainty in the Financial World.	Srikanta Bedathur, Tanmoy Bhowmik, Nitendra Rajput, Karamjit Singh, Maneet Singh	https://doi.org/10.1145/3459637.3482042	Workshops
+Learning to Quantify: Methods and Applications (LQ 2021).	Juan José del Coz, Pablo González, Alejandro Moreo, Fabrizio Sebastiani	https://doi.org/10.1145/3459637.3482040	Workshops
+THECOG - Transforms In Behavioral And Affective Computing.	Georgios Drakopoulos, Eleanna Kafeza	https://doi.org/10.1145/3459637.3482039	Workshops
+CDCEO'21 - First Workshop on Complex Data Challenges in Earth Observation.	Aleksandra Gruca, Pedro Herruzo, Pilar Rípodas, Andrzej Kucik, Christian Briese, Michael K. Kopp, Sepp Hochreiter, Pedram Ghamisi, David P. Kreil	https://doi.org/10.1145/3459637.3482044	Workshops
+IWILDS'21: Second International Workshop on Learning During Web Search.	Anett Hoppe, Ran Yu, Irina R. Brich, Jiqun Liu	https://doi.org/10.1145/3459637.3482034	Workshops
+First Workshop on Knowledge Injection in Neural Networks (KINN).	Vasudev Lal, Somak Aditya, Yezhou Yang, Pasquale Minervini, Sandya Mannarswamy	https://doi.org/10.1145/3459637.3482035	Workshops
+Human-Centric Analytics and Systems Impacting Quality of Life: ECG Analytics and Beyond.	Arijit Ukil, Leandro Marín, Antonio J. Jara, John R. Farserotu	https://doi.org/10.1145/3459637.3482033	Workshops
+International Workshop on Privacy, Security and Trust in Computational Intelligence (PSTCI2021).	Xuyun Zhang, Deepak Puthal, Chi Yang, Guanfeng Liu, Kim-Kwang Raymond Choo, Hongzhi Yin	https://doi.org/10.1145/3459637.3482043	Workshops

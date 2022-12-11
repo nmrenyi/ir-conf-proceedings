@@ -1,0 +1,383 @@
+title	authors	url	session
+The Next Generation of Neural Networks.	Geoffrey E. Hinton	https://doi.org/10.1145/3397271.3402425	Keynotes and Invited Talks
+Proof by Experimentation? Towards Better IR Research.	Norbert Fuhr	https://doi.org/10.1145/3397271.3402426	Keynotes and Invited Talks
+Coopetition in IR Research.	Ellen M. Voorhees	https://doi.org/10.1145/3397271.3402427	Keynotes and Invited Talks
+On Presuppositions of Machine Learning: A Meta Theory.	Zongben Xu	https://doi.org/10.1145/3397271.3402428	Keynotes and Invited Talks
+How Deep Learning Works for Information Retrieval.	Dacheng Tao	https://doi.org/10.1145/3397271.3402429	Keynotes and Invited Talks
+From Information to Assistance.	Elizabeth F. Churchill	https://doi.org/10.1145/3397271.3402430	Keynotes and Invited Talks
+The New TREC Track on Podcast Search and Summarization.	Rosie Jones	https://doi.org/10.1145/3397271.3402431	Keynotes and Invited Talks
+Large-scale Multi-modal Search and QA at Alibaba.	Rong Jin	https://doi.org/10.1145/3397271.3402432	Keynotes and Invited Talks
+Training Effective Neural CLIR by Bridging the Translation Gap.	Hamed R. Bonab, Sheikh Muhammad Sarwar, James Allan	https://doi.org/10.1145/3397271.3401035	Session 1A: NeuIR and Semantic Matching
+A Quantum Interference Inspired Neural Matching Model for Ad-hoc Retrieval.	Yongyu Jiang, Peng Zhang, Hui Gao, Dawei Song	https://doi.org/10.1145/3397271.3401070	Session 1A: NeuIR and Semantic Matching
+A Deep Recurrent Survival Model for Unbiased Ranking.	Jiarui Jin, Yuchen Fang, Weinan Zhang, Kan Ren, Guorui Zhou, Jian Xu, Yong Yu, Jun Wang, Xiaoqiang Zhu, Kun Gai	https://doi.org/10.1145/3397271.3401073	Session 1A: NeuIR and Semantic Matching
+ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT.	Omar Khattab, Matei Zaharia	https://doi.org/10.1145/3397271.3401075	Session 1A: NeuIR and Semantic Matching
+Efficient Document Re-Ranking for Transformers by Precomputing Term Representations.	Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Nazli Goharian, Ophir Frieder	https://doi.org/10.1145/3397271.3401093	Session 1A: NeuIR and Semantic Matching
+A Reinforcement Learning Framework for Relevance Feedback.	Ali Montazeralghaem, Hamed Zamani, James Allan	https://doi.org/10.1145/3397271.3401099	Session 1A: NeuIR and Semantic Matching
+Fairness-Aware Explainable Recommendation over Knowledge Graphs.	Zuohui Fu, Yikun Xian, Ruoyuan Gao, Jieyu Zhao, Qiaoying Huang, Yingqiang Ge, Shuyuan Xu, Shijie Geng, Chirag Shah, Yongfeng Zhang, Gerard de Melo	https://doi.org/10.1145/3397271.3401051	Session 1B: Knowledge and Explainability
+Attentional Graph Convolutional Networks for Knowledge Concept Recommendation in MOOCs in a Heterogeneous View.	Jibing Gong, Shen Wang, Jinlong Wang, Wenzheng Feng, Hao Peng, Jie Tang, Philip S. Yu	https://doi.org/10.1145/3397271.3401057	Session 1B: Knowledge and Explainability
+Sequential Recommendation with Self-Attentive Multi-Adversarial Network.	Ruiyang Ren, Zhaoyang Liu, Yaliang Li, Wayne Xin Zhao, Hui Wang, Bolin Ding, Ji-Rong Wen	https://doi.org/10.1145/3397271.3401111	Session 1B: Knowledge and Explainability
+MVIN: Learning Multiview Items for Recommendation.	Chang-You Tai, Meng-Ru Wu, Yun-Wei Chu, Shao-Yu Chu, Lun-Wei Ku	https://doi.org/10.1145/3397271.3401126	Session 1B: Knowledge and Explainability
+Make It a Chorus: Knowledge- and Time-aware Item Modeling for Sequential Recommendation.	Chenyang Wang, Min Zhang, Weizhi Ma, Yiqun Liu, Shaoping Ma	https://doi.org/10.1145/3397271.3401131	Session 1B: Knowledge and Explainability
+Evolutionary Product Description Generation: A Dynamic Fine-Tuning Approach Leveraging User Click Behavior.	Yongzhen Wang, Jian Wang, Heng Huang, Hongsong Li, Xiaozhong Liu	https://doi.org/10.1145/3397271.3401140	Session 1B: Knowledge and Explainability
+Pairwise View Weighted Graph Network for View-based 3D Model Retrieval.	Zan Gao, Yin-Ming Li, Weili Guan, Weizhi Nie, Zhiyong Cheng, Anan Liu	https://doi.org/10.1145/3397271.3401054	Session 1C: Graph-based Analysis
+Detecting User Community in Sparse Domain via Cross-Graph Pairwise Learning.	Zheng Gao, Hongsong Li, Zhuoren Jiang, Xiaozhong Liu	https://doi.org/10.1145/3397271.3401055	Session 1C: Graph-based Analysis
+BiANE: Bipartite Attributed Network Embedding.	Wentao Huang, Yuchen Li, Yuan Fang, Ju Fan, Hongxia Yang	https://doi.org/10.1145/3397271.3401068	Session 1C: Graph-based Analysis
+Hierarchical Fashion Graph Network for Personalized Outfit Recommendation.	Xingchen Li, Xiang Wang, Xiangnan He, Long Chen, Jun Xiao, Tat-Seng Chua	https://doi.org/10.1145/3397271.3401080	Session 1C: Graph-based Analysis
+Global Context Enhanced Graph Neural Networks for Session-based Recommendation.	Ziyang Wang, Wei Wei, Gao Cong, Xiao-Li Li, Xianling Mao, Minghui Qiu	https://doi.org/10.1145/3397271.3401142	Session 1C: Graph-based Analysis
+Interactive Recommender System via Knowledge Graph-enhanced Reinforcement Learning.	Sijin Zhou, Xinyi Dai, Haokun Chen, Weinan Zhang, Kan Ren, Ruiming Tang, Xiuqiang He, Yong Yu	https://doi.org/10.1145/3397271.3401174	Session 1C: Graph-based Analysis
+Jointly Non-Sampling Learning for Knowledge Graph Enhanced Recommendation.	Chong Chen, Min Zhang, Weizhi Ma, Yiqun Liu, Shaoping Ma	https://doi.org/10.1145/3397271.3401040	Session 2A: Knowledge for Personalization
+AutoGroup: Automatic Feature Grouping for Modelling Explicit High-Order Feature Interactions in CTR Prediction.	Bin Liu, Niannan Xue, Huifeng Guo, Ruiming Tang, Stefanos Zafeiriou, Xiuqiang He, Zhenguo Li	https://doi.org/10.1145/3397271.3401082	Session 2A: Knowledge for Personalization
+KERL: A Knowledge-Guided Reinforcement Learning Model for Sequential Recommendation.	Pengfei Wang, Yu Fan, Long Xia, Wayne Xin Zhao, Shaozhang Niu, Jimmy X. Huang	https://doi.org/10.1145/3397271.3401134	Session 2A: Knowledge for Personalization
+CKAN: Collaborative Knowledge-aware Attentive Network for Recommender Systems.	Ze Wang, Guangyan Lin, Huobin Tan, Qinghong Chen, Xiyang Liu	https://doi.org/10.1145/3397271.3401141	Session 2A: Knowledge for Personalization
+CATN: Cross-Domain Recommendation for Cold-Start Users via Aspect Transfer Network.	Cheng Zhao, Chenliang Li, Rong Xiao, Hongbo Deng, Aixin Sun	https://doi.org/10.1145/3397271.3401169	Session 2A: Knowledge for Personalization
+Leveraging Demonstrations for Reinforcement Recommendation Reasoning over Knowledge Graphs.	Kangzhi Zhao, Xiting Wang, Yuren Zhang, Li Zhao, Zheng Liu, Chunxiao Xing, Xing Xie	https://doi.org/10.1145/3397271.3401171	Session 2A: Knowledge for Personalization
+Incorporating Scenario Knowledge into A Unified Fine-tuning Architecture for Event Representation.	Jianming Zheng, Fei Cai, Honghui Chen	https://doi.org/10.1145/3397271.3401173	Session 2A: Knowledge for Personalization
+Ranking-Incentivized Quality Preserving Content Modification.	Gregory Goren, Oren Kurland, Moshe Tennenholtz, Fiana Raiber	https://doi.org/10.1145/3397271.3401058	Session 2B: User Behavior and Experience
+On Understanding Data Worker Interaction Behaviors.	Lei Han, Tianwa Chen, Gianluca Demartini, Marta Indulska, Shazia W. Sadiq	https://doi.org/10.1145/3397271.3401059	Session 2B: User Behavior and Experience
+Creating a Children-Friendly Reading Environment via Joint Learning of Content and Human Attention.	Guoxiu He, Yangyang Kang, Zhuoren Jiang, Jiawei Liu, Changlong Sun, Xiaozhong Liu, Wei Lu	https://doi.org/10.1145/3397271.3401062	Session 2B: User Behavior and Experience
+Octopus: Comprehensive and Elastic User Representation for the Generation of Recommendation Candidates.	Zheng Liu, Jianxun Lian, Junhan Yang, Defu Lian, Xing Xie	https://doi.org/10.1145/3397271.3401088	Session 2B: User Behavior and Experience
+The Cortical Activity of Graded Relevance.	Zuzana Pinkosova, William J. McGeown, Yashar Moshfeghi	https://doi.org/10.1145/3397271.3401106	Session 2B: User Behavior and Experience
+Asymmetric Tri-training for Debiasing Missing-Not-At-Random Explicit Feedback.	Yuta Saito	https://doi.org/10.1145/3397271.3401114	Session 2B: User Behavior and Experience
+Beyond User Embedding Matrix: Learning to Hash for Modeling Large-Scale Users in Recommendation.	Shaoyun Shi, Weizhi Ma, Min Zhang, Yongfeng Zhang, Xinxing Yu, Houzhi Shan, Yiqun Liu, Shaoping Ma	https://doi.org/10.1145/3397271.3401119	Session 2B: User Behavior and Experience
+Measuring Recommendation Explanation Quality: The Conflicting Goals of Explanations.	Krisztian Balog, Filip Radlinski	https://doi.org/10.1145/3397271.3401032	Session 2C: Evaluation
+Bayesian Inferential Risk Evaluation On Multiple IR Systems.	Rodger Benham, Ben Carterette, J. Shane Culpepper, Alistair Moffat	https://doi.org/10.1145/3397271.3401033	Session 2C: Evaluation
+How to Measure the Reproducibility of System-oriented IR Experiments.	Timo Breuer, Nicola Ferro, Norbert Fuhr, Maria Maistro, Tetsuya Sakai, Philipp Schaer, Ian Soboroff	https://doi.org/10.1145/3397271.3401036	Session 2C: Evaluation
+Good Evaluation Measures based on Document Preferences.	Tetsuya Sakai, Zhaohao Zeng	https://doi.org/10.1145/3397271.3401115	Session 2C: Evaluation
+Preference-based Evaluation Metrics for Web Image Search.	Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke, Haitian Chen, Min Zhang, Shaoping Ma	https://doi.org/10.1145/3397271.3401146	Session 2C: Evaluation
+Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics.	Fan Zhang, Jiaxin Mao, Yiqun Liu, Xiaohui Xie, Weizhi Ma, Min Zhang, Shaoping Ma	https://doi.org/10.1145/3397271.3401162	Session 2C: Evaluation
+Cascade or Recency: Constructing Better Evaluation Metrics for Session Search.	Fan Zhang, Jiaxin Mao, Yiqun Liu, Weizhi Ma, Min Zhang, Shaoping Ma	https://doi.org/10.1145/3397271.3401163	Session 2C: Evaluation
+Operationalizing the Legal Principle of Data Minimization for Personalization.	Asia J. Biega, Peter Potash, Hal Daumé III, Fernando Diaz, Michèle Finck	https://doi.org/10.1145/3397271.3401034	Session 3A: Bias and Fairness
+Learning Personalized Risk Preferences for Recommendation.	Yingqiang Ge, Shuyuan Xu, Shuchang Liu, Zuohui Fu, Fei Sun, Yongfeng Zhang	https://doi.org/10.1145/3397271.3401056	Session 3A: Bias and Fairness
+Certifiable Robustness to Discrete Adversarial Perturbations for Factorization Machines.	Yang Liu, Xianzhuo Xia, Liang Chen, Xiangnan He, Carl Yang, Zibin Zheng	https://doi.org/10.1145/3397271.3401087	Session 3A: Bias and Fairness
+Controlling Fairness and Bias in Dynamic Learning-to-Rank.	Marco Morik, Ashudeep Singh, Jessica Hong, Thorsten Joachims	https://doi.org/10.1145/3397271.3401100	Session 3A: Bias and Fairness
+Can The Crowd Identify Misinformation Objectively?: The Effects of Judgment Scale and Assessor's Background.	Kevin Roitero, Michael Soprano, Shaoyang Fan, Damiano Spina, Stefano Mizzaro, Gianluca Demartini	https://doi.org/10.1145/3397271.3401112	Session 3A: Bias and Fairness
+Measuring and Mitigating Item Under-Recommendation Bias in Personalized Ranking Systems.	Ziwei Zhu, Jianling Wang, James Caverlee	https://doi.org/10.1145/3397271.3401177	Session 3A: Bias and Fairness
+What Makes a Top-Performing Precision Medicine Search Engine?: Tracing Main System Features in a Systematic Way.	Erik Faessler, Michel Oleynik, Udo Hahn	https://doi.org/10.1145/3397271.3401048	Session 3B: Learning to Rank
+Accelerated Convergence for Counterfactual Learning to Rank.	Rolf Jagerman, Maarten de Rijke	https://doi.org/10.1145/3397271.3401069	Session 3B: Learning to Rank
+DVGAN: A Minimax Game for Search Result Diversification Combining Explicit and Implicit Features.	Jiongnan Liu, Zhicheng Dou, Xiaojie Wang, Shuqi Lu, Ji-Rong Wen	https://doi.org/10.1145/3397271.3401084	Session 3B: Learning to Rank
+Policy-Aware Unbiased Learning to Rank for Top-k Rankings.	Harrie Oosterhuis, Maarten de Rijke	https://doi.org/10.1145/3397271.3401102	Session 3B: Learning to Rank
+SetRank: Learning a Permutation-Invariant Ranking Model for Information Retrieval.	Liang Pang, Jun Xu, Qingyao Ai, Yanyan Lan, Xueqi Cheng, Jirong Wen	https://doi.org/10.1145/3397271.3401104	Session 3B: Learning to Rank
+Reinforcement Learning to Rank with Pairwise Policy Gradient.	Jun Xu, Zeng Wei, Long Xia, Yanyan Lan, Dawei Yin, Xueqi Cheng, Ji-Rong Wen	https://doi.org/10.1145/3397271.3401148	Session 3B: Learning to Rank
+Humor Detection in Product Question Answering Systems.	Yftah Ziser, Elad Kravi, David Carmel	https://doi.org/10.1145/3397271.3401077	Session 3C: Question Answering
+Training Curricula for Open Domain Answer Re-Ranking.	Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Nazli Goharian, Ophir Frieder	https://doi.org/10.1145/3397271.3401094	Session 3C: Question Answering
+Open-Retrieval Conversational Question Answering.	Chen Qu, Liu Yang, Cen Chen, Minghui Qiu, W. Bruce Croft, Mohit Iyyer	https://doi.org/10.1145/3397271.3401110	Session 3C: Question Answering
+Learning to Ask Screening Questions for Job Postings.	Baoxu Shi, Shan Li, Jaewon Yang, Mustafa Emre Kazdagli, Qi He	https://doi.org/10.1145/3397271.3401118	Session 3C: Question Answering
+Match²: A Matching over Matching Model for Similar Question Identification.	Zizhen Wang, Yixing Fan, Jiafeng Guo, Liu Yang, Ruqing Zhang, Yanyan Lan, Xueqi Cheng, Hui Jiang, Xiaozhao Wang	https://doi.org/10.1145/3397271.3401143	Session 3C: Question Answering
+Answer Ranking for Product-Related Questions via Multiple Semantic Relations Modeling.	Wenxuan Zhang, Yang Deng, Wai Lam	https://doi.org/10.1145/3397271.3401166	Session 3C: Question Answering
+ESAM: Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance.	Zhihong Chen, Rong Xiao, Chenliang Li, Gangfeng Ye, Haochuan Sun, Hongbo Deng	https://doi.org/10.1145/3397271.3401043	Session 4A: Query and Representation
+Table Search Using a Deep Contextualized Language Model.	Zhiyu Chen, Mohamed Trabelsi, Jeff Heflin, Yinan Xu, Brian D. Davison	https://doi.org/10.1145/3397271.3401044	Session 4A: Query and Representation
+Convolutional Embedding for Edit Distance.	Xinyan Dai, Xiao Yan, Kaiwen Zhou, Yuxuan Wang, Han Yang, James Cheng	https://doi.org/10.1145/3397271.3401045	Session 4A: Query and Representation
+ASiNE: Adversarial Signed Network Embedding.	Yeon-Chang Lee, Nayoun Seo, Kyungsik Han, Sang-Wook Kim	https://doi.org/10.1145/3397271.3401079	Session 4A: Query and Representation
+Efficient Graph Query Processing over Geo-Distributed Datacenters.	Ye Yuan, Delong Ma, Zhenyu Wen, Yuliang Ma, Guoren Wang, Lei Chen	https://doi.org/10.1145/3397271.3401157	Session 4A: Query and Representation
+Spatio-Temporal Dual Graph Attention Network for Query-POI Matching.	Zixuan Yuan, Hao Liu, Yanchi Liu, Denghui Zhang, Fei Yi, Nengjun Zhu, Hui Xiong	https://doi.org/10.1145/3397271.3401159	Session 4A: Query and Representation
+LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation.	Xiangnan He, Kuan Deng, Xiang Wang, Yan Li, Yong-Dong Zhang, Meng Wang	https://doi.org/10.1145/3397271.3401063	Session 4B: Graph-based Recommendation
+GAME: Learning Graphical and Attentive Multi-view Embeddings for Occasional Group Recommendation.	Zhixiang He, Chi-Yin Chow, Jia-Dong Zhang	https://doi.org/10.1145/3397271.3401064	Session 4B: Graph-based Recommendation
+Multi-behavior Recommendation with Graph Convolutional Networks.	Bowen Jin, Chen Gao, Xiangnan He, Depeng Jin, Yong Li	https://doi.org/10.1145/3397271.3401072	Session 4B: Graph-based Recommendation
+GAG: Global Attributed Graph Neural Network for Streaming Session-based Recommendation.	Ruihong Qiu, Hongzhi Yin, Zi Huang, Tong Chen	https://doi.org/10.1145/3397271.3401109	Session 4B: Graph-based Recommendation
+Joint Item Recommendation and Attribute Inference: An Adaptive Graph Convolutional Network Approach.	Le Wu, Yonghui Yang, Kun Zhang, Richang Hong, Yanjie Fu, Meng Wang	https://doi.org/10.1145/3397271.3401144	Session 4B: Graph-based Recommendation
+GCN-Based User Representation Learning for Unifying Robust Recommendation and Fraudster Detection.	Shijie Zhang, Hongzhi Yin, Tong Chen, Quoc Viet Hung Nguyen, Zi Huang, Lizhen Cui	https://doi.org/10.1145/3397271.3401165	Session 4B: Graph-based Recommendation
+Using Phoneme Representations to Build Predictive Models Robust to ASR Errors.	Anjie Fang, Simone Filice, Nut Limsopatham, Oleg Rokhlenko	https://doi.org/10.1145/3397271.3401050	Session 4C: Neural Networks and Embedding
+Knowledge Enhanced Personalized Search.	Shuqi Lu, Zhicheng Dou, Chenyan Xiong, Xiaojie Wang, Ji-Rong Wen	https://doi.org/10.1145/3397271.3401089	Session 4C: Neural Networks and Embedding
+Streaming Graph Neural Networks.	Yao Ma, Ziyi Guo, Zhaochun Ren, Jiliang Tang, Dawei Yin	https://doi.org/10.1145/3397271.3401092	Session 4C: Neural Networks and Embedding
+An Eye Tracking Study of Web Search by People With and Without Dyslexia.	Srishti Palani, Adam Fourney, Shane Williams, Kevin Larson, Irina Spiridonova, Meredith Ringel Morris	https://doi.org/10.1145/3397271.3401103	Session 4C: Neural Networks and Embedding
+DGL-KE: Training Knowledge Graph Embeddings at Scale.	Da Zheng, Xiang Song, Chao Ma, Zeyuan Tan, Zihao Ye, Jin Dong, Hao Xiong, Zheng Zhang, George Karypis	https://doi.org/10.1145/3397271.3401172	Session 4C: Neural Networks and Embedding
+Neural Interactive Collaborative Filtering.	Lixin Zou, Long Xia, Yulong Gu, Xiangyu Zhao, Weidong Liu, Jimmy Xiangji Huang, Dawei Yin	https://doi.org/10.1145/3397271.3401181	Session 4C: Neural Networks and Embedding
+Fashion Compatibility Modeling through a Multi-modal Try-on-guided Scheme.	Xue Dong, Jianlong Wu, Xuemeng Song, Hongjun Dai, Liqiang Nie	https://doi.org/10.1145/3397271.3401047	Session 5A: Domain Specific Applications 1
+Spatial Object Recommendation with Hints: When Spatial Granularity Matters.	Hui Luo, Jingbo Zhou, Zhifeng Bao, Shuangli Li, J. Shane Culpepper, Haochao Ying, Hao Liu, Hui Xiong	https://doi.org/10.1145/3397271.3401090	Session 5A: Domain Specific Applications 1
+Product Bundle Identification using Semi-Supervised Learning.	Hen Tzaban, Ido Guy, Asnat Greenstein-Messica, Arnon Dagan, Lior Rokach, Bracha Shapira	https://doi.org/10.1145/3397271.3401128	Session 5A: Domain Specific Applications 1
+Coding Electronic Health Records with Adversarial Reinforcement Path Generation.	Shanshan Wang, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Jian-Yun Nie, Jun Ma, Maarten de Rijke	https://doi.org/10.1145/3397271.3401135	Session 5A: Domain Specific Applications 1
+Degree-Aware Alignment for Entities in Tail.	Weixin Zeng, Xiang Zhao, Wei Wang, Jiuyang Tang, Zhen Tan	https://doi.org/10.1145/3397271.3401161	Session 5A: Domain Specific Applications 1
+Regional Relation Modeling for Visual Place Recognition.	Yingying Zhu, Biao Li, Jiong Wang, Zhou Zhao	https://doi.org/10.1145/3397271.3401176	Session 5A: Domain Specific Applications 1
+A General Knowledge Distillation Framework for Counterfactual Recommendation via Uniform Data.	Dugang Liu, Pengxiang Cheng, Zhenhua Dong, Xiuqiang He, Weike Pan, Zhong Ming	https://doi.org/10.1145/3397271.3401083	Session 5B: Learning for Recommendation
+Agreement and Disagreement between True and False-Positive Metrics in Recommender Systems Evaluation.	Elisa Mena-Maldonado, Rocío Cañamares, Pablo Castells, Yongli Ren, Mark Sanderson	https://doi.org/10.1145/3397271.3401096	Session 5B: Learning for Recommendation
+Leveraging Social Media for Medical Text Simplification.	Nikhil Pattisapu, Nishant Prabhu, Smriti Bhati, Vasudeva Varma	https://doi.org/10.1145/3397271.3401105	Session 5B: Learning for Recommendation
+Sampler Design for Implicit Feedback Data by Noisy-label Robust Learning.	Wenhui Yu, Zheng Qin	https://doi.org/10.1145/3397271.3401155	Session 5B: Learning for Recommendation
+MaHRL: Multi-goals Abstraction Based Deep Hierarchical Reinforcement Learning for Recommendations.	Dongyang Zhao, Liang Zhang, Bo Zhang, Lizhou Zheng, Yongjun Bao, Weipeng Yan	https://doi.org/10.1145/3397271.3401170	Session 5B: Learning for Recommendation
+Towards Question-based Recommender Systems.	Jie Zou, Yifan Chen, Evangelos Kanoulas	https://doi.org/10.1145/3397271.3401180	Session 5B: Learning for Recommendation
+Try This Instead: Personalized and Interpretable Substitute Recommendation.	Tong Chen, Hongzhi Yin, Guanhua Ye, Zi Huang, Yang Wang, Meng Wang	https://doi.org/10.1145/3397271.3401042	Session 5C: Information Access and Filtering
+Towards Linking Camouflaged Descriptions to Implicit Products in E-commerce.	Longtao Huang, Bo Yuan, Rong Zhang, Quan Lu	https://doi.org/10.1145/3397271.3401067	Session 5C: Information Access and Filtering
+Distributed Equivalent Substitution Training for Large-Scale Recommender Systems.	Haidong Rong, Yangzihao Wang, Feihu Zhou, Junjie Zhai, Haiyang Wu, Rui Lan, Fan Li, Han Zhang, Yuekui Yang, Zhenyu Guo, Di Wang	https://doi.org/10.1145/3397271.3401113	Session 5C: Information Access and Filtering
+Query Resolution for Conversational Search with Limited Supervision.	Nikos Voskarides, Dan Li, Pengjie Ren, Evangelos Kanoulas, Maarten de Rijke	https://doi.org/10.1145/3397271.3401130	Session 5C: Information Access and Filtering
+Self-Supervised Reinforcement Learning for Recommender Systems.	Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Joemon M. Jose	https://doi.org/10.1145/3397271.3401147	Session 5C: Information Access and Filtering
+Generative Attribute Manipulation Scheme for Flexible Fashion Search.	Xin Yang, Xuemeng Song, Xianjing Han, Haokun Wen, Jie Nie, Liqiang Nie	https://doi.org/10.1145/3397271.3401150	Session 5C: Information Access and Filtering
+How Dataset Characteristics Affect the Robustness of Collaborative Recommendation Models.	Yashar Deldjoo, Tommaso Di Noia, Eugenio Di Sciascio, Felice Antonio Merra	https://doi.org/10.1145/3397271.3401046	Session 6A: Neural Collaborative Filtering 1
+DPLCF: Differentially Private Local Collaborative Filtering.	Chen Gao, Chao Huang, Dongsheng Lin, Depeng Jin, Yong Li	https://doi.org/10.1145/3397271.3401053	Session 6A: Neural Collaborative Filtering 1
+Content-aware Neural Hashing for Cold-start Recommendation.	Casper Hansen, Christian Hansen, Jakob Grue Simonsen, Stephen Alstrup, Christina Lioma	https://doi.org/10.1145/3397271.3401060	Session 6A: Neural Collaborative Filtering 1
+Meta Matrix Factorization for Federated Rating Predictions.	Yujie Lin, Pengjie Ren, Zhumin Chen, Zhaochun Ren, Dongxiao Yu, Jun Ma, Maarten de Rijke, Xiuzhen Cheng	https://doi.org/10.1145/3397271.3401081	Session 6A: Neural Collaborative Filtering 1
+The Impact of More Transparent Interfaces on Behavior in Personalized Recommendation.	Tobias Schnabel, Saleema Amershi, Paul N. Bennett, Peter Bailey, Thorsten Joachims	https://doi.org/10.1145/3397271.3401117	Session 6A: Neural Collaborative Filtering 1
+Disentangled Graph Collaborative Filtering.	Xiang Wang, Hongye Jin, An Zhang, Xiangnan He, Tong Xu, Tat-Seng Chua	https://doi.org/10.1145/3397271.3401137	Session 6A: Neural Collaborative Filtering 1
+Domain-Adaptive Neural Automated Essay Scoring.	Yue Cao, Hanqi Jin, Xiaojun Wan, Zhiwei Yu	https://doi.org/10.1145/3397271.3401037	Session 6B: Domain Specific Applications 2
+ADORE: Aspect Dependent Online REview Labeling for Review Generation.	Parisa Kaghazgaran, Jianling Wang, Ruihong Huang, James Caverlee	https://doi.org/10.1145/3397271.3401074	Session 6B: Domain Specific Applications 2
+Finding the Best of Both Worlds: Faster and More Robust Top-k Document Retrieval.	Omar Khattab, Mohammad Hammoud, Tamer Elsayed	https://doi.org/10.1145/3397271.3401076	Session 6B: Domain Specific Applications 2
+Recommending Podcasts for Cold-Start Users Based on Music Listening and Taste.	Zahra Nazari, Christophe Charbuillet, Johan Pages, Martin Laurent, Denis Charrier, Briana Vecchione, Ben Carterette	https://doi.org/10.1145/3397271.3401101	Session 6B: Domain Specific Applications 2
+Learning with Weak Supervision for Email Intent Detection.	Kai Shu, Subhabrata Mukherjee, Guoqing Zheng, Ahmed Hassan Awadallah, Milad Shokouhi, Susan T. Dumais	https://doi.org/10.1145/3397271.3401121	Session 6B: Domain Specific Applications 2
+3D Self-Attention for Unsupervised Video Quantization.	Jingkuan Song, Ruimin Lang, Xiaosu Zhu, Xing Xu, Lianli Gao, Heng Tao Shen	https://doi.org/10.1145/3397271.3401122	Session 6B: Domain Specific Applications 2
+Modeling Personalized Item Frequency Information for Next-basket Recommendation.	Haoji Hu, Xiangnan He, Jinyang Gao, Zhi-Li Zhang	https://doi.org/10.1145/3397271.3401066	Session 6C: Context-aware Modeling
+Transfer Learning via Contextual Invariants for One-to-Many Cross-Domain Recommendation.	Adit Krishnan, Mahashweta Das, Mangesh Bendre, Hao Yang, Hari Sundaram	https://doi.org/10.1145/3397271.3401078	Session 6C: Context-aware Modeling
+Incorporating User Micro-behaviors and Item Knowledge into Multi-task Learning for Session-based Recommendation.	Wenjing Meng, Deqing Yang, Yanghua Xiao	https://doi.org/10.1145/3397271.3401098	Session 6C: Context-aware Modeling
+Next-item Recommendation with Sequential Hypergraphs.	Jianling Wang, Kaize Ding, Liangjie Hong, Huan Liu, James Caverlee	https://doi.org/10.1145/3397271.3401133	Session 6C: Context-aware Modeling
+Encoding History with Context-aware Representation Learning for Personalized Search.	Yujia Zhou, Zhicheng Dou, Ji-Rong Wen	https://doi.org/10.1145/3397271.3401175	Session 6C: Context-aware Modeling
+Recommendation for New Users and New Items via Randomized Training and Mixture-of-Experts Transformation.	Ziwei Zhu, Shahin Sefati, Parsa Saadatpanah, James Caverlee	https://doi.org/10.1145/3397271.3401178	Session 6C: Context-aware Modeling
+Guided Transformer: Leveraging Multiple External Sources for Representation Learning in Conversational Search.	Helia Hashemi, Hamed Zamani, W. Bruce Croft	https://doi.org/10.1145/3397271.3401061	Session 7A: Conversation and Interactive IR
+Investigating Reference Dependence Effects on User Search Interaction and Satisfaction: A Behavioral Economics Perspective.	Jiqun Liu, Fangyuan Han	https://doi.org/10.1145/3397271.3401085	Session 7A: Conversation and Interactive IR
+DukeNet: A Dual Knowledge Interaction Network for Knowledge-Grounded Conversation.	Chuan Meng, Pengjie Ren, Zhumin Chen, Weiwei Sun, Zhaochun Ren, Zhaopeng Tu, Maarten de Rijke	https://doi.org/10.1145/3397271.3401097	Session 7A: Conversation and Interactive IR
+What If Bots Feel Moods?	Lisong Qiu, Yingwai Shiu, Pingping Lin, Ruihua Song, Yue Liu, Dongyan Zhao, Rui Yan	https://doi.org/10.1145/3397271.3401108	Session 7A: Conversation and Interactive IR
+Expressions of Style in Information Seeking Conversation with an Agent.	Paul Thomas, Daniel McDuff, Mary Czerwinski, Nick Craswell	https://doi.org/10.1145/3397271.3401127	Session 7A: Conversation and Interactive IR
+Analyzing and Learning from User Interactions for Search Clarification.	Hamed Zamani, Bhaskar Mitra, Everest Chen, Gord Lueck, Fernando Diaz, Paul N. Bennett, Nick Craswell, Susan T. Dumais	https://doi.org/10.1145/3397271.3401160	Session 7A: Conversation and Interactive IR
+A Unified Dual-view Model for Review Summarization and Sentiment Classification with Inconsistency Loss.	Hou Pong Chan, Wang Chen, Irwin King	https://doi.org/10.1145/3397271.3401039	Session 7B: Text Classification and Transfer Learning
+Enhancing Text Classification via Discovering Additional Semantic Clues from Logograms.	Chen Qian, Fuli Feng, Lijie Wen, Li Lin, Tat-Seng Chua	https://doi.org/10.1145/3397271.3401107	Session 7B: Text Classification and Transfer Learning
+Learning to Transfer Graph Embeddings for Inductive Graph based Recommendation.	Le Wu, Yonghui Yang, Lei Chen, Defu Lian, Richang Hong, Meng Wang	https://doi.org/10.1145/3397271.3401145	Session 7B: Text Classification and Transfer Learning
+Web-to-Voice Transfer for Product Recommendation on Voice.	Rongting Zhang, Jie Yang	https://doi.org/10.1145/3397271.3401164	Session 7B: Text Classification and Transfer Learning
+Minimally Supervised Categorization of Text with Metadata.	Yu Zhang, Yu Meng, Jiaxin Huang, Frank F. Xu, Xuan Wang, Jiawei Han	https://doi.org/10.1145/3397271.3401168	Session 7B: Text Classification and Transfer Learning
+Joint Aspect-Sentiment Analysis with Minimal User Guidance.	Honglei Zhuang, Fang Guo, Chao Zhang, Liyuan Liu, Jiawei Han	https://doi.org/10.1145/3397271.3401179	Session 7B: Text Classification and Transfer Learning
+AR-CF: Augmenting Virtual Users and Items in Collaborative Filtering for Addressing Cold-Start Problems.	Dong-Kyu Chae, Jihoo Kim, Duen Horng Chau, Sang-Wook Kim	https://doi.org/10.1145/3397271.3401038	Session 7C: Neural Collaborative Filtering 2
+Studying Product Competition Using Representation Learning.	Fanglin Chen, Xiao Liu, Davide Proserpio, Isamar Troncoso, Feiyu Xiong	https://doi.org/10.1145/3397271.3401041	Session 7C: Neural Collaborative Filtering 2
+Deep Critiquing for VAE-based Recommender Systems.	Kai Luo, Hojin Yang, Ga Wu, Scott Sanner	https://doi.org/10.1145/3397271.3401091	Session 7C: Neural Collaborative Filtering 2
+GroupIM: A Mutual Information Maximization Framework for Neural Group Recommendation.	Aravind Sankar, Yanhong Wu, Yuhang Wu, Wei Zhang, Hao Yang, Hari Sundaram	https://doi.org/10.1145/3397271.3401116	Session 7C: Neural Collaborative Filtering 2
+Neighbor Interaction Aware Graph Convolution Networks for Recommendation.	Jianing Sun, Yingxue Zhang, Wei Guo, Huifeng Guo, Ruiming Tang, Xiuqiang He, Chen Ma, Mark Coates	https://doi.org/10.1145/3397271.3401123	Session 7C: Neural Collaborative Filtering 2
+A Generic Network Compression Framework for Sequential Recommender Systems.	Yang Sun, Fajie Yuan, Min Yang, Guoao Wei, Zhou Zhao, Duo Liu	https://doi.org/10.1145/3397271.3401125	Session 7C: Neural Collaborative Filtering 2
+Learning Efficient Representations of Mouse Movements to Predict User Attention.	Ioannis Arapakis, Luis A. Leiva	https://doi.org/10.1145/3397271.3401031	Session 8A: Domain Specific Retrieval Tasks
+Query Reformulation in E-Commerce Search.	Sharon Hirsch, Ido Guy, Alexander Nus, Arnon Dagan, Oren Kurland	https://doi.org/10.1145/3397271.3401065	Session 8A: Domain Specific Retrieval Tasks
+Generating Images Instead of Retrieving Them: Relevance Feedback on Generative Adversarial Networks.	Antti Ukkonen, Pyry Joona, Tuukka Ruotsalo	https://doi.org/10.1145/3397271.3401129	Session 8A: Domain Specific Retrieval Tasks
+Tree-Augmented Cross-Modal Encoding for Complex-Query Video Retrieval.	Xun Yang, Jianfeng Dong, Yixin Cao, Xun Wang, Meng Wang, Tat-Seng Chua	https://doi.org/10.1145/3397271.3401151	Session 8A: Domain Specific Retrieval Tasks
+Nonlinear Robust Discrete Hashing for Cross-Modal Retrieval.	Zhan Yang, Jun Long, Lei Zhu, Wenti Huang	https://doi.org/10.1145/3397271.3401152	Session 8A: Domain Specific Retrieval Tasks
+Employing Personal Word Embeddings for Personalized Search.	Jing Yao, Zhicheng Dou, Ji-Rong Wen	https://doi.org/10.1145/3397271.3401153	Session 8A: Domain Specific Retrieval Tasks
+Query Rewriting for Voice Shopping Null Queries.	Iftah Gamzu, Marina Haikin, Nissim Halabi	https://doi.org/10.1145/3397271.3401052	Session 8B: Multi-modal Retrieval and Ranking
+Joint-modal Distribution-based Similarity Hashing for Large-scale Unsupervised Deep Cross-modal Retrieval.	Song Liu, Shengsheng Qian, Yang Guan, Jiawei Zhan, Long Ying	https://doi.org/10.1145/3397271.3401086	Session 8B: Multi-modal Retrieval and Ranking
+Learning Colour Representations of Search Queries.	Paridhi Maheshwari, Manoj Ghuhan, Vishwa Vinay	https://doi.org/10.1145/3397271.3401095	Session 8B: Multi-modal Retrieval and Ranking
+Web Table Retrieval using Multimodal Deep Learning.	Roee Shraga, Haggai Roitman, Guy Feigenblat, Mustafa Canim	https://doi.org/10.1145/3397271.3401120	Session 8B: Multi-modal Retrieval and Ranking
+Online Collective Matrix Factorization Hashing for Large-Scale Cross-Media Retrieval.	Di Wang, Quan Wang, Yaqiang An, Xinbo Gao, Yumin Tian	https://doi.org/10.1145/3397271.3401132	Session 8B: Multi-modal Retrieval and Ranking
+Correlated Features Synthesis and Alignment for Zero-shot Cross-modal Retrieval.	Xing Xu, Kaiyi Lin, Huimin Lu, Lianli Gao, Heng Tao Shen	https://doi.org/10.1145/3397271.3401149	Session 8B: Multi-modal Retrieval and Ranking
+HME: A Hyperbolic Metric Embedding Approach for Next-POI Recommendation.	Shanshan Feng, Lucas Vinh Tran, Gao Cong, Lisi Chen, Jing Li, Fan Li	https://doi.org/10.1145/3397271.3401049	Session 8C: Sequential Recommendation
+Dual Sequential Network for Temporal Sets Prediction.	Leilei Sun, Yansong Bai, Bowen Du, Chuanren Liu, Hui Xiong, Weifeng Lv	https://doi.org/10.1145/3397271.3401124	Session 8C: Sequential Recommendation
+Group-Aware Long- and Short-Term Graph Representation Learning for Sequential Group Recommendation.	Wen Wang, Wei Zhang, Jun Rao, Zhijie Qiu, Bo Zhang, Leyu Lin, Hongyuan Zha	https://doi.org/10.1145/3397271.3401136	Session 8C: Sequential Recommendation
+Time Matters: Sequential Recommendation with Complex Temporal Information.	Wenwen Ye, Shuaiqiang Wang, Xu Chen, Xuepeng Wang, Zheng Qin, Dawei Yin	https://doi.org/10.1145/3397271.3401154	Session 8C: Sequential Recommendation
+Parameter-Efficient Transfer from Sequential Behaviors for User Modeling and Recommendation.	Fajie Yuan, Xiangnan He, Alexandros Karatzoglou, Liguang Zhang	https://doi.org/10.1145/3397271.3401156	Session 8C: Sequential Recommendation
+How to Retrain Recommender System?: A Sequential Meta-Learning Method.	Yang Zhang, Fuli Feng, Chenxu Wang, Xiangnan He, Meng Wang, Yan Li, Yongdong Zhang	https://doi.org/10.1145/3397271.3401167	Session 8C: Sequential Recommendation
+Dynamic Clustering with Discrete Time Event Prediction.	Karan Aggarwal, Georgios Theocharous, Anup B. Rao	https://doi.org/10.1145/3397271.3401182	Short Research Papers I
+Leveraging Transitions of Emotions for Sarcasm Detection.	Ameeta Agrawal, Aijun An, Manos Papagelis	https://doi.org/10.1145/3397271.3401183	Short Research Papers I
+JointMap: Joint Query Intent Understanding For Modeling Intent Hierarchies in E-commerce Search.	Ali Ahmadvand, Surya Kallumadi, Faizan Javed, Eugene Agichtein	https://doi.org/10.1145/3397271.3401184	Short Research Papers I
+Choppy: Cut Transformer for Ranked List Truncation.	Dara Bahri, Yi Tay, Che Zheng, Donald Metzler, Andrew Tomkins	https://doi.org/10.1145/3397271.3401188	Short Research Papers I
+Studying Ransomware Attacks Using Web Search Logs.	Chetan Bansal, Pantazis Deligiannis, Chandra Shekhar Maddila, Nikitha Rao	https://doi.org/10.1145/3397271.3401189	Short Research Papers I
+A Transformer-based Embedding Model for Personalized Product Search.	Keping Bi, Qingyao Ai, W. Bruce Croft	https://doi.org/10.1145/3397271.3401192	Short Research Papers I
+Balancing Reinforcement Learning Training Experiences in Interactive Information Retrieval.	Limin Chen, Zhiwen Tang, Grace Hui Yang	https://doi.org/10.1145/3397271.3401200	Short Research Papers I
+Metadata Matters in User Engagement Prediction.	Xiang Chen, Saayan Mitra, Viswanathan Swaminathan	https://doi.org/10.1145/3397271.3401201	Short Research Papers I
+Context-Aware Term Weighting For First Stage Passage Retrieval.	Zhuyun Dai, Jamie Callan	https://doi.org/10.1145/3397271.3401204	Short Research Papers I
+Summarizing and Exploring Tabular Data in Conversational Search.	Shuo Zhang, Zhuyun Dai, Krisztian Balog, Jamie Callan	https://doi.org/10.1145/3397271.3401205	Short Research Papers I
+Leveraging Adversarial Training in Self-Learning for Cross-Lingual Text Classification.	Xin Dong, Yaxin Zhu, Yupeng Zhang, Zuohui Fu, Dongkuan Xu, Sen Yang, Gerard de Melo	https://doi.org/10.1145/3397271.3401209	Short Research Papers I
+Response Quality in Human-Chatbot Collaborative Systems.	Jiepu Jiang, Naman Ahuja	https://doi.org/10.1145/3397271.3401234	Short Research Papers I
+High-Precision Extraction of Emerging Concepts from Scientific Literature.	Daniel King, Doug Downey, Daniel S. Weld	https://doi.org/10.1145/3397271.3401235	Short Research Papers I
+Video Recommendation with Multi-gate Mixture of Experts Soft Actor Critic.	Dingcheng Li, Xu Li, Jun Wang, Ping Li	https://doi.org/10.1145/3397271.3401238	Short Research Papers I
+Auto-annotation for Voice-enabled Entertainment Systems.	Wenyan Li, Ferhan Türe	https://doi.org/10.1145/3397271.3401241	Short Research Papers I
+Domain Adaptation with Reconstruction for Disaster Tweet Classification.	Xukun Li, Doina Caragea	https://doi.org/10.1145/3397271.3401242	Short Research Papers I
+Recipe Retrieval with Visual Query of Ingredients.	Yen-Chieh Lien, Hamed Zamani, W. Bruce Croft	https://doi.org/10.1145/3397271.3401244	Short Research Papers I
+Alleviating the Inconsistency Problem of Applying Graph Neural Network to Fraud Detection.	Zhiwei Liu, Yingtong Dou, Philip S. Yu, Yutong Deng, Hao Peng	https://doi.org/10.1145/3397271.3401253	Short Research Papers I
+Expansion via Prediction of Importance with Contextualization.	Sean MacAvaney, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Nazli Goharian, Ophir Frieder	https://doi.org/10.1145/3397271.3401262	Short Research Papers I
+Reranking for Efficient Transformer-based Answer Selection.	Yoshitomo Matsubara, Thuy Vu, Alessandro Moschitti	https://doi.org/10.1145/3397271.3401266	Short Research Papers I
+Combining Contextualized and Non-contextualized Query Translations to Improve CLIR.	Suraj Nair, Petra Galuscáková, Douglas W. Oard	https://doi.org/10.1145/3397271.3401270	Short Research Papers I
+Proactive Suggestion Generation: Data and Methods for Stepwise Task Assistance.	Elnaz Nouri, Robert Sim, Adam Fourney, Ryen W. White	https://doi.org/10.1145/3397271.3401272	Short Research Papers I
+Contextual Re-Ranking with Behavior Aware Transformers.	Chen Qu, Chenyan Xiong, Yizhe Zhang, Corby Rosset, W. Bruce Croft, Paul N. Bennett	https://doi.org/10.1145/3397271.3401276	Short Research Papers I
+Towards Explainable Retrieval Models for Precision Medicine Literature Search.	Jiaming Qu, Jaime Arguello, Yue Wang	https://doi.org/10.1145/3397271.3401277	Short Research Papers I
+Search Result Explanations Improve Efficiency and Trust.	Jerome Ramos, Carsten Eickhoff	https://doi.org/10.1145/3397271.3401279	Short Research Papers I
+Query by Example for Cross-Lingual Event Retrieval.	Sheikh Muhammad Sarwar, James Allan	https://doi.org/10.1145/3397271.3401283	Short Research Papers I
+A Test Collection for Relevance and Sensitivity.	Mahmoud F. Sayed, William Cox, Jonah Lynn Rivera, Caitlin Christian-Lamb, Modassir Iqbal, Douglas W. Oard, Katie Shilton	https://doi.org/10.1145/3397271.3401284	Short Research Papers I
+A Study of Methods for the Generation of Domain-Aware Word Embeddings.	Dominic Seyler, ChengXiang Zhai	https://doi.org/10.1145/3397271.3401287	Short Research Papers I
+Predicting Entity Popularity to Improve Spoken Entity Recognition by Virtual Assistants.	Christophe Van Gysel, Manos Tsagkias, Ernest Pusateri, Ilya Oparin	https://doi.org/10.1145/3397271.3401298	Short Research Papers I
+Data Poisoning Attacks against Differentially Private Recommender Systems.	Soumya Wadhwa, Saurabh Agrawal, Harsh Chaudhari, Deepthi Sharma, Kannan Achan	https://doi.org/10.1145/3397271.3401301	Short Research Papers I
+Immersive Search: Using Virtual Reality to Examine How a Third Dimension Impacts the Searching Process.	Austin R. Ward, Robert G. Capra	https://doi.org/10.1145/3397271.3401303	Short Research Papers I
+Having Your Cake and Eating it Too: Training Neural Retrieval for Language Inference without Losing Lexical Match.	Vikas Yadav, Steven Bethard, Mihai Surdeanu	https://doi.org/10.1145/3397271.3401311	Short Research Papers I
+Neural Concept Map Generation for Effective Document Classification with Interpretable Structured Summarization.	Carl Yang, Jieyu Zhang, Haonan Wang, Bangzheng Li, Jiawei Han	https://doi.org/10.1145/3397271.3401312	Short Research Papers I
+A Case Study of Multi-class Classification with Diversified Precision Recall Requirements for Query Disambiguation.	Yingrui Yang, Christopher Miller, Peng Jiang, Azadeh Moghtaderi	https://doi.org/10.1145/3397271.3401315	Short Research Papers I
+A Study of Neural Matching Models for Cross-lingual IR.	Puxuan Yu, James Allan	https://doi.org/10.1145/3397271.3401322	Short Research Papers I
+Social Media User Geolocation via Hybrid Attention.	Cheng Zheng, Jyun-Yu Jiang, Yichao Zhou, Sean D. Young, Wei Wang	https://doi.org/10.1145/3397271.3401329	Short Research Papers I
+Personalized Query Suggestions.	Jianling Zhong, Weiwei Guo, Huiji Gao, Bo Long	https://doi.org/10.1145/3397271.3401331	Short Research Papers I
+Feature Transformation for Neural Ranking Models.	Honglei Zhuang, Xuanhui Wang, Michael Bendersky, Marc Najork	https://doi.org/10.1145/3397271.3401333	Short Research Papers I
+MetaGen: An academic Meta-review Generation system.	Chaitanya Bhatia, Tribikram Pradhan, Sukomal Pal	https://doi.org/10.1145/3397271.3401190	Short Research Papers I
+Hier-SPCNet: A Legal Statute Hierarchy-based Heterogeneous Network for Computing Legal Case Document Similarity.	Paheli Bhattacharya, Kripabandhu Ghosh, Arindam Pal, Saptarshi Ghosh	https://doi.org/10.1145/3397271.3401191	Short Research Papers I
+DCDIR: A Deep Cross-Domain Recommendation System for Cold Start Users in Insurance Domain.	Ye Bi, Liqiang Song, Mengqiu Yao, Zhenyu Wu, Jianming Wang, Jing Xiao	https://doi.org/10.1145/3397271.3401193	Short Research Papers I
+A Pairwise Probe for Understanding BERT Fine-Tuning on Machine Reading Comprehension.	Jie Cai, Zhengzhou Zhu, Ping Nie, Qian Liu	https://doi.org/10.1145/3397271.3401195	Short Research Papers I
+Adversarial Attacks and Detection on Reinforcement Learning-Based Interactive Recommender Systems.	Yuanjiang Cao, Xiaocong Chen, Lina Yao, Xianzhi Wang, Wei Emma Zhang	https://doi.org/10.1145/3397271.3401196	Short Research Papers I
+Bundle Recommendation with Graph Convolutional Networks.	Jianxin Chang, Chen Gao, Xiangnan He, Depeng Jin, Yong Li	https://doi.org/10.1145/3397271.3401198	Short Research Papers I
+Re-ranking Answer Selection with Similarity Aggregation.	Dong Chen, Shaoliang Peng, Kenli Li, Ying Xu, Jinling Zhang, Xiaolan Xie	https://doi.org/10.1145/3397271.3401199	Short Research Papers I
+JIT2R: A Joint Framework for Item Tagging and Tag-based Recommendation.	Xu Chen, Changying Du, Xiuqiang He, Jun Wang	https://doi.org/10.1145/3397271.3401202	Short Research Papers I
+Attending to Inter-sentential Features in Neural Text Classification.	Billy Chiu, Sunil Kumar Sahu, Neha Sengupta, Derek Thomas, Mohammady Mahdy	https://doi.org/10.1145/3397271.3401203	Short Research Papers I
+Retrieving Potential Causes from a Query Event.	Suchana Datta, Debasis Ganguly, Dwaipayan Roy, Francesca Bonin, Charles Jochim, Mandar Mitra	https://doi.org/10.1145/3397271.3401207	Short Research Papers I
+Bridging Hierarchical and Sequential Context Modeling for Question-driven Extractive Answer Summarization.	Yang Deng, Wenxuan Zhang, Yaliang Li, Min Yang, Wai Lam, Ying Shen	https://doi.org/10.1145/3397271.3401208	Short Research Papers I
+MGNN: A Multimodal Graph Neural Network for Predicting the Survival of Cancer Patients.	Jianliang Gao, Tengfei Lyu, Fan Xiong, Jianxin Wang, Weimao Ke, Zhao Li	https://doi.org/10.1145/3397271.3401214	Short Research Papers I
+Deep Neural Matching Models for Graph Retrieval.	Kunal Goyal, Utkarsh Gupta, Abir De, Soumen Chakrabarti	https://doi.org/10.1145/3397271.3401216	Short Research Papers I
+Session-based Recommendation with Hierarchical Leaping Networks.	Cheng Guo, Mengfei Zhang, Jinyun Fang, Jiaqi Jin, Mao Pan	https://doi.org/10.1145/3397271.3401217	Short Research Papers I
+Multi-Branch Convolutional Network for Context-Aware Recommendation.	Wei Guo, Can Zhang, Huifeng Guo, Ruiming Tang, Xiuqiang He	https://doi.org/10.1145/3397271.3401218	Short Research Papers I
+Predicting Session Length for Product Search on E-commerce Platform.	Shashank Gupta, Subhadeep Maji	https://doi.org/10.1145/3397271.3401219	Short Research Papers I
+Dynamic Link Prediction by Integrating Node Vector Evolution and Local Neighborhood Representation.	Xiaorong Hao, Tao Lian, Li Wang	https://doi.org/10.1145/3397271.3401222	Short Research Papers I
+Nonintrusive-Sensing and Reinforcement-Learning Based Adaptive Personalized Music Recommendation.	Daocheng Hong, Yang Li, Qiwen Dong	https://doi.org/10.1145/3397271.3401225	Short Research Papers I
+Residual-Duet Network with Tree Dependency Representation for Chinese Question-Answering Sentiment Analysis.	Guangyi Hu, Chongyang Shi, Shufeng Hao, Yu Bai	https://doi.org/10.1145/3397271.3401226	Short Research Papers I
+Neural Mathematical Solver with Enhanced Formula Structure.	Zhenya Huang, Qi Liu, Weibo Gao, Jinze Wu, Yu Yin, Hao Wang, Enhong Chen	https://doi.org/10.1145/3397271.3401227	Short Research Papers I
+Detecting Concept Drift In Medical Triage.	Hamish Huggard, Yun Sing Koh, Gillian Dobbie, Edmond Zhang	https://doi.org/10.1145/3397271.3401228	Short Research Papers I
+Evidence Weighted Tree Ensembles for Text Classification.	Md. Zahidul Islam, Jixue Liu, Jiuyong Li, Lin Liu, Wei Kang	https://doi.org/10.1145/3397271.3401229	Short Research Papers I
+Graph Regularization for Multi-lingual Topic Models.	Arnav Kumar Jain, Gundeep Arora, Rahul Agrawal	https://doi.org/10.1145/3397271.3401231	Short Research Papers I
+Multi-Modal Summary Generation using Multi-Objective Optimization.	Anubhav Jangra, Sriparna Saha, Adam Jatowt, Mohammad Hasanuzzaman	https://doi.org/10.1145/3397271.3401232	Short Research Papers I
+A Re-visit of the Popularity Baseline in Recommender Systems.	Yitong Ji, Aixin Sun, Jie Zhang, Chenliang Li	https://doi.org/10.1145/3397271.3401233	Short Research Papers I
+Training Mixed-Objective Pointing Decoders for Block-Level Optimization in Search Recommendation.	Harsh Kohli	https://doi.org/10.1145/3397271.3401236	Short Research Papers I
+Reinforcement Learning based Recommendation with Graph Convolutional Q-network.	Yu Lei, Hongbin Pei, Hanqi Yan, Wenjie Li	https://doi.org/10.1145/3397271.3401237	Short Research Papers I
+Crowdsourced Text Sequence Aggregation based on Hybrid Reliability and Representation.	Jiyi Li	https://doi.org/10.1145/3397271.3401239	Short Research Papers I
+MRIF: Multi-resolution Interest Fusion for Recommendation.	Shihao Li, Dekun Yang, Bufeng Zhang	https://doi.org/10.1145/3397271.3401240	Short Research Papers I
+Joint Training Capsule Network for Cold Start Recommendation.	Tingting Liang, Congying Xia, Yuyu Yin, Philip S. Yu	https://doi.org/10.1145/3397271.3401243	Short Research Papers I
+Copula Guided Neural Topic Modelling for Short Texts.	Lihui Lin, Hongyu Jiang, Yanghui Rao	https://doi.org/10.1145/3397271.3401245	Short Research Papers I
+Soft Kernel-based Ranking on a Statistical Manifold.	Xinshi Lin, Wai Lam	https://doi.org/10.1145/3397271.3401246	Short Research Papers I
+Multi-Level Multimodal Transformer Network for Multimodal Recipe Comprehension.	Ao Liu, Shuai Yuan, Chenbin Zhang, Congjian Luo, Yaqing Liao, Kun Bai, Zenglin Xu	https://doi.org/10.1145/3397271.3401247	Short Research Papers I
+Chinese Document Classification with Bi-directional Convolutional Language Model.	Bin Liu, Guosheng Yin	https://doi.org/10.1145/3397271.3401248	Short Research Papers I
+Neural Unified Review Recommendation with Cross Attention.	Hongtao Liu, Wenjun Wang, Hongyan Xu, Qiyao Peng, Pengfei Jiao	https://doi.org/10.1145/3397271.3401249	Short Research Papers I
+GoChat: Goal-oriented Chatbots with Hierarchical Reinforcement Learning.	Jianfeng Liu, Feiyang Pan, Ling Luo	https://doi.org/10.1145/3397271.3401250	Short Research Papers I
+CapableOf Reasoning: A Step Towards Commonsense Oracle.	Jingping Liu, Yanghua Xiao, Ao Wang, Liang He, Bin Shao	https://doi.org/10.1145/3397271.3401251	Short Research Papers I
+Interactive Entity Linking Using Entity-Word Representations.	Pei-Chi Lo, Ee-Peng Lim	https://doi.org/10.1145/3397271.3401254	Short Research Papers I
+Improving Contextual Language Models for Response Retrieval in Multi-Turn Conversation.	Junyu Lu, Xiancong Ren, Yazhou Ren, Ao Liu, Zenglin Xu	https://doi.org/10.1145/3397271.3401255	Short Research Papers I
+Differentially Private Knowledge Distillation for Mobile Analytics.	Lingjuan Lyu, Chi-Hua Chen	https://doi.org/10.1145/3397271.3401259	Short Research Papers II
+Towards Differentially Private Text Representations.	Lingjuan Lyu, Yitong Li, Xuanli He, Tong Xiao	https://doi.org/10.1145/3397271.3401260	Short Research Papers II
+Large-scale Image Retrieval with Sparse Binary Projections.	Changyi Ma, Chonglin Gu, Wenye Li, Shuguang Cui	https://doi.org/10.1145/3397271.3401261	Short Research Papers II
+Efficiency Implications of Term Weighting for Passage Retrieval.	Joel M. Mackenzie, Zhuyun Dai, Luke Gallagher, Jamie Callan	https://doi.org/10.1145/3397271.3401263	Short Research Papers II
+Read what you need: Controllable Aspect-based Opinion Summarization of Tourist Reviews.	Rajdeep Mukherjee, Hari Chandana Peruri, Uppada Vishnu, Pawan Goyal, Sourangshu Bhattacharya, Niloy Ganguly	https://doi.org/10.1145/3397271.3401269	Short Research Papers II
+DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding.	Ping Nie, Yuyu Zhang, Xiubo Geng, Arun Ramamurthy, Le Song, Daxin Jiang	https://doi.org/10.1145/3397271.3401271	Short Research Papers II
+An Intent-guided Collaborative Machine for Session-based Recommendation.	Zhiqiang Pan, Fei Cai, Yanxiang Ling, Maarten de Rijke	https://doi.org/10.1145/3397271.3401273	Short Research Papers II
+Rethinking Item Importance in Session-based Recommendation.	Zhiqiang Pan, Fei Cai, Yanxiang Ling, Maarten de Rijke	https://doi.org/10.1145/3397271.3401274	Short Research Papers II
+MHM: Multi-modal Clinical Data based Hierarchical Multi-label Diagnosis Prediction.	Zhi Qiao, Zhen Zhang, Xian Wu, Shen Ge, Wei Fan	https://doi.org/10.1145/3397271.3401275	Short Research Papers II
+How Useful are Reviews for Recommendation? A Critical Review and Potential Improvements.	Noveen Sachdeva, Julian J. McAuley	https://doi.org/10.1145/3397271.3401281	Short Research Papers II
+Dual Learning Algorithm for Delayed Conversions.	Yuta Saito, Gota Morishita, Shota Yasui	https://doi.org/10.1145/3397271.3401282	Short Research Papers II
+Evaluation of Cross Domain Text Summarization.	Liam Scanlon, Shiwei Zhang, Xiuzhen Zhang, Mark Sanderson	https://doi.org/10.1145/3397271.3401285	Short Research Papers II
+Convolutional Knowledge Tracing: Modeling Individualization in Student Learning Process.	Shuanghong Shen, Qi Liu, Enhong Chen, Han Wu, Zhenya Huang, Weihao Zhao, Yu Su, Haiping Ma, Shijin Wang	https://doi.org/10.1145/3397271.3401288	Short Research Papers II
+G2T: Generating Fluent Descriptions for Knowledge Graph.	Yunzhou Shi, Zhiling Luo, Pengcheng Zhu, Feng Ji, Wei Zhou, Haiqing Chen, Yujiu Yang	https://doi.org/10.1145/3397271.3401289	Short Research Papers II
+Improving Matching Models with Hierarchical Contextualized Representations for Multi-turn Response Selection.	Chongyang Tao, Wei Wu, Yansong Feng, Dongyan Zhao, Rui Yan	https://doi.org/10.1145/3397271.3401290	Short Research Papers II
+Visual Intents vs. Clicks, Likes, and Purchases in E-commerce.	Riku Togashi, Tetsuya Sakai	https://doi.org/10.1145/3397271.3401293	Short Research Papers II
+MVL: Multi-View Learning for News Recommendation.	T. Y. S. S. Santosh, Avirup Saha, Niloy Ganguly	https://doi.org/10.1145/3397271.3401294	Short Research Papers II
+Query/Task Satisfaction and Grid-based Evaluation Metrics Under Different Image Search Intents.	Kosetsu Tsukuda, Masataka Goto	https://doi.org/10.1145/3397271.3401295	Short Research Papers II
+Learning Discriminative Joint Embeddings for Efficient Face and Voice Association.	Rui Wang, Xin Liu, Yiu-ming Cheung, Kai Cheng, Nannan Wang, Wentao Fan	https://doi.org/10.1145/3397271.3401302	Short Research Papers II
+TFNet: Multi-Semantic Feature Interaction for CTR Prediction.	Shu Wu, Feng Yu, Xueli Yu, Qiang Liu, Liang Wang, Tieniu Tan, Jie Shao, Fan Huang	https://doi.org/10.1145/3397271.3401304	Short Research Papers II
+Investigating Reading Behavior in Fine-grained Relevance Judgment.	Zhijing Wu, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma	https://doi.org/10.1145/3397271.3401305	Short Research Papers II
+Neural Hierarchical Factorization Machines for User's Event Sequence Analysis.	Dongbo Xi, Fuzhen Zhuang, Bowen Song, Yongchun Zhu, Shuai Chen, Dan Hong, Tao Chen, Xi Gu, Qing He	https://doi.org/10.1145/3397271.3401307	Short Research Papers II
+Label-Consistency based Graph Neural Networks for Semi-supervised Node Classification.	Bingbing Xu, Junjie Huang, Liang Hou, Huawei Shen, Jinhua Gao, Xueqi Cheng	https://doi.org/10.1145/3397271.3401308	Short Research Papers II
+Symmetric Regularization based BERT for Pair-wise Semantic Reasoning.	Weidi Xu, Xingyi Cheng, Kunlong Chen, Taifeng Wang	https://doi.org/10.1145/3397271.3401309	Short Research Papers II
+Deep Interest with Hierarchical Attention Network for Click-Through Rate Prediction.	Weinan Xu, Hengxu He, Minshi Tan, Yunming Li, Jun Lang, Dongbai Guo	https://doi.org/10.1145/3397271.3401310	Short Research Papers II
+A Knowledge-Enhanced Recommendation Model with Attribute-Level Co-Attention.	Deqing Yang, Zengchun Song, Lvxin Xue, Yanghua Xiao	https://doi.org/10.1145/3397271.3401313	Short Research Papers II
+Multi-source Domain Adaptation for Sentiment Classification with Granger Causal Inference.	Min Yang, Ying Shen, Xiaojun Chen, Chengming Li	https://doi.org/10.1145/3397271.3401314	Short Research Papers II
+TADS: Learning Time-Aware Scheduling Policy with Dyna-Style Planning for Spaced Repetition.	Zhengyu Yang, Jian Shen, Yunfei Liu, Yang Yang, Weinan Zhang, Yong Yu	https://doi.org/10.1145/3397271.3401316	Short Research Papers II
+TAGNN: Target Attentive Graph Neural Networks for Session-based Recommendation.	Feng Yu, Yanqiao Zhu, Qiang Liu, Shu Wu, Liang Wang, Tieniu Tan	https://doi.org/10.1145/3397271.3401319	Short Research Papers II
+Query Classification with Multi-objective Backoff Optimization.	Hang Yu, Lester Litchfield	https://doi.org/10.1145/3397271.3401320	Short Research Papers II
+Influence Function for Unbiased Recommendation.	Jiangxing Yu, Hong Zhu, Chih-Yao Chang, Xinhua Feng, Bo-Wen Yuan, Xiuqiang He, Zhenhua Dong	https://doi.org/10.1145/3397271.3401321	Short Research Papers II
+Few-Shot Generative Conversational Query Rewriting.	Shi Yu, Jiahua Liu, Jingqin Yang, Chenyan Xiong, Paul N. Bennett, Jianfeng Gao, Zhiyuan Liu	https://doi.org/10.1145/3397271.3401323	Short Research Papers II
+User-Inspired Posterior Network for Recommendation Reason Generation.	Haolan Zhan, Hainan Zhang, Hongshen Chen, Lei Shen, Yanyan Lan, Zhuoye Ding, Dawei Yin	https://doi.org/10.1145/3397271.3401324	Short Research Papers II
+An Analysis of BERT in Document Ranking.	Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma	https://doi.org/10.1145/3397271.3401325	Short Research Papers II
+Read, Attend, and Exclude: Multi-Choice Reading Comprehension by Mimicking Human Reasoning Process.	Chenbin Zhang, Congjian Luo, Junyu Lu, Ao Liu, Bing Bai, Kun Bai, Zenglin Xu	https://doi.org/10.1145/3397271.3401326	Short Research Papers II
+SummPip: Unsupervised Multi-Document Summarization with Sentence Graph Compression.	Jinming Zhao, Ming Liu, Longxiang Gao, Yuan Jin, Lan Du, He Zhao, He Zhang, Gholamreza Haffari	https://doi.org/10.1145/3397271.3401327	Short Research Papers II
+Improving Neural Chinese Word Segmentation with Lexicon-enhanced Adaptive Attention.	Xiaoyan Zhao, Min Yang, Qiang Qu, Yang Sun	https://doi.org/10.1145/3397271.3401328	Short Research Papers II
+Sentiment-guided Sequential Recommendation.	Lin Zheng, Naicheng Guo, Weihao Chen, Jin Yu, Dazhi Jiang	https://doi.org/10.1145/3397271.3401330	Short Research Papers II
+L2R²: Leveraging Ranking for Abductive Reasoning.	Yunchang Zhu, Liang Pang, Yanyan Lan, Xueqi Cheng	https://doi.org/10.1145/3397271.3401332	Short Research Papers II
+Automatic Generation of Topic Labels.	Areej Alokaili, Nikolaos Aletras, Mark Stevenson	https://doi.org/10.1145/3397271.3401185	Short Research Papers II
+Extractive Snippet Generation for Arguments.	Milad Alshomary, Nick Düsterhus, Henning Wachsmuth	https://doi.org/10.1145/3397271.3401186	Short Research Papers II
+Proposal and Comparison of Health Specific Features for the Automatic Assessment of Readability.	Hélder Antunes, Carla Teixeira Lopes	https://doi.org/10.1145/3397271.3401187	Short Research Papers II
+MarkedBERT: Integrating Traditional IR Cues in Pre-trained Language Models for Passage Retrieval.	Lila Boualili, José G. Moreno, Mohand Boughanem	https://doi.org/10.1145/3397271.3401194	Short Research Papers II
+Relevance Models for Multi-Contextual Appropriateness in Point-of-Interest Recommendation.	Anirban Chakraborty, Debasis Ganguly, Owen Conlan	https://doi.org/10.1145/3397271.3401197	Short Research Papers II
+CAsT-19: A Dataset for Conversational Information Seeking.	Jeffrey Dalton, Chenyan Xiong, Vaibhav Kumar, Jamie Callan	https://doi.org/10.1145/3397271.3401206	Short Research Papers II
+Predicting Perceptual Speed from Search Behaviour.	Olivia Foulds, Alessandro Suglia, Leif Azzopardi, Martin Halvey	https://doi.org/10.1145/3397271.3401210	Short Research Papers II
+Learning Term Discrimination.	Jibril Frej, Philippe Mulhem, Didier Schwab, Jean-Pierre Chevallet	https://doi.org/10.1145/3397271.3401211	Short Research Papers II
+Sampling Bias Due to Near-Duplicates in Learning to Rank.	Maik Fröbe, Janek Bevendorff, Jan Heinrich Reimer, Martin Potthast, Matthias Hagen	https://doi.org/10.1145/3397271.3401212	Short Research Papers II
+Enhancing Recommendation Diversity using Determinantal Point Processes on Knowledge Graphs.	Lu Gan, Diana Nurbakova, Léa Laporte, Sylvie Calabretto	https://doi.org/10.1145/3397271.3401213	Short Research Papers II
+Relevance Transformer: Generating Concise Code Snippets with Relevance Feedback.	Carlos Gemmell, Federico Rossetto, Jeffrey Dalton	https://doi.org/10.1145/3397271.3401215	Short Research Papers II
+Unsupervised Semantic Hashing with Pairwise Reconstruction.	Casper Hansen, Christian Hansen, Jakob Grue Simonsen, Stephen Alstrup, Christina Lioma	https://doi.org/10.1145/3397271.3401220	Short Research Papers II
+Factuality Checking in News Headlines with Eye Tracking.	Christian Hansen, Casper Hansen, Jakob Grue Simonsen, Birger Larsen, Stephen Alstrup, Christina Lioma	https://doi.org/10.1145/3397271.3401221	Short Research Papers II
+ArTest: The First Test Collection for Arabic Web Search with Relevance Rationales.	Maram Hasanain, Yassmine Barkallah, Reem Suwaileh, Mücahid Kutlu, Tamer Elsayed	https://doi.org/10.1145/3397271.3401223	Short Research Papers II
+Local Self-Attention over Long Text for Efficient Document Retrieval.	Sebastian Hofstätter, Hamed Zamani, Bhaskar Mitra, Nick Craswell, Allan Hanbury	https://doi.org/10.1145/3397271.3401224	Short Research Papers II
+Using Exploration to Alleviate Closed Loop Effects in Recommender Systems.	Amir Hossein Jadidinejad, Craig Macdonald, Iadh Ounis	https://doi.org/10.1145/3397271.3401230	Short Research Papers II
+A Heterogeneous Graph Neural Model for Cold-start Recommendation.	Siwei Liu, Iadh Ounis, Craig Macdonald, Zaiqiao Meng	https://doi.org/10.1145/3397271.3401252	Short Research Papers II
+Query-level Early Exit for Additive Learning-to-Rank Ensembles.	Claudio Lucchese, Franco Maria Nardini, Salvatore Orlando, Raffaele Perego, Salvatore Trani	https://doi.org/10.1145/3397271.3401256	Short Research Papers II
+Segmenting Search Query Logs by Learning to Detect Search Task Boundaries.	Luis Lugo, José G. Moreno, Gilles Hubert	https://doi.org/10.1145/3397271.3401257	Short Research Papers II
+A Multilingual Approach for Unsupervised Search Task Identification.	Luis Lugo, José G. Moreno, Gilles Hubert	https://doi.org/10.1145/3397271.3401258	Short Research Papers II
+Sequential-based Adversarial Optimisation for Personalised Top-N Item Recommendation.	Jarana Manotumruksa, Emine Yilmaz	https://doi.org/10.1145/3397271.3401264	Short Research Papers II
+CrossBERT: A Triplet Neural Architecture for Ranking Entity Properties.	Jarana Manotumruksa, Jeff Dalton, Edgar Meij, Emine Yilmaz	https://doi.org/10.1145/3397271.3401265	Short Research Papers II
+Active Learning Stopping Strategies for Technology-Assisted Sensitivity Review.	Graham McDonald, Craig Macdonald, Iadh Ounis	https://doi.org/10.1145/3397271.3401267	Short Research Papers II
+Topic Propagation in Conversational Search.	Ida Mele, Cristina Ioana Muntean, Franco Maria Nardini, Raffaele Perego, Nicola Tonellotto, Ophir Frieder	https://doi.org/10.1145/3397271.3401268	Short Research Papers II
+Reputation (In)dependence in Ranking Systems: Demographics Influence Over Output Disparities.	Guilherme Ramos, Ludovico Boratto	https://doi.org/10.1145/3397271.3401278	Short Research Papers II
+Do Neural Ranking Models Intensify Gender Bias?	Navid Rekabsaz, Markus Schedl	https://doi.org/10.1145/3397271.3401280	Short Research Papers II
+The Curious Case of IR Explainability: Explaining Document Scores within and across Ranking Models.	Procheta Sen, Debasis Ganguly, Manisha Verma, Gareth J. F. Jones	https://doi.org/10.1145/3397271.3401286	Short Research Papers II
+Fair Classification with Counterfactual Learning.	Maryam Tavakol	https://doi.org/10.1145/3397271.3401291	Short Research Papers II
+Multi-grouping Robust Fair Ranking.	Thibaut Thonet, Jean-Michel Renders	https://doi.org/10.1145/3397271.3401292	Short Research Papers II
+Distilling Knowledge for Fast Retrieval-based Chat-bots.	Amir Vakili Tahami, Kamyar Ghajar, Azadeh Shakery	https://doi.org/10.1145/3397271.3401296	Short Research Papers II
+An Analysis of Mixed Initiative and Collaboration in Information-Seeking Dialogues.	Svitlana Vakulenko, Evangelos Kanoulas, Maarten de Rijke	https://doi.org/10.1145/3397271.3401297	Short Research Papers II
+Cascade Model-based Propensity Estimation for Counterfactual Learning to Rank.	Ali Vardasbi, Maarten de Rijke, Ilya Markov	https://doi.org/10.1145/3397271.3401299	Short Research Papers II
+Studying Ranking-Incentivized Web Dynamics.	Ziv Vasilisky, Moshe Tennenholtz, Oren Kurland	https://doi.org/10.1145/3397271.3401300	Short Research Papers II
+How UMass-FSD Inadvertently Leverages Temporal Bias.	Dominik Wurzer, Yumeng Qin	https://doi.org/10.1145/3397271.3401306	Short Research Papers II
+On the Reliability of Test Collections for Evaluating Systems of Different Types.	Emine Yilmaz, Nick Craswell, Bhaskar Mitra, Daniel Campos	https://doi.org/10.1145/3397271.3401317	Short Research Papers II
+KLOOS: KL Divergence-based Out-of-Scope Intent Detection in Human-to-Machine Conversations.	Eyup Halit Yilmaz, Cagri Toraman	https://doi.org/10.1145/3397271.3401318	Short Research Papers II
+DEXA: Supporting Non-Expert Annotators with Dynamic Examples from Experts.	Markus Zlabinger, Marta Sabou, Sebastian Hofstätter, Mete Sertkan, Allan Hanbury	https://doi.org/10.1145/3397271.3401334	Short Research Papers II
+A Lightweight Environment for Learning Experimental IR Research Practices.	Zeynep Akkalyoncu Yilmaz, Charles L. A. Clarke, Jimmy Lin	https://doi.org/10.1145/3397271.3401395	Demonstration Papers I
+BRENDA: Browser Extension for Fake News Detection.	Bjarte Botnevik, Eirik Sakariassen, Vinay Setty	https://doi.org/10.1145/3397271.3401396	Demonstration Papers I
+Agent Dialogue: A Platform for Conversational Information Seeking Experimentation.	Adam Czyzewski, Jeffrey Dalton, Anton Leuski	https://doi.org/10.1145/3397271.3401397	Demonstration Papers I
+DataMirror: Reflecting on One's Data Self: A Tool for Social Media Users to Explore Their Digital Footprints.	Amal Htait, Leif Azzopardi, Emma Nicol, Wendy Moncur	https://doi.org/10.1145/3397271.3401398	Demonstration Papers I
+Conversational Question Answering over Passages by Leveraging Word Proximity Networks.	Magdalena Kaiser, Rishiraj Saha Roy, Gerhard Weikum	https://doi.org/10.1145/3397271.3401399	Demonstration Papers I
+FigExplorer: A System for Retrieval and Exploration of Figures from Collections of Research Articles.	Saar Kuzi, ChengXiang Zhai, Yin Tian, Haichuan Tang	https://doi.org/10.1145/3397271.3401400	Demonstration Papers I
+APS: An Active PubMed Search System for Technology Assisted Reviews.	Dan Li, Panagiotis Zafeiriadis, Evangelos Kanoulas	https://doi.org/10.1145/3397271.3401401	Demonstration Papers I
+Systematic Review Automation Tools for End-to-End Query Formulation.	Hang Li, Harrisen Scells, Guido Zuccon	https://doi.org/10.1145/3397271.3401402	Demonstration Papers I
+Deep Job Understanding at LinkedIn.	Shan Li, Baoxu Shi, Jaewon Yang, Ji Yan, Shuai Wang, Fei Chen, Qi He	https://doi.org/10.1145/3397271.3401403	Demonstration Papers I
+Supporting Interoperability Between Open-Source Search Engines with the Common Index File Format.	Jimmy Lin, Joel M. Mackenzie, Chris Kamphuis, Craig Macdonald, Antonio Mallia, Michal Siedlaczek, Andrew Trotman, Arjen P. de Vries	https://doi.org/10.1145/3397271.3401404	Demonstration Papers I
+Web of Scholars: A Scholar Knowledge Graph.	Jiaying Liu, Jing Ren, Wenqing Zheng, Lianhua Chi, Ivan Lee, Feng Xia	https://doi.org/10.1145/3397271.3401405	Demonstration Papers I
+SPot: A Tool for Identifying Operating Segments in Financial Tables.	Zhiqiang Ma, Steven Pomerville, Mingyang Di, Armineh Nourbakhsh	https://doi.org/10.1145/3397271.3401406	Demonstration Papers II
+Receptor: A Platform for Exploring Latent Relations in Sensitive Documents.	Hitarth Narvala, Graham McDonald, Iadh Ounis	https://doi.org/10.1145/3397271.3401407	Demonstration Papers II
+FactCatch: Incremental Pay-as-You-Go Fact Checking with Minimal User Effort.	Thanh Tam Nguyen, Matthias Weidlich, Hongzhi Yin, Bolong Zheng, Quang Huy Nguyen, Quoc Viet Hung Nguyen	https://doi.org/10.1145/3397271.3401408	Demonstration Papers II
+WIRE: An Automated Report Generation System using Topical and Temporal Summarization.	Yunseok Noh, Yongmin Shin, Junmo Park, A.-Yeong Kim, Su-Jeong Choi, Hyun-Je Song, Seong-Bae Park, Se-Young Park	https://doi.org/10.1145/3397271.3401409	Demonstration Papers II
+Experimaestro and Datamaestro: Experiment and Dataset Managers (for IR).	Benjamin Piwowarski	https://doi.org/10.1145/3397271.3401410	Demonstration Papers II
+QuAChIE: Question Answering based Chinese Information Extraction System.	Dongyu Ru, Zhenghui Wang, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang, Yong Yu	https://doi.org/10.1145/3397271.3401411	Demonstration Papers II
+Vis-Trec: A System for the In-depth Analysis of trec_eval Results.	Mahtab Tamannaee, Negar Arabzadeh, Ebrahim Bagheri	https://doi.org/10.1145/3397271.3401412	Demonstration Papers II
+JASSjr: The Minimalistic BM25 Search Engine for Teaching and Learning Information Retrieval.	Andrew Trotman, Kat Lilly	https://doi.org/10.1145/3397271.3401413	Demonstration Papers II
+ServiceGroup: A Human-Machine Cooperation Solution for Group Chat Customer Service.	Minghui Yang, Hengbin Cui, Shaosheng Cao, Yafang Wang, Xiaolong Li	https://doi.org/10.1145/3397271.3401414	Demonstration Papers II
+Macaw: An Extensible Conversational Information Seeking Platform.	Hamed Zamani, Nick Craswell	https://doi.org/10.1145/3397271.3401415	Demonstration Papers II
+REL: An Entity Linker Standing on the Shoulders of Giants.	Johannes M. van Hulst, Faegheh Hasibi, Koen Dercksen, Krisztian Balog, Arjen P. de Vries	https://doi.org/10.1145/3397271.3401416	Demonstration Papers II
+GMCM: Graph-based Micro-behavior Conversion Model for Post-click Conversion Rate Estimation.	Wentian Bao, Hong Wen, Sha Li, Xiao-Yang Liu, Quan Lin, Keping Yang	https://doi.org/10.1145/3397271.3401425	Industry (SIRIP) Papers I
+A Heterogeneous Information Network based Cross Domain Insurance Recommendation System for Cold Start Users.	Ye Bi, Liqiang Song, Mengqiu Yao, Zhenyu Wu, Jianming Wang, Jing Xiao	https://doi.org/10.1145/3397271.3401426	Industry (SIRIP) Papers I
+Knowledge Graph-based Event Embedding Framework for Financial Quantitative Investments.	Dawei Cheng, Fangzhou Yang, Xiaoyang Wang, Ying Zhang, Liqing Zhang	https://doi.org/10.1145/3397271.3401427	Industry (SIRIP) Papers I
+ATBRG: Adaptive Target-Behavior Relational Graph Network for Effective Recommendation.	Yufei Feng, Binbin Hu, Fuyu Lv, Qingwen Liu, Zhiqiang Zhang, Wenwu Ou	https://doi.org/10.1145/3397271.3401428	Industry (SIRIP) Papers I
+Be Aware of the Hot Zone: A Warning System of Hazard Area Prediction to Intervene Novel Coronavirus COVID-19 Outbreak.	Zhenxin Fu, Yu Wu, Hailei Zhang, Yichuan Hu, Dongyan Zhao, Rui Yan	https://doi.org/10.1145/3397271.3401429	Industry (SIRIP) Papers I
+FashionBERT: Text and Image Matching with Adaptive Loss for Cross-modal Retrieval.	Dehong Gao, Linbo Jin, Ben Chen, Minghui Qiu, Peng Li, Yi Wei, Yi Hu, Hao Wang	https://doi.org/10.1145/3397271.3401430	Industry (SIRIP) Papers I
+Understanding Echo Chambers in E-commerce Recommender Systems.	Yingqiang Ge, Shuya Zhao, Honglu Zhou, Changhua Pei, Fei Sun, Wenwu Ou, Yongfeng Zhang	https://doi.org/10.1145/3397271.3401431	Industry (SIRIP) Papers I
+Efficient and Effective Query Auto-Completion.	Simon Gog, Giulio Ermanno Pibiri, Rossano Venturini	https://doi.org/10.1145/3397271.3401432	Industry (SIRIP) Papers I
+Efficient Image Gallery Representations at Scale Through Multi-Task Learning.	Benjamin Gutelman, Pavel Levin	https://doi.org/10.1145/3397271.3401433	Industry (SIRIP) Papers I
+A Counterfactual Framework for Seller-Side A/B Testing on Marketplaces.	Viet Ha-Thuc, Avishek Dutta, Ren Mao, Matthew Wood, Yunli Liu	https://doi.org/10.1145/3397271.3401434	Industry (SIRIP) Papers I
+Think Beyond the Word: Understanding the Implied Textual Meaning by Digesting Context, Local, and Noise.	Guoxiu He, Zhe Gao, Zhuoren Jiang, Yangyang Kang, Changlong Sun, Xiaozhong Liu, Wei Lu	https://doi.org/10.1145/3397271.3401435	Industry (SIRIP) Papers I
+Automated Embedding Size Search in Deep Recommender Systems.	Haochen Liu, Xiangyu Zhao, Chong Wang, Xiaobing Liu, Jiliang Tang	https://doi.org/10.1145/3397271.3401436	Industry (SIRIP) Papers II
+Network On Network for Tabular Data Classification in Real-world Applications.	Yuanfei Luo, Hao Zhou, Wei-Wei Tu, Yuqiang Chen, Wenyuan Dai, Qiang Yang	https://doi.org/10.1145/3397271.3401437	Industry (SIRIP) Papers II
+Item Tagging for Information Retrieval: A Tripartite Graph Neural Network based Approach.	Kelong Mao, Xi Xiao, Jieming Zhu, Biao Lu, Ruiming Tang, Xiuqiang He	https://doi.org/10.1145/3397271.3401438	Industry (SIRIP) Papers II
+Large Scale Abstractive Multi-Review Summarization (LSARS) via Aspect Alignment.	Haojie Pan, Rongqin Yang, Xin Zhou, Rui Wang, Deng Cai, Xiaozhong Liu	https://doi.org/10.1145/3397271.3401439	Industry (SIRIP) Papers II
+User Behavior Retrieval for Click-Through Rate Prediction.	Jiarui Qin, Weinan Zhang, Xin Wu, Jiarui Jin, Yuchen Fang, Yong Yu	https://doi.org/10.1145/3397271.3401440	Industry (SIRIP) Papers II
+Identifying Tasks from Mobile App Usage Patterns.	Yuan Tian, Ke Zhou, Mounia Lalmas, Dan Pelleg	https://doi.org/10.1145/3397271.3401441	Industry (SIRIP) Papers II
+Robust Layout-aware IE for Visually Rich Documents with Pre-trained Language Models.	Mengxi Wei, Yifan He, Qiong Zhang	https://doi.org/10.1145/3397271.3401442	Industry (SIRIP) Papers II
+Entire Space Multi-Task Modeling via Post-Click Behavior Decomposition for Conversion Rate Prediction.	Hong Wen, Jing Zhang, Yuan Wang, Fuyu Lv, Wentian Bao, Quan Lin, Keping Yang	https://doi.org/10.1145/3397271.3401443	Industry (SIRIP) Papers II
+How Airbnb Tells You Will Enjoy Sunset Sailing in Barcelona? Recommendation in a Two-Sided Travel Marketplace.	Liang Wu, Mihajlo Grbovic	https://doi.org/10.1145/3397271.3401444	Industry (SIRIP) Papers II
+Multiplex Behavioral Relation Learning for Recommendation via Memory Augmented Transformer Network.	Lianghao Xia, Chao Huang, Yong Xu, Peng Dai, Bo Zhang, Liefeng Bo	https://doi.org/10.1145/3397271.3401445	Industry (SIRIP) Papers II
+Towards Personalized and Semantic Retrieval: An End-to-End Solution for E-commerce Search via Embedding Learning.	Han Zhang, Songlin Wang, Kang Zhang, Zhiling Tang, Yunjiang Jiang, Yun Xiao, Weipeng Yan, Wenyun Yang	https://doi.org/10.1145/3397271.3401446	Industry (SIRIP) Papers II
+Searching the Web for Cross-lingual Parallel Data.	Ahmed El-Kishky, Philipp Koehn, Holger Schwenk	https://doi.org/10.1145/3397271.3401417	Tutorials
+Recent Advances in Conversational Information Retrieval.	Jianfeng Gao, Chenyan Xiong, Paul Bennett	https://doi.org/10.1145/3397271.3401418	Tutorials
+Conversational Recommendation: Formulation, Methods, and Evaluation.	Wenqiang Lei, Xiangnan He, Maarten de Rijke, Tat-Seng Chua	https://doi.org/10.1145/3397271.3401419	Tutorials
+Reciprocal Recommendation: Matching Users with the Right Users.	Iván Palomares	https://doi.org/10.1145/3397271.3401420	Tutorials
+Question Answering over Curated and Open Web Sources.	Rishiraj Saha Roy, Avishek Anand	https://doi.org/10.1145/3397271.3401421	Tutorials
+Tutorial on Task-Based Search and Assistance.	Chirag Shah, Ryen W. White	https://doi.org/10.1145/3397271.3401422	Tutorials
+Modeling User Behavior for Vertical Search: Images, Apps and Products.	Xiaohui Xie, Jiaxin Mao, Yiqun Liu, Maarten de Rijke	https://doi.org/10.1145/3397271.3401423	Tutorials
+Interactive Information Retrieval: Models, Algorithms, and Evaluation.	ChengXiang Zhai	https://doi.org/10.1145/3397271.3401424	Tutorials
+AIIS: The SIGIR 2020 Workshop on Applied Interactive Information Systems.	Hongshen Chen, Zhaochun Ren, Pengjie Ren, Dawei Yin, Xiaodong He	https://doi.org/10.1145/3397271.3401461	Workshops
+FinIR 2020: The First Workshop on Information Retrieval in Finance.	Fuli Feng, Cheng Luo, Xiangnan He, Yiqun Liu, Tat-Seng Chua	https://doi.org/10.1145/3397271.3401462	Workshops
+BIRDS - Bridging the Gap between Information Science, Information Retrieval and Data Science.	Ingo Frommholz, Haiming Liu, Massimo Melucci	https://doi.org/10.1145/3397271.3401463	Workshops
+ECOM'20: The SIGIR 2020 Workshop on eCommerce.	Dietmar Jannach, Surya Kallumadi, Tracy Holloway King, Weihua Luo, Shervin Malmasi	https://doi.org/10.1145/3397271.3401464	Workshops
+Deep Natural Language Processing for Search and Recommendation.	Bo Long, Jieping Ye, Zang Li, Huiji Gao, Sandeep Kumar Jha	https://doi.org/10.1145/3397271.3401465	Workshops
+Legal Intelligence: Algorithmic, Data, and Social Challenges.	Changlong Sun, Yating Zhang, Xiaozhong Liu, Fei Wu	https://doi.org/10.1145/3397271.3401466	Workshops
+Deep Reinforcement Learning for Information Retrieval: Fundamentals and Advances.	Weinan Zhang, Xiangyu Zhao, Li Zhao, Dawei Yin, Grace Hui Yang, Alex Beutel	https://doi.org/10.1145/3397271.3401467	Workshops
+EARS 2020: The 3rd International Workshop on ExplainAble Recommendation and Search.	Yongfeng Zhang, Xu Chen, Yi Zhang, Min Zhang, Chirag Shah	https://doi.org/10.1145/3397271.3401468	Workshops
+Language Agnostic Hate Speech Detection.	Aymé Arango	https://doi.org/10.1145/3397271.3401447	Doctoral Consortium
+Legal Data Analytics: Developing Assistive Tools for Legal Practitioners.	Paheli Bhattacharya	https://doi.org/10.1145/3397271.3401448	Doctoral Consortium
+Multi-Document Answer Generation for Non-Factoid Questions.	Valeriya Baranova-Bolotova	https://doi.org/10.1145/3397271.3401449	Doctoral Consortium
+Spatio-temporal Conditioned Language Models.	Juglar Diaz	https://doi.org/10.1145/3397271.3401450	Doctoral Consortium
+Explaining Recommendations in Heterogeneous Networks.	Azin Ghazimatin	https://doi.org/10.1145/3397271.3401451	Doctoral Consortium
+When the Human is in the Loop: Cost, Effort and Behavior.	Lei Han	https://doi.org/10.1145/3397271.3401452	Doctoral Consortium
+End-to-End Contextualized Document Indexing and Retrieval with Neural Networks.	Sebastian Hofstätter	https://doi.org/10.1145/3397271.3401453	Doctoral Consortium
+Incorporating User Feedback in Conversational Question Answering over Heterogeneous Web Sources.	Magdalena Kaiser	https://doi.org/10.1145/3397271.3401454	Doctoral Consortium
+User Modeling Towards Stateful Learning to Rank.	Yanpeng Lin	https://doi.org/10.1145/3397271.3401455	Doctoral Consortium
+Enhancing Graph Neural Networks for Recommender Systems.	Siwei Liu	https://doi.org/10.1145/3397271.3401456	Doctoral Consortium
+Towards Legal Case Retrieval.	Yunqiu Shao	https://doi.org/10.1145/3397271.3401457	Doctoral Consortium
+Biomedical Information Retrieval incorporating Knowledge Graph for Explainable Precision Medicine.	Zuoxi Yang	https://doi.org/10.1145/3397271.3401458	Doctoral Consortium
+Towards Evaluating Veracity of Textual Statements on the Web.	Qiang Zhang	https://doi.org/10.1145/3397271.3401459	Doctoral Consortium
+Bridging East and West: An Integration of TCM and Western Medicine in Medical Text Mining.	Runjie Zhu	https://doi.org/10.1145/3397271.3401460	Doctoral Consortium
