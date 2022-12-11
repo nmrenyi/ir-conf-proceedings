@@ -3,6 +3,8 @@
 *.mkd
 *.md
 *.tsv
+!data/tsv/*.tsv
+!data/md/*.md
 
 # macOS
 .DS_Store
